@@ -1,0 +1,22 @@
+# Neurotransmitters in Neural Circuits and Neurological Diseases.
+
+**DOI:** 10.1021/acschemneuro.5c00426
+**Journal:** ACS chemical neuroscience
+**Date:** 2025-09-17
+**Authors:** ['AmirGholami', 'KeywanMortezaee']
+**Category:** adhd
+**Source:** pubmed
+**Scraped by:** agent_a
+**Scraped at:** 2025-10-21T11:01:43.268182
+**Source URL:** https://pubmed.ncbi.nlm.nih.gov/?term=10.1021/acschemneuro.5c00426
+
+## Abstract
+
+Movement and behavioral disturbances occur due to imbalances in neurotransmitter receptor/ligand activities and manifest in the form of basal ganglia- and limbic-related diseases. Diseases in the two systems are all characterized, but there are still complexities and controversies regarding the implication of neural circuits in the pathophysiology of neurological diseases. Thus, we aimed to illustrate the mechanistic backbone of neurotransmitter activities in neural circuits for the sake of better clarification of such diseases and their possible application as a map for the development of new drugs or novel treatment modalities, particularly considering the overlapping circuits for some disorders. The neural circuits unveil hypoactivity of the mesostriatal pathway as a key characteristic of Parkinson's disease (PD), while disturbances in mesocortical and mesolimbic circuits define schizophrenia pathophysiology. Medium spiny neurons (MSNs) within the striatum take direct and indirect neuronal pathways and express D1 and D2 receptors to finally stimulate the cortical activity. Selective neuronal loss in the striatal indirect pathway defines Huntington's disease (HD). HD and hemiballismus (HB) display subthalamus nucleus (STN) deactivation and the subsequent removal of the subthalamus stimulatory effect on the pallidum. Attention-deficit hyperactivity disorder (ADHD) evolves due to dysregulations in prefrontal cortex (PFC)-related dopaminergic, norepinephrine (NE), and acetylcholine (Ach) neurons and in the PFC control over amygdala (misery-feeling; low serotonin and imbalanced gamma-aminobutyric acid [GABA]-glutamate [Glu]), with the latter also accountng for increasing fear response in chronic stress and post-traumatic stress disorder (PTSD) and evolving depression phase in bipolar disorder (BD). Defects in the reward-seeking (accumbens) are involved in the BD manic phase.
+
+## Full Text Content
+
+Abstract AbstractMovement and behavioral disturbances occur due to imbalances in neurotransmitter receptor/ligand activities and manifest in the form of basal ganglia- and limbic-related diseases. Diseases in the two systems are all characterized, but there are still complexities and controversies regarding the implication of neural circuits in the pathophysiology of neurological diseases. Thus, we aimed to illustrate the mechanistic backbone of neurotransmitter activities in neural circuits for the sake of better clarification of such diseases and their possible application as a map for the development of new drugs or novel treatment modalities, particularly considering the overlapping circuits for some disorders. The neural circuits unveil hypoactivity of the mesostriatal pathway as a key characteristic of Parkinson's disease (PD), while disturbances in mesocortical and mesolimbic circuits define schizophrenia pathophysiology. Medium spiny neurons (MSNs) within the striatum take direct and indirect neuronal pathways and express D1 and D2 receptors to finally stimulate the cortical activity. Selective neuronal loss in the striatal indirect pathway defines Huntington's disease (HD). HD and hemiballismus (HB) display subthalamus nucleus (STN) deactivation and the subsequent removal of the subthalamus stimulatory effect on the pallidum. Attention-deficit hyperactivity disorder (ADHD) evolves due to dysregulations in prefrontal cortex (PFC)-related dopaminergic, norepinephrine (NE), and acetylcholine (Ach) neurons and in the PFC control over amygdala (misery-feeling; low serotonin and imbalanced gamma-aminobutyric acid [GABA]-glutamate [Glu]), with the latter also accountng for increasing fear response in chronic stress and post-traumatic stress disorder (PTSD) and evolving depression phase in bipolar disorder (BD). Defects in the reward-seeking (accumbens) are involved in the BD manic phase.Keywords:amygdala; deep brain stimulation (DBS); dopamine; gamma-aminobutyric acid (GABA); glutamate (Glu); limbic; prefrontal cortex (PFC).
+
+---
+*This content was automatically scraped by Webscraping Agent A*
