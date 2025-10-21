@@ -1,0 +1,185 @@
+collection:
+  name: "Neurodevelopmental Disorders Knowledge Base"
+  description: "Comprehensive resource for ADHD, ASD, and Tourette Syndrome - research papers, patient guides, and support resources"
+  version: "1.0"
+  created: "2025-10-21"
+  
+metadata_mapping:
+  title: title
+  description: abstract  # for research papers, summary for guides
+  tags: [conditions, topics, keywords, search_tags]
+  content_type: content_type
+  audience: audience
+  reading_level: reading_level
+  patient_friendly: patient_friendly
+  search_priority: search_priority
+
+search_config:
+  indexed_fields:
+    - title (weight: 3)
+    - keywords (weight: 2.5)
+    - search_tags (weight: 2)
+    - topics (weight: 1.5)
+    - content (weight: 1)
+    - abstract (weight: 1.5)
+  
+  filters:
+    - content_type
+    - conditions
+    - topics
+    - audience
+    - reading_level
+    - patient_friendly
+  
+  search_optimization:
+    enable_semantic_search: true
+    enable_keyword_search: true
+    enable_fuzzy_search: true
+    boost_patient_content: true
+    boost_recent_content: true
+
+display_templates:
+  research_paper:
+    show: [title, authors, publication_year, abstract, key_findings]
+    format: "Academic paper with full citation information"
+    priority: standard
+  
+  patient_guide:
+    show: [title, reading_time, quick_facts, key_takeaways]
+    format: "Patient-friendly guide with practical information"
+    priority: high
+  
+  support_resource:
+    show: [title, key_strategies, practical_tips]
+    format: "Practical resource with actionable strategies"
+    priority: high
+  
+  search_guide:
+    show: [title, search_tips, quick_links]
+    format: "Navigation and search assistance"
+    priority: high
+
+navigation:
+  primary_paths:
+    - name: "By Condition"
+      path: "conditions/"
+      description: "Browse by Tourette, ADHD, or ASD"
+    
+    - name: "By Topic"
+      path: "topics/"
+      description: "Browse by biology, treatment, or support"
+    
+    - name: "Patient Journey"
+      path: "journey/"
+      description: "From diagnosis to daily management"
+    
+    - name: "For Patients"
+      path: "patient-guides/"
+      description: "Easy-to-understand guides and explanations"
+    
+    - name: "For Professionals"
+      path: "research/"
+      description: "Academic papers and clinical research"
+    
+    - name: "Support Resources"
+      path: "support/"
+      description: "Practical help for daily life"
+
+user_experience:
+  default_search_mode: "patient_friendly"
+  show_reading_level: true
+  show_content_type: true
+  enable_related_content: true
+  enable_cross_references: true
+  
+  search_suggestions:
+    - "Why do I have tics?"
+    - "ADHD medication options"
+    - "Managing tics in public"
+    - "What is CBIT therapy?"
+    - "Dopamine and Tourette syndrome"
+    - "Workplace accommodations"
+    - "Family support strategies"
+    - "School accommodations"
+
+content_organization:
+  folder_structure:
+    research: "Academic papers and clinical studies"
+    patient_guides: "Patient-friendly explanations and guides"
+    support: "Practical coping strategies and daily living tips"
+    meta: "Index files, search guides, and navigation"
+  
+  content_hierarchy:
+    level_1: "Main topics (research, guides, support)"
+    level_2: "Subtopics (tourette, adhd, biology, etc.)"
+    level_3: "Specific documents and resources"
+  
+  cross_referencing:
+    enable_related_content: true
+    show_source_papers: true
+    show_related_guides: true
+    show_support_resources: true
+
+quality_assurance:
+  content_review:
+    medical_accuracy: "Reviewed for scientific accuracy"
+    patient_language: "Written in accessible language"
+    sensitivity_review: "Respectful and empowering tone"
+    citation_verification: "All claims properly cited"
+  
+  update_schedule:
+    research_papers: "Monthly review for new publications"
+    patient_guides: "Quarterly review for accuracy and relevance"
+    support_resources: "Updated as needed based on user feedback"
+    metadata: "Updated with each content change"
+
+accessibility:
+  reading_levels:
+    accessible: "8th-10th grade reading level"
+    technical: "High school to college level"
+    academic: "Graduate level and professional"
+  
+  formats:
+    markdown: "Primary format for all content"
+    yaml_metadata: "Structured metadata for search and organization"
+    cross_references: "Internal links between related content"
+  
+  features:
+    table_of_contents: "Available for longer documents"
+    quick_facts: "Key information highlighted in boxes"
+    glossary: "Medical terms explained in simple language"
+    related_content: "Links to related guides and resources"
+
+integration:
+  openwebui_features:
+    semantic_search: "Full semantic search capabilities"
+    keyword_search: "Traditional keyword-based search"
+    filtering: "Filter by content type, condition, audience"
+    ranking: "Patient-friendly content prioritized"
+  
+  export_options:
+    markdown: "Full markdown export"
+    pdf: "PDF generation for offline reading"
+    structured_data: "JSON/YAML export for integration"
+  
+  api_access:
+    search_api: "Programmatic search access"
+    metadata_api: "Access to structured metadata"
+    content_api: "Access to full content"
+
+maintenance:
+  monitoring:
+    broken_links: "Automated link checking"
+    metadata_completeness: "Validation of required fields"
+    content_freshness: "Tracking of last update dates"
+    user_feedback: "Collection and analysis of user input"
+  
+  backup:
+    version_control: "Git-based version tracking"
+    content_backup: "Regular backups of all content"
+    metadata_backup: "Separate backup of search indexes"
+  
+  scaling:
+    content_expansion: "Framework for adding new content"
+    search_optimization: "Continuous improvement of search relevance"
+    user_interface: "Adaptive UI based on user needs"

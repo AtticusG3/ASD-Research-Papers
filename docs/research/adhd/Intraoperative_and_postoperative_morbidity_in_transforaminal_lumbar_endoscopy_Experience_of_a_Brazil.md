@@ -1,0 +1,64 @@
+---
+acquisition_date: '2025-10-21T16:20:54.208970'
+acquisition_method: paperscraper_automated
+audience:
+- professional
+- researcher
+authors: '[''ReinaldoRodrigues Pamplona'', ''Vinicius SantosSantos Baptista'']'
+conditions:
+- tourette_syndrome
+content_type: research_paper
+doi: 10.25259/SNI_585_2025
+journal: Surgical neurology international
+keywords:
+- tourette_syndrome
+- growth_hormones
+- adhd
+- pubmed
+patient_friendly: false
+primary_category: adhd
+publication_date: '2025-10-20'
+reading_level: academic
+search_priority: standard
+search_query: ADD
+search_tags:
+- tourette_syndrome
+- growth_hormones
+- adhd
+- pubmed
+- research
+- academic
+source: PUBMED via Paperscraper
+title: 'Intraoperative and postoperative morbidity in transforaminal lumbar endoscopy:
+  Experience of a Brazilian center with 35 consecutive cases.'
+topics:
+- tourette_syndrome
+- growth_hormones
+type: research_paper
+---
+
+# Intraoperative and postoperative morbidity in transforaminal lumbar endoscopy: Experience of a Brazilian center with 35 consecutive cases.
+
+**Authors:** ['ReinaldoRodrigues Pamplona', 'Vinicius SantosSantos Baptista']
+
+**Journal:** Surgical neurology international
+
+**Publication Date:** 2025-10-20
+
+**DOI:** 10.25259/SNI_585_2025
+
+## Abstract
+
+Transforaminal endoscopic lumbar discectomy (TELD) has emerged as a minimally invasive alternative for treating lumbar degenerative conditions. However, real-world data from middle-income countries remain scarce, particularly regarding intraoperative and postoperative morbidity. This retrospective study included 35 consecutive patients who underwent lumbar endoscopic discectomy exclusively through the transforaminal approach between 2021 and 2024. Data collected included demographic characteristics, operated levels, operative time, intraoperative complications, postoperative complications, and pain scores using the visual analog scale (VAS). Patients were followed for up to 2 years. The mean patient age was 52.9 years, and 65.7% were female. The most commonly operated levels were L4-L5 and L4-L5-S1. Mean operative time was 117.4 min. No intraoperative complications such as dural tears or nerve root injuries were observed. Four patients (11.4%) developed postoperative paresthesia, which resolved spontaneously; no infections, epidural hematomas, or reoperations occurred. VAS scores significantly improved from a mean of 9.02 preoperatively to 3.2 postoperatively ( TELD is a safe and effective minimally invasive technique, associated with low morbidity and significant pain reduction. These results support the feasibility of its application in healthcare systems with limited resources and add valuable data to the global literature on endoscopic spine surgery.
+
+---
+
+## Research Details
+
+**Source:** PUBMED
+**Category:** adhd
+**Primary Topics:** tourette_syndrome, growth_hormones
+**Search Query:** ADD
+**Acquisition Date:** 2025-10-21
+
+*This paper was automatically acquired and processed for the neurodevelopmental disorders knowledge base.*

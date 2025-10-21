@@ -1,0 +1,69 @@
+---
+abstract_fix_date: '2025-10-21T17:30:41.370991'
+abstract_fixed: true
+acquisition_date: '2025-10-21T16:20:53.953584'
+acquisition_method: paperscraper_automated
+audience:
+- professional
+- researcher
+authors: '[''Theresa VHeinen'', ''JuliaSchmidgen'', ''TheresaPaul'', ''LukasHensel'',
+  ''Gereon RFink'', ''Lukas JVolz'', ''ChristianGrefkes'', ''StephanBender'', ''KerstinKonrad'']'
+conditions:
+- tourette_syndrome
+content_type: research_paper
+doi: 10.1093/braincomms/fcaf260
+journal: Brain communications
+keywords:
+- tourette_syndrome
+- growth_hormones
+- pharmacological
+- tourette_syndrome
+- pubmed
+patient_friendly: false
+primary_category: tourette
+publication_date: '2025-07-17'
+reading_level: academic
+search_priority: standard
+search_query: chronic tic
+search_tags:
+- tourette_syndrome
+- growth_hormones
+- pharmacological
+- tourette_syndrome
+- pubmed
+- research
+- academic
+source: PUBMED via Paperscraper
+title: Motor network organization in healthy development and chronic tic disorders.
+topics:
+- tourette_syndrome
+- growth_hormones
+- pharmacological
+type: research_paper
+---
+
+# Motor network organization in healthy development and chronic tic disorders.
+
+**Authors:** ['Theresa VHeinen', 'JuliaSchmidgen', 'TheresaPaul', 'LukasHensel', 'Gereon RFink', 'Lukas JVolz', 'ChristianGrefkes', 'StephanBender', 'KerstinKonrad']
+
+**Journal:** Brain communications
+
+**Publication Date:** 2025-07-17
+
+**DOI:** 10.1093/braincomms/fcaf260
+
+## Abstract
+
+Tic disorders (TD) are childhood-onset neurodevelopmental disorders characterized by sudden, repetitive motor and vocal tics, often with partial or complete remission by the time young adulthood is reached. We here investigated motor control and compensatory neural processes in drug-naïve children and adolescents with chronic Motor Tic Disorder or Tourette Syndrome (TD) by examining motor network activity and connectivity compared to healthy controls. Using a reaction time (RT) task under varying cueing conditions, combined with functional magnetic resonance imaging (fMRI) and dynamic causal modelling (DCM), we explored how TD-related motor networks adapt to support volitional movement control. Participants with TD demonstrated enhanced task accuracy across internally and externally cued conditions despite deficits in sustained motor inhibition (blink suppression). Relative to controls, individuals with TD exhibited increased task-related activation in ipsilateral motor regions, particularly in the primary motor cortex, and somatosensory cortex, and enhanced interhemispheric connectivity between parietal sensory-motor hubs. Notably, while in typically developing participants, age-related increases in parietal lobe activation and modulatory connectivity between primary motor and premotor regions were linked to improved task accuracy, working memory and visuomotor coordination, TD patients deviated from this normative developmental trajectory with distinct, atypical but neither delayed nor accelerated neural activation and connectivity patterns. Our data suggest that TD involves compensatory neuroplastic adaptations that leverage additional sensorimotor resources to improve motor control but do not extend to motor inhibition processes. Moreover, the findings emphasize the intricate interplay between motor control and neural plasticity in TD, highlighting how compensatory mechanisms may serve as adaptive responses to motor challenges. These findings open avenues for therapeutic strategies that harness the brain's compensatory capacities to enhance motor control and facilitate TD management.
+
+---
+
+## Research Details
+
+**Source:** PUBMED
+**Category:** tourette_syndrome
+**Primary Topics:** tourette_syndrome, growth_hormones, pharmacological
+**Search Query:** chronic tic
+**Acquisition Date:** 2025-10-21
+
+*This paper was automatically acquired and processed for the neurodevelopmental disorders knowledge base.*

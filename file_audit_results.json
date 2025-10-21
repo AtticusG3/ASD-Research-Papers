@@ -1,0 +1,1847 @@
+{
+  "audit_date": "2025-10-21T19:04:50.641573",
+  "html_files": {
+    "A National Profile of Tourette Syndrome, 2011–2012 - PMC.html": {
+      "original_path": "A National Profile of Tourette Syndrome, 2011–2012 - PMC.html",
+      "file_size": 175433,
+      "file_hash": "c3e0fd47a37f05c942d7a17d5f7770a8",
+      "last_modified": "2025-10-21T15:34:34.836660",
+      "matching_markdown": "docs\\research\\comorbidity\\A National Profile of Tourette Syndrome, 2011–2012 - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.315769",
+        "document_type": "review",
+        "filename": "A National Profile of Tourette Syndrome, 2011–2012 - PMC",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2011",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "cross_sectional",
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "cross_sectional",
+        "title": "A National Profile of Tourette Syndrome, 2011–2012",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "All that glitters is not gold_ When motor and vocal tics in a child do not match Tourette syndrome_ A case report - PMC.html": {
+      "original_path": "All that glitters is not gold_ When motor and vocal tics in a child do not match Tourette syndrome_ A case report - PMC.html",
+      "file_size": 114686,
+      "file_hash": "fd7c844c40e792b8344c686ce2d7db77",
+      "last_modified": "2025-10-21T15:32:58.268864",
+      "matching_markdown": "docs\\research\\comorbidity\\All that glitters is not gold_ When motor and vocal tics in a child do not match Tourette syndrome_ A case report - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.320773",
+        "document_type": "case_study",
+        "filename": "All that glitters is not gold_ When motor and vocal tics in a child do not match Tourette syndrome_ A case report - PMC",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine",
+          "glutamate_gaba"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2016",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "mental_health",
+          "children",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "glutamate_gaba",
+          "growth_hormones",
+          "case_study",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "case_study",
+        "title": "All that glitters is not gold: When motor and vocal tics in a child do not match Tourette syndrome: A case report",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "CBIT for Practitioners - Tourette Association of America.html": {
+      "original_path": "CBIT for Practitioners - Tourette Association of America.html",
+      "file_size": 468647,
+      "file_hash": "e3e3a14fa20135845bd0f3c1ceb945a8",
+      "last_modified": "2025-10-21T15:30:16.771154",
+      "matching_markdown": "docs\\research\\comorbidity\\CBIT for Practitioners - Tourette Association of America.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.326779",
+        "document_type": "treatment_guide",
+        "filename": "CBIT for Practitioners - Tourette Association of America",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2026",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "psychotherapy",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "CBIT for Practitioners",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "CBIT, HRT, habit reversal therapy, behavior therapy.html": {
+      "original_path": "CBIT, HRT, habit reversal therapy, behavior therapy.html",
+      "file_size": 456569,
+      "file_hash": "441db0823d30f7bcf5b06f84556bea60",
+      "last_modified": "2025-10-21T15:30:20.774748",
+      "matching_markdown": "docs\\research\\comorbidity\\CBIT, HRT, habit reversal therapy, behavior therapy.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.332784",
+        "document_type": "treatment_guide",
+        "filename": "CBIT, HRT, habit reversal therapy, behavior therapy",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2026",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "growth_hormones",
+          "cross_sectional",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "cross_sectional",
+        "title": "Comprehensive Behavioral Intervention for Tics (CBIT): Overview",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "CBIT_ Information for Patients - Tourette Association of America.html": {
+      "original_path": "CBIT_ Information for Patients - Tourette Association of America.html",
+      "file_size": 463841,
+      "file_hash": "f8dbc31776c3e38f40ce8c13bb170534",
+      "last_modified": "2025-10-21T15:30:12.301436",
+      "matching_markdown": "docs\\research\\comorbidity\\CBIT_ Information for Patients - Tourette Association of America.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.339791",
+        "document_type": "treatment_guide",
+        "filename": "CBIT_ Information for Patients - Tourette Association of America",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2026",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "cross_sectional",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "cross_sectional",
+        "title": "CBIT: Information for Patients",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome - PMC.html": {
+      "original_path": "Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome - PMC.html",
+      "file_size": 204849,
+      "file_hash": "046b262f5cbee5431dabc845f8aa154c",
+      "last_modified": "2025-10-21T15:35:31.188648",
+      "matching_markdown": "docs\\research\\comorbidity\\Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.345796",
+        "document_type": "case_study",
+        "filename": "Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome - PMC",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "glutamate_gaba"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2019",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "glutamate_gaba",
+          "cortisol_stress",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Emerging therapies and recent advances for Tourette syndrome - PMC.html": {
+      "original_path": "Emerging therapies and recent advances for Tourette syndrome - PMC.html",
+      "file_size": 296698,
+      "file_hash": "4bf5c58d5f9c20a983089f5300db815a",
+      "last_modified": "2025-10-21T15:30:54.949581",
+      "matching_markdown": "docs\\research\\comorbidity\\Emerging therapies and recent advances for Tourette syndrome - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.352802",
+        "document_type": "case_study",
+        "filename": "Emerging therapies and recent advances for Tourette syndrome - PMC",
+        "hormones": [
+          "sex_hormones",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine",
+          "serotonin",
+          "glutamate_gaba"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2023",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "serotonin",
+          "glutamate_gaba",
+          "sex_hormones",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Emerging therapies and recent advances for Tourette syndrome",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Face perception enhances insula and motor network reactivity in Tourette syndrome - PMC.html": {
+      "original_path": "Face perception enhances insula and motor network reactivity in Tourette syndrome - PMC.html",
+      "file_size": 237050,
+      "file_hash": "036fbe8348be4799017da3188344f393",
+      "last_modified": "2025-10-21T15:35:37.295032",
+      "matching_markdown": "docs\\research\\comorbidity\\Face perception enhances insula and motor network reactivity in Tourette syndrome - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.359809",
+        "document_type": "review",
+        "filename": "Face perception enhances insula and motor network reactivity in Tourette syndrome - PMC",
+        "hormones": [
+          "cortisol_stress",
+          "thyroid",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine",
+          "serotonin"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2018",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "serotonin",
+          "cortisol_stress",
+          "thyroid",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Face perception enhances insula and motor network reactivity in Tourette syndrome",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Frontiers _ Evaluating attention deficit and hyperactivity disorder (ADHD)_ a review of current methods and issues.html": {
+      "original_path": "Frontiers _ Evaluating attention deficit and hyperactivity disorder (ADHD)_ a review of current methods and issues.html",
+      "file_size": 806793,
+      "file_hash": "fa197f8ca807f8ce8e55734ed13e0e9c",
+      "last_modified": "2025-10-21T15:26:02.078658",
+      "matching_markdown": "docs\\research\\comorbidity\\Frontiers _ Evaluating attention deficit and hyperactivity disorder (ADHD)_ a review of current methods and issues.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "Hande Musullulu*",
+        "created": "2025-10-21T16:11:52.368817",
+        "document_type": "review",
+        "filename": "Frontiers _ Evaluating attention deficit and hyperactivity disorder (ADHD)_ a review of current methods and issues",
+        "hormones": [
+          "cortisol_stress",
+          "thyroid",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2025",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "cortisol_stress",
+          "thyroid",
+          "growth_hormones",
+          "cohort_study",
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "cohort_study",
+        "title": "Evaluating attention deficit and hyperactivity disorder (ADHD): a review of current methods and issues",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Groundbreaking study reveals changes in brain cell composition and gene activity in Tourette syndrome _ ScienceDaily.html": {
+      "original_path": "Groundbreaking study reveals changes in brain cell composition and gene activity in Tourette syndrome _ ScienceDaily.html",
+      "file_size": 51021,
+      "file_hash": "c0e58d0b08cf051947c909a2cfd2640b",
+      "last_modified": "2025-10-21T15:31:19.059153",
+      "matching_markdown": "docs\\research\\comorbidity\\Groundbreaking study reveals changes in brain cell composition and gene activity in Tourette syndrome _ ScienceDaily.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.373822",
+        "document_type": "treatment_guide",
+        "filename": "Groundbreaking study reveals changes in brain cell composition and gene activity in Tourette syndrome _ ScienceDaily",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2025",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "mental_health",
+          "children",
+          "adults",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "unknown",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "unknown",
+        "title": "Groundbreaking study reveals changes in brain cell composition and gene activity in Tourette syndrome",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "mental_health"
+        ],
+        "treatments": [
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Half a century of research on Attention-Deficit_Hyperactivity Disorder_ A scientometric study - ScienceDirect.html": {
+      "original_path": "Half a century of research on Attention-Deficit_Hyperactivity Disorder_ A scientometric study - ScienceDirect.html",
+      "file_size": 156160,
+      "file_hash": "fd95d99318cda5eff6077a457deaaa8b",
+      "last_modified": "2025-10-21T15:25:54.443480",
+      "matching_markdown": "docs\\research\\comorbidity\\Half a century of research on Attention-Deficit_Hyperactivity Disorder_ A scientometric study - ScienceDirect.md",
+      "metadata": {
+        "age_groups": [],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.377825",
+        "document_type": "review",
+        "filename": "Half a century of research on Attention-Deficit_Hyperactivity Disorder_ A scientometric study - ScienceDirect",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "comorbidity_analysis",
+          "treatment_outcomes"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2022",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "growth_hormones",
+          "unknown",
+          "comorbidity_analysis",
+          "treatment_outcomes"
+        ],
+        "source": "",
+        "study_design": "unknown",
+        "title": "Review ArticleHalf a century of research on Attention-Deficit/Hyperactivity Disorder: A scientometric study",
+        "topics": [
+          "tourette_syndrome",
+          "adhd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood - PMC.html": {
+      "original_path": "Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood - PMC.html",
+      "file_size": 122862,
+      "file_hash": "daaacb5455f11bb49356289b856ddd73",
+      "last_modified": "2025-10-21T15:35:50.481698",
+      "matching_markdown": "docs\\research\\comorbidity\\Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.381829",
+        "document_type": "treatment_guide",
+        "filename": "Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood - PMC",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2016",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "growth_hormones",
+          "unknown",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "unknown",
+        "title": "Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis - PMC.html": {
+      "original_path": "Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis - PMC.html",
+      "file_size": 158628,
+      "file_hash": "293755733dd1e1f876331d44e55fb0e5",
+      "last_modified": "2025-10-21T15:35:25.833044",
+      "matching_markdown": "docs\\research\\tourette\\Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.444886",
+        "document_type": "review",
+        "filename": "Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis - PMC",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "glutamate_gaba"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2015",
+        "search_tags": [
+          "tourette_syndrome",
+          "asd",
+          "ocd",
+          "children",
+          "adolescents",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "glutamate_gaba",
+          "growth_hormones",
+          "cohort_study",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "cohort_study",
+        "title": "Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis",
+        "topics": [
+          "tourette_syndrome",
+          "asd",
+          "ocd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "New research reveals crushing burden of Tourette syndrome and related disorders.html": {
+      "original_path": "New research reveals crushing burden of Tourette syndrome and related disorders.html",
+      "file_size": 129912,
+      "file_hash": "bbcb9cbd28845f8fa441c67d33bd8f81",
+      "last_modified": "2025-10-21T15:30:46.292877",
+      "matching_markdown": "docs\\research\\comorbidity\\New research reveals crushing burden of Tourette syndrome and related disorders.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.393840",
+        "document_type": "treatment_guide",
+        "filename": "New research reveals crushing burden of Tourette syndrome and related disorders",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "treatment_outcomes"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2025",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "cross_sectional",
+          "prevalence_data",
+          "treatment_outcomes"
+        ],
+        "source": "",
+        "study_design": "cross_sectional",
+        "title": "New research reveals crushing burden of Tourette syndrome and related disorders",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome - PMC.html": {
+      "original_path": "Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome - PMC.html",
+      "file_size": 139645,
+      "file_hash": "610186b970df56d89ec13ffca31d6c72",
+      "last_modified": "2025-10-21T15:32:29.230339",
+      "matching_markdown": "docs\\research\\comorbidity\\Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.398844",
+        "document_type": "treatment_guide",
+        "filename": "Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome - PMC",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2013",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "psychotherapy",
+          "growth_hormones",
+          "unknown",
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "unknown",
+        "title": "Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Perceptions of treatment for tics among young people with Tourette syndrome and their parents_ a mixed methods study - PMC.html": {
+      "original_path": "Perceptions of treatment for tics among young people with Tourette syndrome and their parents_ a mixed methods study - PMC.html",
+      "file_size": 211890,
+      "file_hash": "addccc47439a29ee088a9f3ffb424253",
+      "last_modified": "2025-10-21T15:35:44.678595",
+      "matching_markdown": "docs\\research\\comorbidity\\Perceptions of treatment for tics among young people with Tourette syndrome and their parents_ a mixed methods study - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.405851",
+        "document_type": "review",
+        "filename": "Perceptions of treatment for tics among young people with Tourette syndrome and their parents_ a mixed methods study - PMC",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2015",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "prevalence_data",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Perceptions of treatment for tics among young people with Tourette syndrome and their parents: a mixed methods study",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Pimozide for tics in Tourette's syndrome - PMC.html": {
+      "original_path": "Pimozide for tics in Tourette's syndrome - PMC.html",
+      "file_size": 156489,
+      "file_hash": "6582b1c3d6d16226a9b3be5421eaee32",
+      "last_modified": "2025-10-21T15:34:27.695521",
+      "matching_markdown": "docs\\research\\comorbidity\\Pimozide for tics in Tourette's syndrome - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.410856",
+        "document_type": "review",
+        "filename": "Pimozide for tics in Tourette's syndrome - PMC",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "treatment_outcomes"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2009",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "prevalence_data",
+          "treatment_outcomes"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Pimozide for tics in Tourette's syndrome",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "ScienceDaily_ Search Archives.html": {
+      "original_path": "ScienceDaily_ Search Archives.html",
+      "file_size": 32894,
+      "file_hash": "a7a4165b6c29a6149e7af03a6f3ac56a",
+      "last_modified": "2025-10-21T15:36:02.847818",
+      "matching_markdown": "docs\\research\\hormones-endocrine\\cortisol-stress\\ScienceDaily_ Search Archives.md",
+      "metadata": {
+        "age_groups": [],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.440883",
+        "document_type": "treatment_guide",
+        "filename": "ScienceDaily_ Search Archives",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2025",
+        "search_tags": [
+          "cortisol_stress",
+          "growth_hormones",
+          "unknown",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "unknown",
+        "title": "Search Archives",
+        "topics": [],
+        "treatments": [],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "The First World Congress on Tourette Syndrome and Tic Disorders_ Controversies and Hot Topics in Etiology and Treatment - PMC.html": {
+      "original_path": "The First World Congress on Tourette Syndrome and Tic Disorders_ Controversies and Hot Topics in Etiology and Treatment - PMC.html",
+      "file_size": 146823,
+      "file_hash": "ebf0c452bb16aef717ecb3a5eae89fe2",
+      "last_modified": "2025-10-21T15:34:21.581187",
+      "matching_markdown": "docs\\research\\comorbidity\\The First World Congress on Tourette Syndrome and Tic Disorders_ Controversies and Hot Topics in Etiology and Treatment - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.418863",
+        "document_type": "case_study",
+        "filename": "The First World Congress on Tourette Syndrome and Tic Disorders_ Controversies and Hot Topics in Etiology and Treatment - PMC",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2016",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "cortisol_stress",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "The First World Congress on Tourette Syndrome and Tic Disorders: Controversies and Hot Topics in Etiology and Treatment",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Tourette - Search Results - PMC.html": {
+      "original_path": "Tourette - Search Results - PMC.html",
+      "file_size": 113948,
+      "file_hash": "7dca6ef22a712c9205a3e598250ae9c9",
+      "last_modified": "2025-10-21T15:32:22.003908",
+      "matching_markdown": "docs\\research\\tourette\\Tourette - Search Results - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.448890",
+        "document_type": "case_study",
+        "filename": "Tourette - Search Results - PMC",
+        "hormones": [
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "1900",
+        "search_tags": [
+          "tourette_syndrome",
+          "asd",
+          "children",
+          "adolescents",
+          "pharmacological",
+          "growth_hormones",
+          "case_study",
+          "prevalence_data",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "case_study",
+        "title": "PubMed Central (PMC) Search Page",
+        "topics": [
+          "tourette_syndrome",
+          "asd"
+        ],
+        "treatments": [
+          "pharmacological"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Tourette Syndrome_ Clinical Features, Pathophysiology, and Treatment - PMC.html": {
+      "original_path": "Tourette Syndrome_ Clinical Features, Pathophysiology, and Treatment - PMC.html",
+      "file_size": 298356,
+      "file_hash": "c3409d2a8d6bae80aaf80a4313212a3f",
+      "last_modified": "2025-10-21T15:35:20.563299",
+      "matching_markdown": "docs\\research\\comorbidity\\Tourette Syndrome_ Clinical Features, Pathophysiology, and Treatment - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.425869",
+        "document_type": "case_study",
+        "filename": "Tourette Syndrome_ Clinical Features, Pathophysiology, and Treatment - PMC",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine",
+          "serotonin",
+          "glutamate_gaba"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2024",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "serotonin",
+          "glutamate_gaba",
+          "cortisol_stress",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "prevalence_data",
+          "comorbidity_analysis",
+          "quality_of_life",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Tourette Syndrome: Clinical Features, Pathophysiology, and Treatment",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "mental_health"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward - PMC.html": {
+      "original_path": "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward - PMC.html",
+      "file_size": 157103,
+      "file_hash": "8d399a3a07771db42e6b9d90e73abc15",
+      "last_modified": "2025-10-21T15:25:33.633531",
+      "matching_markdown": "docs\\research\\comorbidity\\Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward - PMC.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.431874",
+        "document_type": "review",
+        "filename": "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward - PMC",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2018",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Twenty years of research on attention-deficit/hyperactivity disorder (ADHD): looking back, looking forward",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward _ Evidence Based Mental Health.html": {
+      "original_path": "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward _ Evidence Based Mental Health.html",
+      "file_size": 393547,
+      "file_hash": "67a85bcba47099342b1d966c2e4da5a2",
+      "last_modified": "2025-10-21T15:25:46.936596",
+      "matching_markdown": "docs\\research\\comorbidity\\Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward _ Evidence Based Mental Health.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents",
+          "adults"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.437880",
+        "document_type": "review",
+        "filename": "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward _ Evidence Based Mental Health",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "2018",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "children",
+          "adolescents",
+          "adults",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "randomized_controlled_trial",
+          "prevalence_data",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "",
+        "study_design": "randomized_controlled_trial",
+        "title": "Twenty years of research on attention-deficit/hyperactivity disorder (ADHD): looking back, looking forward",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    }
+  },
+  "pdf_files": {
+    "jnnpsyc00116-0101.pdf": {
+      "original_path": "jnnpsyc00116-0101.pdf",
+      "file_size": 1245044,
+      "file_hash": "fadfa75cf8365102398988eb0dcd21fd",
+      "last_modified": "2025-10-21T15:35:12.471656",
+      "matching_markdown": "docs\\research\\comorbidity\\jnnpsyc00116-0101.md",
+      "metadata": {
+        "age_groups": [
+          "children",
+          "adolescents"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.384831",
+        "document_type": "case_study",
+        "filename": "jnnpsyc00116-0101",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "1985",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd",
+          "children",
+          "adolescents",
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "cortisol_stress",
+          "growth_hormones",
+          "case_study",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "PDF Document (PyMuPDF)",
+        "study_design": "case_study",
+        "title": "Journal of Neurology, Neurosurgery, and Psychiatry 1985;48:1293-1296",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "ocd"
+        ],
+        "treatments": [
+          "behavioral_therapy",
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "jnnpsyc00129-0085.pdf": {
+      "original_path": "jnnpsyc00129-0085.pdf",
+      "file_size": 412625,
+      "file_hash": "276b6eb95b0721e4bc158036c7104396",
+      "last_modified": "2025-10-21T15:33:24.055755",
+      "matching_markdown": "docs\\research\\comorbidity\\jnnpsyc00129-0085.md",
+      "metadata": {
+        "age_groups": [
+          "children"
+        ],
+        "authors": "authors",
+        "created": "2025-10-21T16:11:52.387834",
+        "document_type": "case_study",
+        "filename": "jnnpsyc00129-0085",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "1983",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "children",
+          "pharmacological",
+          "psychotherapy",
+          "cortisol_stress",
+          "growth_hormones",
+          "case_study",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "PDF Document (PyMuPDF)",
+        "study_design": "case_study",
+        "title": "Journal ofNeurology, Neurosurgery, and Psychiatry 1983 ;46:75-77",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd"
+        ],
+        "treatments": [
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    },
+    "jpn00045-0015.pdf": {
+      "original_path": "jpn00045-0015.pdf",
+      "file_size": 646072,
+      "file_hash": "c518492da183f622941029855eb9cc79",
+      "last_modified": "2025-10-21T15:33:11.017425",
+      "matching_markdown": "docs\\research\\comorbidity\\jpn00045-0015.md",
+      "metadata": {
+        "abstract_fix_date": "2025-10-21T17:30:33.779893",
+        "abstract_fixed": true,
+        "age_groups": [
+          "children",
+          "adolescents"
+        ],
+        "authors": "",
+        "created": "2025-10-21T16:11:52.389836",
+        "document_type": "case_study",
+        "filename": "jpn00045-0015",
+        "hormones": [
+          "cortisol_stress",
+          "growth_hormones"
+        ],
+        "key_findings": [
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "keywords": "",
+        "neurochemistry": [
+          "dopamine"
+        ],
+        "optimized_for_search": true,
+        "patient_relevance": "high",
+        "publication_year": "1992",
+        "search_tags": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd",
+          "children",
+          "adolescents",
+          "pharmacological",
+          "psychotherapy",
+          "dopamine",
+          "cortisol_stress",
+          "growth_hormones",
+          "case_study",
+          "treatment_outcomes",
+          "neurobiological_insights"
+        ],
+        "source": "PDF Document (PyMuPDF)",
+        "study_design": "case_study",
+        "title": "Tourette's Syndrome and Neonatal Anoxia:",
+        "topics": [
+          "tourette_syndrome",
+          "adhd",
+          "asd",
+          "ocd"
+        ],
+        "treatments": [
+          "pharmacological",
+          "psychotherapy"
+        ],
+        "type": "research_paper"
+      },
+      "status": "processed"
+    }
+  },
+  "summary": {
+    "total_html_files": 23,
+    "total_pdf_files": 3,
+    "html_processed": 23,
+    "pdf_processed": 3,
+    "html_missing": 0,
+    "pdf_missing": 0
+  },
+  "removal_plan": {
+    "safe_to_remove": [
+      {
+        "file": "A National Profile of Tourette Syndrome, 2011–2012 - PMC.html",
+        "type": "html",
+        "size": 175433,
+        "markdown_file": "docs\\research\\comorbidity\\A National Profile of Tourette Syndrome, 2011–2012 - PMC.md"
+      },
+      {
+        "file": "All that glitters is not gold_ When motor and vocal tics in a child do not match Tourette syndrome_ A case report - PMC.html",
+        "type": "html",
+        "size": 114686,
+        "markdown_file": "docs\\research\\comorbidity\\All that glitters is not gold_ When motor and vocal tics in a child do not match Tourette syndrome_ A case report - PMC.md"
+      },
+      {
+        "file": "CBIT for Practitioners - Tourette Association of America.html",
+        "type": "html",
+        "size": 468647,
+        "markdown_file": "docs\\research\\comorbidity\\CBIT for Practitioners - Tourette Association of America.md"
+      },
+      {
+        "file": "CBIT, HRT, habit reversal therapy, behavior therapy.html",
+        "type": "html",
+        "size": 456569,
+        "markdown_file": "docs\\research\\comorbidity\\CBIT, HRT, habit reversal therapy, behavior therapy.md"
+      },
+      {
+        "file": "CBIT_ Information for Patients - Tourette Association of America.html",
+        "type": "html",
+        "size": 463841,
+        "markdown_file": "docs\\research\\comorbidity\\CBIT_ Information for Patients - Tourette Association of America.md"
+      },
+      {
+        "file": "Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome - PMC.html",
+        "type": "html",
+        "size": 204849,
+        "markdown_file": "docs\\research\\comorbidity\\Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome - PMC.md"
+      },
+      {
+        "file": "Emerging therapies and recent advances for Tourette syndrome - PMC.html",
+        "type": "html",
+        "size": 296698,
+        "markdown_file": "docs\\research\\comorbidity\\Emerging therapies and recent advances for Tourette syndrome - PMC.md"
+      },
+      {
+        "file": "Face perception enhances insula and motor network reactivity in Tourette syndrome - PMC.html",
+        "type": "html",
+        "size": 237050,
+        "markdown_file": "docs\\research\\comorbidity\\Face perception enhances insula and motor network reactivity in Tourette syndrome - PMC.md"
+      },
+      {
+        "file": "Frontiers _ Evaluating attention deficit and hyperactivity disorder (ADHD)_ a review of current methods and issues.html",
+        "type": "html",
+        "size": 806793,
+        "markdown_file": "docs\\research\\comorbidity\\Frontiers _ Evaluating attention deficit and hyperactivity disorder (ADHD)_ a review of current methods and issues.md"
+      },
+      {
+        "file": "Groundbreaking study reveals changes in brain cell composition and gene activity in Tourette syndrome _ ScienceDaily.html",
+        "type": "html",
+        "size": 51021,
+        "markdown_file": "docs\\research\\comorbidity\\Groundbreaking study reveals changes in brain cell composition and gene activity in Tourette syndrome _ ScienceDaily.md"
+      },
+      {
+        "file": "Half a century of research on Attention-Deficit_Hyperactivity Disorder_ A scientometric study - ScienceDirect.html",
+        "type": "html",
+        "size": 156160,
+        "markdown_file": "docs\\research\\comorbidity\\Half a century of research on Attention-Deficit_Hyperactivity Disorder_ A scientometric study - ScienceDirect.md"
+      },
+      {
+        "file": "Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood - PMC.html",
+        "type": "html",
+        "size": 122862,
+        "markdown_file": "docs\\research\\comorbidity\\Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood - PMC.md"
+      },
+      {
+        "file": "Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis - PMC.html",
+        "type": "html",
+        "size": 158628,
+        "markdown_file": "docs\\research\\tourette\\Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis - PMC.md"
+      },
+      {
+        "file": "New research reveals crushing burden of Tourette syndrome and related disorders.html",
+        "type": "html",
+        "size": 129912,
+        "markdown_file": "docs\\research\\comorbidity\\New research reveals crushing burden of Tourette syndrome and related disorders.md"
+      },
+      {
+        "file": "Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome - PMC.html",
+        "type": "html",
+        "size": 139645,
+        "markdown_file": "docs\\research\\comorbidity\\Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome - PMC.md"
+      },
+      {
+        "file": "Perceptions of treatment for tics among young people with Tourette syndrome and their parents_ a mixed methods study - PMC.html",
+        "type": "html",
+        "size": 211890,
+        "markdown_file": "docs\\research\\comorbidity\\Perceptions of treatment for tics among young people with Tourette syndrome and their parents_ a mixed methods study - PMC.md"
+      },
+      {
+        "file": "Pimozide for tics in Tourette's syndrome - PMC.html",
+        "type": "html",
+        "size": 156489,
+        "markdown_file": "docs\\research\\comorbidity\\Pimozide for tics in Tourette's syndrome - PMC.md"
+      },
+      {
+        "file": "ScienceDaily_ Search Archives.html",
+        "type": "html",
+        "size": 32894,
+        "markdown_file": "docs\\research\\hormones-endocrine\\cortisol-stress\\ScienceDaily_ Search Archives.md"
+      },
+      {
+        "file": "The First World Congress on Tourette Syndrome and Tic Disorders_ Controversies and Hot Topics in Etiology and Treatment - PMC.html",
+        "type": "html",
+        "size": 146823,
+        "markdown_file": "docs\\research\\comorbidity\\The First World Congress on Tourette Syndrome and Tic Disorders_ Controversies and Hot Topics in Etiology and Treatment - PMC.md"
+      },
+      {
+        "file": "Tourette - Search Results - PMC.html",
+        "type": "html",
+        "size": 113948,
+        "markdown_file": "docs\\research\\tourette\\Tourette - Search Results - PMC.md"
+      },
+      {
+        "file": "Tourette Syndrome_ Clinical Features, Pathophysiology, and Treatment - PMC.html",
+        "type": "html",
+        "size": 298356,
+        "markdown_file": "docs\\research\\comorbidity\\Tourette Syndrome_ Clinical Features, Pathophysiology, and Treatment - PMC.md"
+      },
+      {
+        "file": "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward - PMC.html",
+        "type": "html",
+        "size": 157103,
+        "markdown_file": "docs\\research\\comorbidity\\Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward - PMC.md"
+      },
+      {
+        "file": "Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward _ Evidence Based Mental Health.html",
+        "type": "html",
+        "size": 393547,
+        "markdown_file": "docs\\research\\comorbidity\\Twenty years of research on attention-deficit_hyperactivity disorder (ADHD)_ looking back, looking forward _ Evidence Based Mental Health.md"
+      },
+      {
+        "file": "jnnpsyc00116-0101.pdf",
+        "type": "pdf",
+        "size": 1245044,
+        "markdown_file": "docs\\research\\comorbidity\\jnnpsyc00116-0101.md"
+      },
+      {
+        "file": "jnnpsyc00129-0085.pdf",
+        "type": "pdf",
+        "size": 412625,
+        "markdown_file": "docs\\research\\comorbidity\\jnnpsyc00129-0085.md"
+      },
+      {
+        "file": "jpn00045-0015.pdf",
+        "type": "pdf",
+        "size": 646072,
+        "markdown_file": "docs\\research\\comorbidity\\jpn00045-0015.md"
+      }
+    ],
+    "keep_for_review": [],
+    "total_size_to_remove": 7797585
+  }
+}

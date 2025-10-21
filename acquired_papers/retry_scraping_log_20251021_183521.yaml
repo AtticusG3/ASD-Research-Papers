@@ -1,0 +1,89 @@
+failed: 11
+retry_date: '2025-10-21T18:33:56.812504'
+retry_failed:
+- doi: 10.3389/fpsyt.2025.1647969
+  reason: all_alternative_sources_failed
+  title: 'Long-term use of cannabis-based medicines in two children with Tourette
+    syndrome: a case report.'
+- doi: 10.1097/MD.0000000000044702
+  reason: all_alternative_sources_failed
+  title: 'Abnormal development of corticospinal tracts in children with Tourette syndrome:
+    A single-center retrospective study.'
+- doi: 10.1088/1741-2552/ae1257
+  reason: all_alternative_sources_failed
+  title: 'Neuromodulation for Tourette syndrome: current techniques and future perspectives.'
+- doi: 10.1159/000548814
+  reason: all_alternative_sources_failed
+  title: Disparities in Access to Deep Brain Stimulation.
+- doi: 10.5080/u27551
+  reason: all_alternative_sources_failed
+  title: 'Effectiveness of 40-Session Repetitive Transcranial Magnetic Stimulation
+    in Tourette Syndrome: A 6-Month Follow-Up Case Report.'
+- doi: 10.1002/mdc3.70384
+  reason: all_alternative_sources_failed
+  title: Long-Term Follow-Up of Patients with Mass Social Media-Induced Illness Presenting
+    with Functional Tic-like Behaviors.
+- doi: 10.3389/fneur.2025.1589842
+  reason: all_alternative_sources_failed
+  title: 'Dopamine in Tourette syndrome: a 30-year bibliometric analysis of hotspot
+    evolution.'
+- doi: 10.1016/j.bpsc.2025.09.017
+  reason: all_alternative_sources_failed
+  title: Assessment of Glymphatic System Function in Children with Tourette Syndrome
+    Using DTI-ALPS.
+- doi: 10.1002/mds.70044
+  reason: all_alternative_sources_failed
+  title: Vagus Nerve Stimulation in Movement Disorders, from Principles to a Systematic
+    Review of Evidence.
+- doi: 10.3390/jcm14186513
+  reason: all_alternative_sources_failed
+  title: 'Exploring Applications of Transcranial Magnetic Stimulation in Child and
+    Adolescent Psychiatry: A Narrative Review.'
+- doi: 10.3390/ijms26188831
+  reason: all_alternative_sources_failed
+  title: 'From Pharmacological Treatment to Neuromodulation: A Comprehensive Approach
+    to Managing Gilles de la Tourette Syndrome.'
+retry_successful:
+- content_length: 2664
+  doi: 10.3389/fpubh.2025.1677592
+  filepath: docs\research\tourette\The_effectiveness_of_acupuncture_in_the_treatment_of_Tourette_syndrome_in_Chinese_children_a_systema.md
+  source_type: pmc_direct
+  source_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1677592/
+  title: 'The effectiveness of acupuncture in the treatment of Tourette syndrome in
+    Chinese children: a systematic review and meta-analysis.'
+- content_length: 59692
+  doi: 10.3389/fphar.2025.1540092
+  filepath: docs\research\tourette\The_volatile_oil_of_.md
+  source_type: pmc_direct
+  source_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1540092/
+  title: 'The volatile oil of '
+- content_length: 98524
+  doi: 10.3389/fped.2025.1636110
+  filepath: docs\research\tourette\The_clinical_features_and_initial_pharmacotherapeutic_options_of_children_with_Tic_disorders.md
+  source_type: pmc_direct
+  source_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1636110/
+  title: The clinical features and initial pharmacotherapeutic options of children
+    with Tic disorders.
+- content_length: 1174
+  doi: 10.3389/fnut.2025.1561693
+  filepath: docs\research\tourette\Effects_and_mechanisms_of_vitamins_A_and_D_on_behavior_associated_with_Tourette_syndrome_in_rats.md
+  source_type: pmc_direct
+  source_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1561693/
+  title: Effects and mechanisms of vitamins A and D on behavior associated with Tourette
+    syndrome in rats.
+- content_length: 77007
+  doi: 10.1016/j.imbio.2025.153118
+  filepath: docs\research\tourette\Changpu_Yujin_Tang_mitigates_tourette_syndrome_by_enhancing_mitophagy_and_suppressing_NLRP3_inflamma.md
+  source_type: pmc_direct
+  source_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153118/
+  title: Changpu Yujin Tang mitigates tourette syndrome by enhancing mitophagy and
+    suppressing NLRP3 inflammasome-mediated pyroptosis.
+- content_length: 44897
+  doi: 10.3389/fneur.2025.1661707
+  filepath: docs\research\tourette\Spinocerebellar_ataxias_masquerading_as_movement_disorders_clinical_and_genetic_characterization.md
+  source_type: pmc_direct
+  source_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1661707/
+  title: 'Spinocerebellar ataxias masquerading as movement disorders: clinical and
+    genetic characterization.'
+successful: 6
+total_retried: 17

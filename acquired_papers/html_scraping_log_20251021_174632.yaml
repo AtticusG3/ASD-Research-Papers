@@ -1,0 +1,150 @@
+failed: 0
+failed_papers: []
+scraped_papers:
+- category: tourette
+  html_file: A National Profile of Tourette Syndrome, 2011–2012 - PMC.html
+  markdown_file: docs\research\tourette\A_National_Profile_of_Tourette_Syndrome_20112012.md
+  sections_found: 14
+  title: A National Profile of Tourette Syndrome, 2011–2012
+- category: tourette
+  html_file: All that glitters is not gold_ When motor and vocal tics in a child do
+    not match Tourette syndrome_ A case report - PMC.html
+  markdown_file: docs\research\tourette\All_that_glitters_is_not_gold_When_motor_and_vocal_tics_in_a_child_do_not_match_Tourette_syndrome_A_case_report.md
+  sections_found: 8
+  title: 'All that glitters is not gold: When motor and vocal tics in a child do
+
+    not match Tourette syndrome: A case report'
+- category: related-disorders
+  html_file: CBIT for Practitioners - Tourette Association of America.html
+  markdown_file: docs\research\related-disorders\CBIT_for_Practitioners.md
+  sections_found: 0
+  title: CBIT for Practitioners
+- category: tourette
+  html_file: CBIT, HRT, habit reversal therapy, behavior therapy.html
+  markdown_file: docs\research\tourette\Comprehensive_Behavioral_Intervention_for_Tics_CBIT_Overview.md
+  sections_found: 0
+  title: 'Comprehensive Behavioral Intervention for Tics (CBIT): Overview'
+- category: related-disorders
+  html_file: CBIT_ Information for Patients - Tourette Association of America.html
+  markdown_file: docs\research\related-disorders\CBIT_Information_for_Patients.md
+  sections_found: 0
+  title: 'CBIT: Information for Patients'
+- category: tourette
+  html_file: Effects of single-session cathodal transcranial direct current stimulation
+    on tic symptoms in Tourette’s syndrome - PMC.html
+  markdown_file: docs\research\tourette\Effects_of_single_session_cathodal_transcranial_direct_current_stimulation_on_tic_symptoms_in_Tourettes_syndrome.md
+  sections_found: 32
+  title: Effects of single-session cathodal transcranial direct current stimulation
+    on tic symptoms in Tourette’s syndrome
+- category: tourette
+  html_file: Emerging therapies and recent advances for Tourette syndrome - PMC.html
+  markdown_file: docs\research\tourette\Emerging_therapies_and_recent_advances_for_Tourette_syndrome.md
+  sections_found: 36
+  title: Emerging therapies and recent advances for Tourette syndrome
+- category: tourette
+  html_file: Face perception enhances insula and motor network reactivity in Tourette
+    syndrome - PMC.html
+  markdown_file: docs\research\tourette\Face_perception_enhances_insula_and_motor_network_reactivity_in_Tourette_syndrome.md
+  sections_found: 35
+  title: Face perception enhances insula and motor network reactivity in Tourette
+    syndrome
+- category: adhd
+  html_file: Frontiers _ Evaluating attention deficit and hyperactivity disorder (ADHD)_
+    a review of current methods and issues.html
+  markdown_file: docs\research\adhd\Evaluating_attention_deficit_and_hyperactivity_disorder_ADHD_a_review_of_current_methods_and_issues.md
+  sections_found: 1
+  title: 'Evaluating attention deficit and hyperactivity disorder (ADHD): a review
+    of current methods and issues'
+- category: tourette
+  html_file: Groundbreaking study reveals changes in brain cell composition and gene
+    activity in Tourette syndrome _ ScienceDaily.html
+  markdown_file: docs\research\tourette\Groundbreaking_study_reveals_changes_in_brain_cell_composition_and_gene_activity_in_Tourette_syndrome.md
+  sections_found: 2
+  title: Groundbreaking study reveals changes in brain cell composition and gene activity
+    in Tourette syndrome
+- category: tourette
+  html_file: Half a century of research on Attention-Deficit_Hyperactivity Disorder_
+    A scientometric study - ScienceDirect.html
+  markdown_file: docs\research\tourette\Review_ArticleHalf_a_century_of_research_on_Attention_DeficitHyperactivity_Disorder_A_scientometric_study.md
+  sections_found: 5
+  title: 'Review ArticleHalf a century of research on Attention-Deficit/Hyperactivity
+    Disorder: A scientometric study'
+- category: tourette
+  html_file: Health-related quality of life in patients with Gilles de la Tourette
+    syndrome at the transition between adolescence and adulthood - PMC.html
+  markdown_file: docs\research\tourette\Health_related_quality_of_life_in_patients_with_Gilles_de_la_Tourette_syndrome_at_the_transition_between_adolescence_and_adulthood.md
+  sections_found: 14
+  title: Health-related quality of life in patients with Gilles de la Tourette syndrome
+    at the transition between adolescence and adulthood
+- category: tourette
+  html_file: Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis
+    - PMC.html
+  markdown_file: docs\research\tourette\Involvement_of_astrocyte_metabolic_coupling_in_Tourette_syndrome_pathogenesis.md
+  sections_found: 18
+  title: Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis
+- category: tourette
+  html_file: New research reveals crushing burden of Tourette syndrome and related
+    disorders.html
+  markdown_file: docs\research\tourette\New_research_reveals_crushing_burden_of_Tourette_syndrome_and_related_disorders.md
+  sections_found: 12
+  title: New research reveals crushing burden of Tourette syndrome and related disorders
+- category: tourette
+  html_file: Parent and Self-Report Health-Related Quality of Life Measures in Young
+    Patients With Tourette Syndrome - PMC.html
+  markdown_file: docs\research\tourette\Parent_and_Self_Report_Health_Related_Quality_of_Life_Measures_in_Young_Patients_With_Tourette_Syndrome.md
+  sections_found: 8
+  title: 'Parent and Self-Report Health-Related Quality of Life Measures in Young
+
+    Patients With Tourette Syndrome'
+- category: tourette
+  html_file: Perceptions of treatment for tics among young people with Tourette syndrome
+    and their parents_ a mixed methods study - PMC.html
+  markdown_file: docs\research\tourette\Perceptions_of_treatment_for_tics_among_young_people_with_Tourette_syndrome_and_their_parents_a_mixed_methods_study.md
+  sections_found: 47
+  title: 'Perceptions of treatment for tics among young people with Tourette syndrome
+    and their parents: a mixed methods study'
+- category: tourette
+  html_file: Pimozide for tics in Tourette's syndrome - PMC.html
+  markdown_file: docs\research\tourette\Pimozide_for_tics_in_Tourettes_syndrome.md
+  sections_found: 61
+  title: Pimozide for tics in Tourette's syndrome
+- category: related-disorders
+  html_file: ScienceDaily_ Search Archives.html
+  markdown_file: docs\research\related-disorders\Search_Archives.md
+  sections_found: 1
+  title: Search Archives
+- category: tourette
+  html_file: The First World Congress on Tourette Syndrome and Tic Disorders_ Controversies
+    and Hot Topics in Etiology and Treatment - PMC.html
+  markdown_file: docs\research\tourette\The_First_World_Congress_on_Tourette_Syndrome_and_Tic_Disorders_Controversies_and_Hot_Topics_in_Etiology_and_Treatment.md
+  sections_found: 10
+  title: 'The First World Congress on Tourette Syndrome and Tic Disorders: Controversies
+    and Hot Topics in Etiology and Treatment'
+- category: tourette
+  html_file: Tourette - Search Results - PMC.html
+  markdown_file: docs\research\tourette\PubMed_Central_PMC_Search_Page.md
+  sections_found: 1
+  title: PubMed Central (PMC) Search Page
+- category: tourette
+  html_file: Tourette Syndrome_ Clinical Features, Pathophysiology, and Treatment
+    - PMC.html
+  markdown_file: docs\research\tourette\Tourette_Syndrome_Clinical_Features_Pathophysiology_and_Treatment.md
+  sections_found: 24
+  title: 'Tourette Syndrome: Clinical Features, Pathophysiology, and Treatment'
+- category: tourette
+  html_file: Twenty years of research on attention-deficit_hyperactivity disorder
+    (ADHD)_ looking back, looking forward - PMC.html
+  markdown_file: docs\research\tourette\Twenty_years_of_research_on_attention_deficithyperactivity_disorder_ADHD_looking_back_looking_forward.md
+  sections_found: 11
+  title: 'Twenty years of research on attention-deficit/hyperactivity disorder (ADHD):
+    looking back, looking forward'
+- category: tourette
+  html_file: Twenty years of research on attention-deficit_hyperactivity disorder
+    (ADHD)_ looking back, looking forward _ Evidence Based Mental Health.html
+  markdown_file: docs\research\tourette\Twenty_years_of_research_on_attention_deficithyperactivity_disorder_ADHD_looking_back_looking_forward.md
+  sections_found: 18
+  title: 'Twenty years of research on attention-deficit/hyperactivity disorder (ADHD):
+    looking back, looking forward'
+scraping_date: '2025-10-21T17:46:32.045112'
+successful: 23
+total_files: 23

@@ -1,0 +1,13 @@
+acquisition_date: '2025-10-21T16:12:06.338831'
+categories:
+  adhd: 6
+  arxiv_neuroscience: 9
+  asd: 10
+  hormones: 13
+  neurochemistry: 14
+  tourette_syndrome: 8
+output_file: acquired_papers\focused_papers_20251021_161206.csv
+sources:
+  arxiv: 9
+  pubmed: 51
+total_papers: 60

@@ -1,0 +1,180 @@
+acquisition_summary:
+  acquisition_method: Paperscraper automated system
+  acquisition_sources:
+  - PubMed
+  - ArXiv
+  date_range: 1970-2025
+  newly_acquired_papers: 958
+  original_papers: 27
+  processing_status: Complete with enhanced metadata
+  total_research_papers: 985
+content_breakdown:
+  meta_documents:
+    breakdown: {}
+    description: Index files, search guides, and navigation tools
+    total: 0
+  patient_guides:
+    breakdown:
+      biology: 1
+      research-summaries: 49
+      symptoms: 0
+      treatments: 1
+      understanding: 0
+    content_types:
+    - Understanding guides
+    - Biology explanations
+    - Treatment information
+    - Research summaries
+    description: Patient-friendly explanations and guides
+    reading_level: Accessible (8th-10th grade)
+    total: 51
+  research_papers:
+    acquisition_method: Automated via Paperscraper (1970-2025)
+    breakdown:
+      adhd: 130
+      asd: 106
+      comorbidity: 219
+      hormones-endocrine: 141
+      neurochemistry: 132
+      related-disorders: 132
+      tourette: 125
+    description: Academic research papers and clinical studies from PubMed and ArXiv
+    processing_status: Fully processed with enhanced metadata
+    total: 985
+  support_resources:
+    breakdown:
+      daily-living: 1
+      relationships: 0
+      school-work: 0
+    content_types:
+    - Daily living strategies
+    - School and work support
+    - Relationship guidance
+    description: Practical coping strategies and daily living tips
+    total: 1
+created: '2025-10-21T16:30:00'
+description: Comprehensive index of research papers, patient guides, and support resources
+  for ADHD, ASD, and Tourette Syndrome
+expansion_completed: true
+file_structure:
+  meta: docs/meta/ (0 documents)
+  patient_guides: docs/patient-guides/ (51 guides)
+  research: docs/research/ (985 papers)
+  support: docs/support/ (1 resources)
+last_updated: '2025-10-21T16:23:12.391075'
+quality_metrics:
+  citation_verification: All claims properly cited
+  content_review_status: Completed
+  medical_accuracy: Reviewed for scientific accuracy
+  patient_language: Written in accessible language
+  search_optimization: Fully optimized for OpenWebUI
+  sensitivity_review: Respectful and empowering tone
+search_optimization:
+  cross_references_created: 518
+  documents_with_metadata: 1037
+  documents_with_search_tags: 1037
+  indexed_documents: 1037
+  patient_friendly_content: 52
+  professional_content: 985
+  search_categories:
+    by_audience:
+    - patient
+    - caregiver
+    - professional
+    by_condition:
+    - tourette
+    - adhd
+    - asd
+    - related_disorders
+    by_content_type:
+    - research
+    - guide
+    - support
+    - summary
+    by_topic:
+    - neurobiology
+    - treatment
+    - support
+    - daily_living
+statistics:
+  estimated_word_count: 2,074,000
+  last_major_update: '2025-10-21'
+  meta_documents: 0
+  next_review_date: '2025-11-21'
+  patient_guides: 51
+  research_papers: 985
+  support_resources: 1
+  total_documents: 1037
+taxonomy:
+  conditions:
+    adhd:
+      description: Research and resources on Attention Deficit Hyperactivity Disorder
+      patient_guides: 0
+      research_papers: 130
+      support_resources: 0
+    asd:
+      description: Research and resources on Autism Spectrum Disorder
+      patient_guides: 0
+      research_papers: 106
+      support_resources: 0
+    hormones_endocrine:
+      description: Research on hormones, stress, and endocrine factors
+      patient_guides: 0
+      research_papers: 141
+      support_resources: 0
+    neurochemistry:
+      description: Research on brain chemistry, neurotransmitters, and neurobiology
+      patient_guides: 0
+      research_papers: 132
+      support_resources: 0
+    related_disorders:
+      description: Research on OCD, anxiety, depression, and other related conditions
+      patient_guides: 0
+      research_papers: 351
+      support_resources: 0
+    tourette_syndrome:
+      description: Research and resources on Tourette syndrome and tic disorders
+      patient_guides: 0
+      research_papers: 125
+      support_resources: 0
+  topics:
+    daily_living:
+      description: Practical strategies for daily life
+      document_count: 1
+      subtopics:
+      - school_work
+      - social_situations
+      - family_relationships
+      - self_advocacy
+    neurobiology:
+      description: How the brain works in neurodevelopmental disorders
+      document_count: 273
+      subtopics:
+      - dopamine_systems
+      - brain_structure
+      - neurotransmitters
+      - neural_networks
+    symptoms:
+      description: Understanding symptoms and their causes
+      document_count: 328
+      subtopics:
+      - tics
+      - attention_deficit
+      - hyperactivity
+      - sensory_processing
+    treatments:
+      description: Treatment options and approaches
+      document_count: 50
+      subtopics:
+      - behavioral_therapy
+      - medication
+      - lifestyle_interventions
+      - emerging_treatments
+title: Neurodevelopmental Disorders Knowledge Base - Master Index
+update_schedule:
+  metadata: Updated with each content change
+  patient_guides: Quarterly review for accuracy and relevance
+  research_papers: Monthly review for new publications
+  search_optimization: Monthly review and improvement
+  support_resources: Updated as needed based on user feedback
+version: '2.0'

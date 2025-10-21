@@ -1,0 +1,15 @@
+acquisition_date: '2025-10-21T16:12:22.957655'
+categories:
+  adhd: 130
+  asd: 106
+  comorbidity: 67
+  hormones: 140
+  neurochemistry: 132
+  related_disorders: 132
+  tourette_syndrome: 124
+date_range: 1970-2025
+output_file: acquired_papers\acquired_papers_20251021_161222.csv
+sources:
+  arxiv: 128
+  pubmed: 831
+total_papers: 959

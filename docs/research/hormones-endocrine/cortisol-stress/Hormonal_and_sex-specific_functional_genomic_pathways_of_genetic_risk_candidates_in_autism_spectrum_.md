@@ -1,0 +1,75 @@
+---
+acquisition_date: '2025-10-21T16:20:55.369211'
+acquisition_method: paperscraper_automated
+audience:
+- professional
+- researcher
+authors: '[''CamiloBriones-Valdivieso'', ''FranciscoCórdova'', ''HeidyKaune'', ''Juan
+  FMontiel'']'
+conditions:
+- tourette_syndrome
+- asd
+content_type: research_paper
+doi: 10.1016/j.yhbeh.2025.105795
+journal: Hormones and behavior
+keywords:
+- tourette_syndrome
+- asd
+- cortisol_stress
+- sex_hormones
+- growth_hormones
+- hormones
+- pubmed
+patient_friendly: false
+primary_category: hormones-endocrine/cortisol-stress
+publication_date: '2025-07-25'
+reading_level: academic
+search_priority: standard
+search_query: cortisol neurodevelopmental
+search_tags:
+- tourette_syndrome
+- asd
+- cortisol_stress
+- sex_hormones
+- growth_hormones
+- hormones
+- pubmed
+- research
+- academic
+source: PUBMED via Paperscraper
+title: 'Hormonal and sex-specific functional genomic pathways of genetic risk candidates
+  in autism spectrum disorder: evidence of sex-over-chance effects.'
+topics:
+- tourette_syndrome
+- asd
+- cortisol_stress
+- sex_hormones
+- growth_hormones
+type: research_paper
+---
+
+# Hormonal and sex-specific functional genomic pathways of genetic risk candidates in autism spectrum disorder: evidence of sex-over-chance effects.
+
+**Authors:** ['CamiloBriones-Valdivieso', 'FranciscoCórdova', 'HeidyKaune', 'Juan FMontiel']
+
+**Journal:** Hormones and behavior
+
+**Publication Date:** 2025-07-25
+
+**DOI:** 10.1016/j.yhbeh.2025.105795
+
+## Abstract
+
+Autism spectrum disorder (ASD) is a complex neurodevelopmental condition marked by substantial sex differences in prevalence, with males more frequently diagnosed than females. While genetic and environmental factors contribute to ASD, there is growing evidence that sex-specific endocrine pathways, particularly those involving sex hormones, may play a critical role in ASD etiology. This study aimed to investigate the functional network robustness and annotations of autism spectrum disorder genetic risk candidates (ASD-GRCs), with a focus on endocrine pathways and their impact on network connectivity. Using data from the Simon's Foundation Autism Research Initiative (SFARI) and functional network analysis via the STRING database, we assessed the connectivity of ASD-related genes by randomly subtracting sets of genes from the whole ASD gene network in subsets associated with androgen-testosterone, estrogen-progesterone, and other hormone pathways. Our findings reveal a significant "sex-over-chance" association, with androgen- and estrogen-related gene subsets showing marked connectivity within the ASD gene network compared to non-sex hormone genes. These results suggest that sex hormones may uniquely influence ASD-related neural development, providing support for the "female protective effect" and the androgen-driven model of ASD. Additional analyses of other hormonal pathways, such as oxytocin and cortisol, showed a lower connectivity impact, reinforcing the distinctive role of sex hormones in ASD. This study highlights the potential of endocrine-focused genetic analysis in understanding ASD, emphasizing sex-specific biological mechanisms that may inform future diagnostic and therapeutic strategies.
+
+---
+
+## Research Details
+
+**Source:** PUBMED
+**Category:** hormones
+**Primary Topics:** tourette_syndrome, asd, cortisol_stress, sex_hormones, growth_hormones
+**Search Query:** cortisol neurodevelopmental
+**Acquisition Date:** 2025-10-21
+
+*This paper was automatically acquired and processed for the neurodevelopmental disorders knowledge base.*

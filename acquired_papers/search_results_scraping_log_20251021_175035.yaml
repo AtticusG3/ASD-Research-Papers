@@ -1,0 +1,84 @@
+downloaded_html_files:
+- PMC_4107773.html
+- PMC_1027267.html
+- PMC_5642424.html
+- PMC_1188420.html
+- PMC_4894886.html
+- PMC_7212051.html
+- PMC_4484726.html
+- PMC_1028617.html
+- PMC_10958485.html
+- PMC_4613465.html
+failed: 0
+failed_papers: []
+scraped_papers:
+- category: tourette
+  html_file: PMC_4107773.html
+  markdown_file: docs\research\tourette\Parent_and_Self_Report_Health_Related_Quality_of_Life_Measures_in_Young_Patients_With_Tourette_Syndrome.md
+  sections_found: 8
+  title: 'Parent and Self-Report Health-Related Quality of Life Measures in Young
+
+    Patients With Tourette Syndrome'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4107773
+- category: tourette
+  html_file: PMC_1027267.html
+  markdown_file: docs\research\tourette\Gilles_de_la_Tourettes_syndrome_in_monozygotic_twins.md
+  sections_found: 2
+  title: Gilles de la Tourette's syndrome in monozygotic twins
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1027267
+- category: tourette
+  html_file: PMC_5642424.html
+  markdown_file: docs\research\tourette\All_that_glitters_is_not_gold_When_motor_and_vocal_tics_in_a_child_do_not_match_Tourette_syndrome_A_case_report.md
+  sections_found: 8
+  title: 'All that glitters is not gold: When motor and vocal tics in a child do
+
+    not match Tourette syndrome: A case report'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5642424
+- category: tourette
+  html_file: PMC_1188420.html
+  markdown_file: docs\research\tourette\Tourettes_syndrome_and_neonatal_anoxia_further_evidence_of_an_organic_etiology.md
+  sections_found: 2
+  title: 'Tourette''s syndrome and neonatal anoxia: further evidence of an organic
+    etiology.'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1188420
+- category: tourette
+  html_file: PMC_4894886.html
+  markdown_file: docs\research\tourette\The_First_World_Congress_on_Tourette_Syndrome_and_Tic_Disorders_Controversies_and_Hot_Topics_in_Etiology_and_Treatment.md
+  sections_found: 10
+  title: 'The First World Congress on Tourette Syndrome and Tic Disorders: Controversies
+    and Hot Topics in Etiology and Treatment'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4894886
+- category: tourette
+  html_file: PMC_7212051.html
+  markdown_file: docs\research\tourette\Pimozide_for_tics_in_Tourettes_syndrome.md
+  sections_found: 61
+  title: Pimozide for tics in Tourette's syndrome
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7212051
+- category: tourette
+  html_file: PMC_4484726.html
+  markdown_file: docs\research\tourette\A_National_Profile_of_Tourette_Syndrome_20112012.md
+  sections_found: 14
+  title: A National Profile of Tourette Syndrome, 2011–2012
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4484726
+- category: tourette
+  html_file: PMC_1028617.html
+  markdown_file: docs\research\tourette\A_case_of_Gilles_de_la_Tourettes_syndrome_with_midbrain_involvement.md
+  sections_found: 3
+  title: A case of Gilles de la Tourette's syndrome with midbrain involvement.
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1028617
+- category: tourette
+  html_file: PMC_10958485.html
+  markdown_file: docs\research\tourette\Tourette_Syndrome_Clinical_Features_Pathophysiology_and_Treatment.md
+  sections_found: 24
+  title: 'Tourette Syndrome: Clinical Features, Pathophysiology, and Treatment'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10958485
+- category: tourette
+  html_file: PMC_4613465.html
+  markdown_file: docs\research\tourette\Involvement_of_astrocyte_metabolic_coupling_in_Tourette_syndrome_pathogenesis.md
+  sections_found: 18
+  title: Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4613465
+scraping_date: '2025-10-21T17:50:35.414681'
+search_results_file: Tourette - Search Results - PMC.html
+successful: 10
+total_urls_found: 10

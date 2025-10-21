@@ -1,0 +1,102 @@
+failed: 17
+failed_papers:
+- doi: 10.3389/fpsyt.2025.1647969
+  reason: all_sources_failed
+  sources_tried: 2
+  title: 'Long-term use of cannabis-based medicines in two children with Tourette
+    syndrome: a case report.'
+- doi: 10.3389/fpubh.2025.1677592
+  reason: all_sources_failed
+  sources_tried: 2
+  title: 'The effectiveness of acupuncture in the treatment of Tourette syndrome in
+    Chinese children: a systematic review and meta-analysis.'
+- doi: 10.1097/MD.0000000000044702
+  reason: no_sources_found
+  title: 'Abnormal development of corticospinal tracts in children with Tourette syndrome:
+    A single-center retrospective study.'
+- doi: 10.1088/1741-2552/ae1257
+  reason: all_sources_failed
+  sources_tried: 1
+  title: 'Neuromodulation for Tourette syndrome: current techniques and future perspectives.'
+- doi: 10.3389/fphar.2025.1540092
+  reason: all_sources_failed
+  sources_tried: 2
+  title: 'The volatile oil of '
+- doi: 10.1159/000548814
+  reason: no_sources_found
+  title: Disparities in Access to Deep Brain Stimulation.
+- doi: 10.5080/u27551
+  reason: all_sources_failed
+  sources_tried: 1
+  title: 'Effectiveness of 40-Session Repetitive Transcranial Magnetic Stimulation
+    in Tourette Syndrome: A 6-Month Follow-Up Case Report.'
+- doi: 10.1002/mdc3.70384
+  reason: no_sources_found
+  title: Long-Term Follow-Up of Patients with Mass Social Media-Induced Illness Presenting
+    with Functional Tic-like Behaviors.
+- doi: 10.3389/fneur.2025.1589842
+  reason: all_sources_failed
+  sources_tried: 2
+  title: 'Dopamine in Tourette syndrome: a 30-year bibliometric analysis of hotspot
+    evolution.'
+- doi: 10.3389/fped.2025.1636110
+  reason: all_sources_failed
+  sources_tried: 2
+  title: The clinical features and initial pharmacotherapeutic options of children
+    with Tic disorders.
+- doi: 10.1016/j.bpsc.2025.09.017
+  reason: all_sources_failed
+  sources_tried: 1
+  title: Assessment of Glymphatic System Function in Children with Tourette Syndrome
+    Using DTI-ALPS.
+- doi: 10.3389/fnut.2025.1561693
+  reason: all_sources_failed
+  sources_tried: 2
+  title: Effects and mechanisms of vitamins A and D on behavior associated with Tourette
+    syndrome in rats.
+- doi: 10.1002/mds.70044
+  reason: no_sources_found
+  title: Vagus Nerve Stimulation in Movement Disorders, from Principles to a Systematic
+    Review of Evidence.
+- doi: 10.1016/j.imbio.2025.153118
+  reason: all_sources_failed
+  sources_tried: 1
+  title: Changpu Yujin Tang mitigates tourette syndrome by enhancing mitophagy and
+    suppressing NLRP3 inflammasome-mediated pyroptosis.
+- doi: 10.3390/jcm14186513
+  reason: no_sources_found
+  title: 'Exploring Applications of Transcranial Magnetic Stimulation in Child and
+    Adolescent Psychiatry: A Narrative Review.'
+- doi: 10.3390/ijms26188831
+  reason: no_sources_found
+  title: 'From Pharmacological Treatment to Neuromodulation: A Comprehensive Approach
+    to Managing Gilles de la Tourette Syndrome.'
+- doi: 10.3389/fneur.2025.1661707
+  reason: all_sources_failed
+  sources_tried: 2
+  title: 'Spinocerebellar ataxias masquerading as movement disorders: clinical and
+    genetic characterization.'
+scraped_papers:
+- content_length: 27631
+  doi: 10.1007/s00702-025-03025-8
+  filepath: docs\research\tourette\Movement_disorders_a_brief_overview_from_an_evolutionary_perspective.md
+  source_type: doi_redirect
+  source_url: https://link.springer.com/article/10.1007/s00702-025-03025-8
+  title: 'Movement disorders: a brief overview from an evolutionary perspective.'
+- content_length: 94325
+  doi: 10.2196/66912
+  filepath: docs\research\tourette\Exploring_Empowerment_in_Online_Support_Communities_for_People_Living_With_Tic_Disorders_and_Tourett.md
+  source_type: doi_redirect
+  source_url: https://formative.jmir.org/2025/1/e66912
+  title: 'Exploring Empowerment in Online Support Communities for People Living With
+    Tic Disorders and Tourette Syndrome: Qualitative Survey Study of User Experiences.'
+- content_length: 1636
+  doi: 10.47626/1516-4446-2025-4350
+  filepath: docs\research\tourette\Brain_Functional_Connectivity_and_Inhibitory_Control_in_Tourette_Syndrome_with_and_without_Comorbid_.md
+  source_type: doi_redirect
+  source_url: https://www.bjp.org.br/details/3662/en-US/brain-functional-connectivit-y-and-inhibitory-control-in-tourette-syndrome-with-and-without-comorbid-attention-deficit-hyperactivity-disorder
+  title: Brain Functional Connectivity and Inhibitory Control in Tourette Syndrome
+    with and without Comorbid Attention-Deficit/Hyperactivity Disorder.
+scraping_date: '2025-10-21T18:31:25.284436'
+successful: 3
+total_papers: 20
