@@ -1,0 +1,75 @@
+---
+title: Replicable, Transdiagnostic Behavioral and Neural Correlates of Sensory Overresponsivity.**DOI:**
+  10.1101/2025.09.04.672422
+authors:
+- HexinLuo
+- Andrew WKim
+- Christina AGurnett
+- Anna MAbbacchi
+- John NConstantino
+- Joan LLuby
+- Michael TPerino
+- Deanna MBarch
+- Chad MSylvester
+- Catalina MCamacho
+- Rebecca FSchwarzlose
+journal: 'bioRxiv : the preprint server for biology'
+doi: 10.1101/2025.09.04.672422
+publication_date: ''
+source: Processed from scraped content
+processing_date: '2025-10-21T22:15:09.867193'
+content_type: research_paper
+conditions:
+- adhd
+- asd
+- related_disorders
+topics: []
+categories:
+- adhd
+- asd
+- related-disorders
+reading_level: academic
+audience:
+- professional
+- researcher
+patient_friendly: false
+search_priority: standard
+keywords:
+- clinical
+- cognitive
+- behavioral
+- children
+- neurobiology
+search_tags:
+- asd
+- adhd
+- related_disorders
+- peer-reviewed
+- academic
+- research
+---
+
+# Replicable, Transdiagnostic Behavioral and Neural Correlates of Sensory Overresponsivity.**DOI:** 10.1101/2025.09.04.672422
+
+**Authors:** HexinLuo, Andrew WKim, Christina AGurnett, Anna MAbbacchi, John NConstantino, Joan LLuby, Michael TPerino, Deanna MBarch, Chad MSylvester, Catalina MCamacho, Rebecca FSchwarzlose
+
+**Journal:** bioRxiv : the preprint server for biology
+
+**DOI:** 10.1101/2025.09.04.672422
+
+## Abstract
+
+Sensory over-responsivity (SOR), characterized by strong negative reactions to typically innocuous stimuli, is considered a symptom of autism spectrum disorder. However, SOR also affects 15-20% of children overall, including a majority of children with common psychiatric conditions. Despite its prevalence, the clinical specificity and neurobiological bases of SOR remain poorly understood. Our study aims to determine the specific clinical significance of SOR across diverse child samples and establish whether SOR is associated with distinct patterns of functional connectivity (FC).
+We analyzed data from 15,728 children (ages 6-17.9 years) across five datasets: three community samples, including the Adolescent Brain Cognitive Development [ABCD] and Healthy Brain Network [HBN] studies, and two autism-enriched samples. Bivariate and multivariate models examined associations between SOR and symptoms of anxiety, attention-deficit/hyperactivity disorder, depression, conduct disorder, and oppositional defiant disorder, as well as autistic traits. Analysis of resting-state functional MRI (fMRI) data from the ABCD study tested brain-wide and circuit-specific FC correlates of mild SOR, replication of effects in an independent ABCD subsample, as well as extension to severe SOR in ABCD.
+Multivariate analyses revealed that SOR is associated with a remarkably consistent transdiagnostic profile: greater levels of both autistic traits and anxiety symptoms and, in community samples, lower levels of conduct disorder symptoms. Across samples, SOR is not reliably associated with symptoms of any other analyzed psychiatric conditions. SOR is associated with both brain-wide and circuit-specific resting-state functional connectivity (FC) patterns that replicate across independent subsamples and highlight FC differences between cingulo-parietal network and bilateral caudate nucleus.
+Our results demonstrate that SOR may constitute a transdiagnostic latent trait with both specific clinical risk and protection, and with replicable neural correlates that implicate specific cortico-subcortical circuits. These findings advance our understanding of the neurobiology and clinical relevance of SOR. They may also inform clinical practice and future research aimed at understanding and supporting individuals with sensory challenges.
+
+**Date:** 2025-09-15
+**Category:** adhd
+**Source:** pubmed
+**Scraped at:** 2025-10-21T10:59:27.380224
+**Source URL:** https://pubmed.ncbi.nlm.nih.gov/?term=10.1101/2025.09.04.672422## AbstractSensory over-responsivity (SOR), characterized by strong negative reactions to typically innocuous stimuli, is considered a symptom of autism spectrum disorder. However, SOR also affects 15-20% of children overall, including a majority of children with common psychiatric conditions. Despite its prevalence, the clinical specificity and neurobiological bases of SOR remain poorly understood. Our study aims to determine the specific clinical significance of SOR across diverse child samples and establish whether SOR is associated with distinct patterns of functional connectivity (FC).
+We analyzed data from 15,728 children (ages 6-17.9 years) across five datasets: three community samples, including the Adolescent Brain Cognitive Development [ABCD] and Healthy Brain Network [HBN] studies, and two autism-enriched samples. Bivariate and multivariate models examined associations between SOR and symptoms of anxiety, attention-deficit/hyperactivity disorder, depression, conduct disorder, and oppositional defiant disorder, as well as autistic traits. Analysis of resting-state functional MRI (fMRI) data from the ABCD study tested brain-wide and circuit-specific FC correlates of mild SOR, replication of effects in an independent ABCD subsample, as well as extension to severe SOR in ABCD.
+Multivariate analyses revealed that SOR is associated with a remarkably consistent transdiagnostic profile: greater levels of both autistic traits and anxiety symptoms and, in community samples, lower levels of conduct disorder symptoms. Across samples, SOR is not reliably associated with symptoms of any other analyzed psychiatric conditions. SOR is associated with both brain-wide and circuit-specific resting-state functional connectivity (FC) patterns that replicate across independent subsamples and highlight FC differences between cingulo-parietal network and bilateral caudate nucleus.
+Our results demonstrate that SOR may constitute a transdiagnostic latent trait with both specific clinical risk and protection, and with replicable neural correlates that implicate specific cortico-subcortical circuits. These findings advance our understanding of the neurobiology and clinical relevance of SOR. They may also inform clinical practice and future research aimed at understanding and supporting individuals with sensory challenges.## Full Text ContentAbstract AbstractObjective:Sensory over-responsivity (SOR), characterized by strong negative reactions to typically innocuous stimuli, is considered a symptom of autism spectrum disorder. However, SOR also affects 15-20% of children overall, including a majority of children with common psychiatric conditions. Despite its prevalence, the clinical specificity and neurobiological bases of SOR remain poorly understood. Our study aims to determine the specific clinical significance of SOR across diverse child samples and establish whether SOR is associated with distinct patterns of functional connectivity (FC).Method:We analyzed data from 15,728 children (ages 6-17.9 years) across five datasets: three community samples, including the Adolescent Brain Cognitive Development [ABCD] and Healthy Brain Network [HBN] studies, and two autism-enriched samples. Bivariate and multivariate models examined associations between SOR and symptoms of anxiety, attention-deficit/hyperactivity disorder, depression, conduct disorder, and oppositional defiant disorder, as well as autistic traits. Analysis of resting-state functional MRI (fMRI) data from the ABCD study tested brain-wide and circuit-specific FC correlates of mild SOR, replication of effects in an independent ABCD subsample, as well as extension to severe SOR in ABCD.Results:Multivariate analyses revealed that SOR is associated with a remarkably consistent transdiagnostic profile: greater levels of both autistic traits and anxiety symptoms and, in community samples, lower levels of conduct disorder symptoms. Across samples, SOR is not reliably associated with symptoms of any other analyzed psychiatric conditions. SOR is associated with both brain-wide and circuit-specific resting-state functional connectivity (FC) patterns that replicate across independent subsamples and highlight FC differences between cingulo-parietal network and bilateral caudate nucleus.Conclusion:Our results demonstrate that SOR may constitute a transdiagnostic latent trait with both specific clinical risk and protection, and with replicable neural correlates that implicate specific cortico-subcortical circuits. These findings advance our understanding of the neurobiology and clinical relevance of SOR. They may also inform clinical practice and future research aimed at understanding and supporting individuals with sensory challenges.---
+*This content was automatically scraped by Webscraping Agent A*

@@ -1,0 +1,45 @@
+---
+title: 'From the Editor-in-Chief''s Desk: Benchmarking Clinically Meaningful Improvement
+  in the Treatment of Tourette Syndrome.**DOI:** 10.1177/10445463251379865'
+authors:
+- Paul ECroarkin
+journal: Journal of child and adolescent psychopharmacology
+doi: 10.1177/10445463251379865
+publication_date: ''
+source: Processed from scraped content
+processing_date: '2025-10-21T22:15:09.414277'
+content_type: research_paper
+conditions:
+- tourette_syndrome
+topics: []
+categories:
+- tourette
+reading_level: academic
+audience:
+- professional
+- researcher
+patient_friendly: false
+search_priority: standard
+keywords:
+- treatment
+search_tags:
+- academic
+- peer-reviewed
+- research
+- tourette_syndrome
+---
+
+# From the Editor-in-Chief's Desk: Benchmarking Clinically Meaningful Improvement in the Treatment of Tourette Syndrome.**DOI:** 10.1177/10445463251379865
+
+**Authors:** Paul ECroarkin
+
+**Journal:** Journal of child and adolescent psychopharmacology
+
+**DOI:** 10.1177/10445463251379865
+
+**Date:** 2025-09-15
+**Category:** tourette_syndrome
+**Source:** pubmed
+**Scraped at:** 2025-10-21T10:44:57.576152
+**Source URL:** https://pubmed.ncbi.nlm.nih.gov/?term=10.1177/10445463251379865## Abstract## Full Text ContentFilters applied.Clear filtersEditorialJ Child Adolesc PsychopharmacolActionsSearch in PubMedSearch in NLM CatalogAdd to Search.2025 Oct;35(8):439-440.doi: 10.1177/10445463251379865.Epub 2025 Sep 15.From the Editor-in-Chief's Desk: Benchmarking Clinically Meaningful Improvement in the Treatment of Tourette SyndromePaul E Croarkin1AffiliationsExpandAffiliation1Mayo Clinic Children's Research Center, Mayo Clinic, Rochester, Minnesota, USA.PMID:40951991DOI:10.1177/10445463251379865Item in ClipboardEditorialFrom the Editor-in-Chief's Desk: Benchmarking Clinically Meaningful Improvement in the Treatment of Tourette SyndromePaul E Croarkin.J Child Adolesc Psychopharmacol.2025 Oct.Show detailsDisplay optionsDisplay optionsFormatAbstractPubMedPMIDJ Child Adolesc PsychopharmacolActionsSearch in PubMedSearch in NLM CatalogAdd to Search.2025 Oct;35(8):439-440.doi: 10.1177/10445463251379865.Epub 2025 Sep 15.AuthorPaul E Croarkin1Affiliation1Mayo Clinic Children's Research Center, Mayo Clinic, Rochester, Minnesota, USA.PMID:40951991DOI:10.1177/10445463251379865Item in ClipboardFull text linksCiteDisplay optionsDisplay optionsFormatAbstractPubMedPMIDNo abstract availablePubMed DisclaimerPublication typesEditorialActionsSearch in PubMedSearch in MeSHAdd to SearchLinkOut - more resourcesFull Text SourcesAtypon---
+*This content was automatically scraped by Webscraping Agent A*

@@ -1,0 +1,62 @@
+---
+title: A Protocol to examine the needs and experiences of autistic children/young
+  people or children/young people with an intellectual disability when receiving support
+  for mental health difficulties from child and adolescent mental health services.**DOI:**
+  10.12688/wellcomeopenres.23597.2
+authors:
+- NaomiWilliams
+- JulieTaylor
+- HelenaTuomainen
+journal: Wellcome open research
+doi: 10.12688/wellcomeopenres.23597.2
+publication_date: ''
+source: Processed from scraped content
+processing_date: '2025-10-21T22:15:03.470287'
+content_type: research_paper
+conditions:
+- asd
+- related_disorders
+topics:
+- comorbidity
+categories:
+- asd
+- related-disorders
+- comorbidity
+reading_level: academic
+audience:
+- professional
+- researcher
+patient_friendly: false
+search_priority: standard
+keywords:
+- children
+- treatment
+search_tags:
+- asd
+- related_disorders
+- peer-reviewed
+- comorbidity
+- academic
+- research
+---
+
+# A Protocol to examine the needs and experiences of autistic children/young people or children/young people with an intellectual disability when receiving support for mental health difficulties from child and adolescent mental health services.**DOI:** 10.12688/wellcomeopenres.23597.2
+
+**Authors:** NaomiWilliams, JulieTaylor, HelenaTuomainen
+
+**Journal:** Wellcome open research
+
+**DOI:** 10.12688/wellcomeopenres.23597.2
+
+## Abstract
+
+Studies indicate a high prevalence of co-occurring mental health conditions in autistic children and young people (CYP) and CYP with intellectual disability (ID), with approximately 25% experiencing mental health conditions compared to 17.2% of their non-autistic or non-ID counterparts. Delivering psychological therapies to autistic CYP and CYP with ID proves challenging due to inaccessible mental health provision. Further research is necessary to comprehend autistic CYP and CYP with ID and their parent/carers needs and experiences within mental health services and identify barriers to access and engagement. The perspectives of autistic CYP or CYP with ID and their parent/carers should be incorporated into treatment planning to enhance psychological therapies.
+We will conduct between 1-3 Narrative Interviews per participant, lasting up to 1.5 hours per 'sitting'. Narrative interviews are a qualitative research method used to collect detailed and thorough information from individuals about their life events, insights, and perspectives. The study will involve CYP creating metaphors, allowing them to share their story. The study will use alternative methods of communication specific to their needs to allow the research team to explore the complexities of autistic CYP and CYP with ID needs and experiences. Additionally, parents/carers of autistic CYP and CYP with ID will tell their story of the needs and experiences of their child verbally.
+This study results will help to share the needs and experiences of the autistic CYP and CYP with ID, or a co-occurrence of both diagnoses and expose the barriers to accessing mental health services for autistic CYP and CYP with ID.
+Recommendations will include guidance on decision-making for referrals, assessment, and treatment provision for autistic CYP and CYP with ID and co-occurring mental health difficulties.
+Children and young people with a neurodevelopmental difference, such as autism or intellectual disability, are 4.5 times more likely to experience anxiety or depression than their peers, known as a co-occurring mental health difficulty. Furthermore, 27.4% of referrals to mental health services in 2023–24 were children and young people under 18, with a neurodevelopmental difference, emphasising the need for early intervention from mental health services. Autistic children and young people and children and young people with intellectual disability are either told that they do not meet the criteria for mental health provision or find it difficult to engage with the psychological therapies offered following the assessment stage. This study will carry out narrative interviews with autistic children and young people, children and young people with intellectual disability and their parents or carers, where individuals can share their stories, including needs and experiences when using mental health services. The study supports the government's emphasis on early intervention and prevention of mental health difficulties. It will provide valuable recommendations for future service planning and mental health provision strategies for autistic children and young people and children and young people with intellectual disability.
+
+We will conduct between 1-3 Narrative Interviews per participant, lasting up to 1.5 hours per 'sitting'. Narrative interviews are a qualitative research method used to collect detailed and thorough information from individuals about their life events, insights, and perspectives. The study will involve CYP creating metaphors, allowing them to share their story. The study will use alternative methods of communication specific to their needs to allow the research team to explore the complexities of autistic CYP and CYP with ID needs and experiences. Additionally, parents/carers of autistic CYP and CYP with ID will tell their story of the needs and experiences of their child verbally.
+This study results will help to share the needs and experiences of the autistic CYP and CYP with ID, or a co-occurrence of both diagnoses and expose the barriers to accessing mental health services for autistic CYP and CYP with ID.
+Recommendations will include guidance on decision-making for referrals, assessment, and treatment provision for autistic CYP and CYP with ID and co-occurring mental health difficulties.
+Children and young people with a neurodevelopmental difference, such as autism or intellectual disability, are 4.5 times more likely to experience anxiety or depression than their peers, known as a co-occurring mental health difficulty. Furthermore, 27.4% of referrals to mental health services in 2023–24 were children and young people under 18, with a neurodevelopmental difference, emphasising the need for early intervention from mental health services. Autistic children and young people and children and young people with intellectual disability are either told that they do not meet the criteria for mental health provision or find it difficult to engage with the psychological therapies offered following the assessment stage. This study will carry out narrative interviews with autistic children and young people, children and young people with intellectual disability and their parents or carers, where individuals can share their stories, including needs and experiences when using mental health services. The study supports the government's emphasis on early intervention and prevention of mental health difficulties. It will provide valuable recommendations for future service planning and mental health provision strategies for autistic children and young people and children and young people with intellectual disability.## Full Text;window.NREUM||(NREUM={});NREUM.init={distributed_tracing:{enabled:true},privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]}}; ;NREUM.loader_config={accountID:"438030",trustKey:"438030",agentID:"772317078",licenseKey:"97f8f67f26",applicationID:"772317077"}; ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"97f8f67f26",applicationID:"772317077",sa:1}; ;/*! For license information please see nr-loader-spa-1.242.0.min.js.LICENSE.txt */ (()=>{"use strict";var e,t,r={234:(e,t,r)=>{r.d(t,{P_:()=>g,Mt:()=>v,C5:()=>s,DL:()=>w,OP:()=>S,lF:()=>N,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>A,sU:()=>j});var n=r(8632),i=r(9567);const o={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.D)(t,o),(0,n.Qy)(e,a[e],"info")}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector=t+",[data-nr-mask]":null===t?e.mask_selector=t:(0,l.Z)("An invalid session_replay.mask_selector was provided and will not be used",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},h={},p="All configuration objects require an agent identifier!";function g(e){if(!e)throw new Error(p);if(!h[e])throw new Error("Configuration for ".concat(e," was never set"));return h[e]}function m(e,t){if(!e)throw new Error(p);h[e]=(0,i.D)(t,f()),(0,n.Qy)(e,h[e],"config")}function v(e,t){if(!e)throw new Error(p);var r=g(e);if(r){for(var n=t.split("."),i=0;i {r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{r.d(t,{Re:()=>i,gF:()=>o,q4:()=>n});const n="1.242.0",i="PROD",o="CDN"},385:(e,t,r)=>{r.d(t,{FN:()=>s,IF:()=>d,Nk:()=>f,Tt:()=>c,_A:()=>o,cv:()=>h,iS:()=>a,il:()=>n,ux:()=>u,v6:()=>i,w1:()=>l});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),o=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof se## Scraping Notes- Successfully scraped from DOI.org

@@ -49,30 +49,87 @@ Thumbs.db
 # Logs
 *.log
 logs/
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+*~
 
 # Temporary files
 *.tmp
 *.temp
-*.bak
-*.backup
+*.swp
+*.swo
 
-# Node.js (for arxiv-mcp-server)
+# Analysis files (keep for reference but don't commit)
+duplicate_analysis.json
+cleanup_log.json
+patient_docs_audit_report.json
+cleanup_report.json
+
+# Scripts output
+*.csv
+*.yaml
+*.json
+!docs/meta/master_index.yaml
+!docs/meta/knowledge_index.yaml
+!config/openwebui_config.yaml
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+
+# Sensitive data
+.env
+.env.local
+.env.production
+.env.staging
+secrets/
+credentials/
+
+# Node modules (if any)
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Research specific
-*.html
-*.pdf
-temp_*
-papers_to_scrape_*.yaml
+# Jupyter Notebook
+.ipynb_checkpoints
 
-# Keep important data files
-!acquired_papers/*.csv
-!acquired_papers/*.yaml
-!docs/**/*.md
+# pyenv
+.python-version
 
-# Agent tracking files (will be created)
-# agent_tracking.json  # Commented out - needed for agents to work
-agent_locks/
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/

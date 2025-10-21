@@ -73,3 +73,41 @@ This study examined important aspects of neurodevelopmental disorders. The resea
 **Topics covered:** tourette_syndrome, cortisol_stress, growth_hormones
 
 *This summary was created to help make research more accessible. It's not a substitute for professional medical advice.*
+
+
+## Related Research Papers
+
+The following research papers provide scientific evidence and detailed information on this topic:
+
+### Tourette
+
+- [Abnormalities Of Iron Homeostasis And The Dopaminergic System In Tourette 1](../research/research\tourette\abnormalities_of_iron_homeostasis_and_the_dopaminergic_system_in_tourette_1.md)
+- [Abnormal Development Of Corticospinal Tracts In Children With Tourette Syndrome 1](../research/research\tourette\abnormal_development_of_corticospinal_tracts_in_children_with_tourette_syndrome_1.md)
+- [Acupuncture As A Potential Therapeutic Approach For Tourette Syndrome Modulation 1](../research/research\tourette\acupuncture_as_a_potential_therapeutic_approach_for_tourette_syndrome_modulation_1.md)
+- [Adult-Specific Reelin Expression Alters Striatal Neuronal Organization 1](../research/research\tourette\adult-specific_reelin_expression_alters_striatal_neuronal_organization_1.md)
+- [All That Glitters Is Not Gold When Motor And Vocal Tics In A Child Do Not Match](../research/research\tourette\all_that_glitters_is_not_gold_when_motor_and_vocal_tics_in_a_child_do_not_match.md)
+
+### Hormones Endocrine
+
+- [Budesonide And Hydrocortisone Have Differential Effects On Lung And Brain In](../research/research\hormones-endocrine\budesonide_and_hydrocortisone_have_differential_effects_on_lung_and_brain_in.md)
+- [Comparison Of Transconjunctival And Transnasal Approaches For Orbital](../research/research\hormones-endocrine\comparison_of_transconjunctival_and_transnasal_approaches_for_orbital.md)
+- [Diagnostic And Therapeutic Challenges Of Schaaf-Yang Syndrome A Brazilian Case](../research/research\hormones-endocrine\diagnostic_and_therapeutic_challenges_of_schaaf-yang_syndrome_a_brazilian_case.md)
+- [Efficacy And Safety Of Shugan Jieyu Capsules In Combination With Zolpidem For](../research/research\hormones-endocrine\efficacy_and_safety_of_shugan_jieyu_capsules_in_combination_with_zolpidem_for.md)
+- [From Mind To Milk The Influence Of Psychological Factors On The Composition Of 10 3390 Nu17061093](../research/research\hormones-endocrine\from_mind_to_milk_the_influence_of_psychological_factors_on_the_composition_of_10_3390_nu17061093.md)
+
+### Comorbidity
+
+- [Accurate Autism Spectrum Disorder Prediction Using Support Vector Classifier](../research/research\comorbidity\accurate_autism_spectrum_disorder_prediction_using_support_vector_classifier.md)
+- [Adhdeepnet From Raw Eeg To Diagnosis Improving Adhd Diagnosis Through](../research/research\comorbidity\adhdeepnet_from_raw_eeg_to_diagnosis_improving_adhd_diagnosis_through.md)
+- [Adhd And Asd Traits Are Differentially Associated With Orientation Sensitivity](../research/research\comorbidity\adhd_and_asd_traits_are_differentially_associated_with_orientation_sensitivity.md)
+- [Adhd Diagnostic Interface Based On Eeg Spectrograms And Deep Learning Techniques](../research/research\comorbidity\adhd_diagnostic_interface_based_on_eeg_spectrograms_and_deep_learning_techniques.md)
+- [Agarβ-Cyclodextrin Composite Cryogels For Controlled Release Of Aripiprazole](../research/research\comorbidity\agarβ-cyclodextrin_composite_cryogels_for_controlled_release_of_aripiprazole.md)
+
+### Related Disorders
+
+- [](../research/research\related-disorders\.md)
+- [Aberrant Intrinsic Brain Network Functional Connectivity During A Face-Matching Task In Women Diagno](../research/research\related-disorders\aberrant_intrinsic_brain_network_functional_connectivity_during_a_face-matching_task_in_women_diagno.md)
+- [Actb Deletions Or Single-Nucleotide Loss-Of-Function Variants Expansion And 1](../research/research\related-disorders\actb_deletions_or_single-nucleotide_loss-of-function_variants_expansion_and_1.md)
+- [Adrenarche Social Cognition And The Development And Evolution Of Autism Spectrum](../research/research\related-disorders\adrenarche_social_cognition_and_the_development_and_evolution_of_autism_spectrum.md)
+- [Altered Functional Connectivity Density And Structural Covariance Networks In Women With Premenstrua](../research/research\related-disorders\altered_functional_connectivity_density_and_structural_covariance_networks_in_women_with_premenstrua.md)
+

@@ -1,0 +1,62 @@
+---
+title: 'From Pharmacological Treatment to Neuromodulation: A Comprehensive Approach
+  to Managing Gilles de la Tourette Syndrome.**DOI:** 10.3390/ijms26188831'
+authors:
+- EdoardoMonfrini
+- ChristianSaleh
+- DomenicoServello
+- PhillipJaszczuk
+- MauroPorta
+journal: International journal of molecular sciences
+doi: 10.3390/ijms26188831
+publication_date: ''
+source: Processed from scraped content
+processing_date: '2025-10-21T22:15:09.412275'
+content_type: research_paper
+conditions:
+- tourette_syndrome
+- adhd
+topics:
+- neurochemistry
+categories:
+- tourette
+- adhd
+- neurochemistry
+reading_level: academic
+audience:
+- professional
+- researcher
+patient_friendly: false
+search_priority: standard
+keywords:
+- clinical
+- cognitive
+- therapy
+- treatment
+search_tags:
+- adhd
+- peer-reviewed
+- tourette_syndrome
+- academic
+- research
+- neurochemistry
+---
+
+# From Pharmacological Treatment to Neuromodulation: A Comprehensive Approach to Managing Gilles de la Tourette Syndrome.**DOI:** 10.3390/ijms26188831
+
+**Authors:** EdoardoMonfrini, ChristianSaleh, DomenicoServello, PhillipJaszczuk, MauroPorta
+
+**Journal:** International journal of molecular sciences
+
+**DOI:** 10.3390/ijms26188831
+
+## Abstract
+
+Gilles de la Tourette syndrome (GTS) is a neurodevelopmental disorder characterized by motor and phonic tics, often including attention deficit, hyperactivity, and obsessive-compulsive behaviours. The pathophysiology involves the dysfunction of cortico-striato-thalamo-cortical circuits, primarily implicating dopaminergic hyperactivity, but also involving multiple different neurotransmitter systems. Treatment of GTS is complex, highly individualized, and influenced by considerable variability in symptom presentation. Behavioural approaches, such as Habit Reversal Therapy (HRT), play a key role, especially in milder cases. Pharmacological therapy is largely empirical and varies across countries, influenced by drug availability and the perceived risks of certain classes of drugs, particularly dopamine receptor blocking agents. Drug options for managing tics include dopamine receptor antagonists, monoamine depleting agents, and alpha-2 agonists, all of which require close monitoring for metabolic, cardiovascular, and neurological side effects. Botulinum toxin injections represent an effective solution for focal tics that are resistant to systemic treatments. Cannabinoids and antiepileptics have limited efficacy, yet they may still offer relevant therapeutic potential in selected cases. Serotonergic drugs are useful for treating obsessive-compulsive symptoms. For patients with refractory tics, deep brain stimulation (DBS) represents an intervention of last-resort; however, DBS remains off-label and consensus on optimal targets is lacking. This narrative review draws on both the relevant literature and extensive personal clinical experience to explore the complexities of managing GTS, with a focus on evidence-based treatments for tics and associated neuropsychiatric symptoms. A therapeutic algorithm is proposed, emphasizing a "start low, go slow" approach, combining pharmacological interventions with cognitive behavioural and surgical therapies, when needed. We underscore the importance of tailoring treatments to individual patient profiles and symptom variability over time, highlighting the need for further research in GTS management.
+
+**Date:** 2025-09-27
+**Category:** tourette_syndrome
+**Source:** pubmed
+**Scraped at:** 2025-10-21T10:44:09.373653
+**Source URL:** https://pubmed.ncbi.nlm.nih.gov/?term=10.3390/ijms26188831## AbstractGilles de la Tourette syndrome (GTS) is a neurodevelopmental disorder characterized by motor and phonic tics, often including attention deficit, hyperactivity, and obsessive-compulsive behaviours. The pathophysiology involves the dysfunction of cortico-striato-thalamo-cortical circuits, primarily implicating dopaminergic hyperactivity, but also involving multiple different neurotransmitter systems. Treatment of GTS is complex, highly individualized, and influenced by considerable variability in symptom presentation. Behavioural approaches, such as Habit Reversal Therapy (HRT), play a key role, especially in milder cases. Pharmacological therapy is largely empirical and varies across countries, influenced by drug availability and the perceived risks of certain classes of drugs, particularly dopamine receptor blocking agents. Drug options for managing tics include dopamine receptor antagonists, monoamine depleting agents, and alpha-2 agonists, all of which require close monitoring for metabolic, cardiovascular, and neurological side effects. Botulinum toxin injections represent an effective solution for focal tics that are resistant to systemic treatments. Cannabinoids and antiepileptics have limited efficacy, yet they may still offer relevant therapeutic potential in selected cases. Serotonergic drugs are useful for treating obsessive-compulsive symptoms. For patients with refractory tics, deep brain stimulation (DBS) represents an intervention of last-resort; however, DBS remains off-label and consensus on optimal targets is lacking. This narrative review draws on both the relevant literature and extensive personal clinical experience to explore the complexities of managing GTS, with a focus on evidence-based treatments for tics and associated neuropsychiatric symptoms. A therapeutic algorithm is proposed, emphasizing a "start low, go slow" approach, combining pharmacological interventions with cognitive behavioural and surgical therapies, when needed. We underscore the importance of tailoring treatments to individual patient profiles and symptom variability over time, highlighting the need for further research in GTS management.## Full Text ContentAbstract AbstractGilles de la Tourette syndrome (GTS) is a neurodevelopmental disorder characterized by motor and phonic tics, often including attention deficit, hyperactivity, and obsessive-compulsive behaviours. The pathophysiology involves the dysfunction of cortico-striato-thalamo-cortical circuits, primarily implicating dopaminergic hyperactivity, but also involving multiple different neurotransmitter systems. Treatment of GTS is complex, highly individualized, and influenced by considerable variability in symptom presentation. Behavioural approaches, such as Habit Reversal Therapy (HRT), play a key role, especially in milder cases. Pharmacological therapy is largely empirical and varies across countries, influenced by drug availability and the perceived risks of certain classes of drugs, particularly dopamine receptor blocking agents. Drug options for managing tics include dopamine receptor antagonists, monoamine depleting agents, and alpha-2 agonists, all of which require close monitoring for metabolic, cardiovascular, and neurological side effects. Botulinum toxin injections represent an effective solution for focal tics that are resistant to systemic treatments. Cannabinoids and antiepileptics have limited efficacy, yet they may still offer relevant therapeutic potential in selected cases. Serotonergic drugs are useful for treating obsessive-compulsive symptoms. For patients with refractory tics, deep brain stimulation (DBS) represents an intervention of last-resort; however, DBS remains off-label and consensus on optimal targets is lacking. This narrative review draws on both the relevant literature and extensive personal clinical experience to explore the complexities of managing GTS, with a focus on evidence-based treatments for tics and associated neuropsychiatric symptoms. A therapeutic algorithm is proposed, emphasizing a "start low, go slow" approach, combining pharmacological interventions with cognitive behavioural and surgical therapies, when needed. We underscore the importance of tailoring treatments to individual patient profiles and symptom variability over time, highlighting the need for further research in GTS management.Keywords:Gilles de la Tourette syndrome; Habit Reversal Therapy; deep brain stimulation; pharmacotherapy.---
+*This content was automatically scraped by Webscraping Agent A*

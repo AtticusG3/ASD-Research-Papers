@@ -1,0 +1,56 @@
+# GitHub Pages configuration
+title: ASD Research Papers Collection
+description: A comprehensive collection of research papers on Autism Spectrum Disorder, Tourette Syndrome, ADHD, and related neurodevelopmental conditions
+baseurl: ""
+url: ""
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Research Papers
+    url: /docs/research/
+  - title: Patient Guides
+    url: /docs/patient-guides/
+  - title: Support Resources
+    url: /docs/support/
+  - title: Search Guide
+    url: /docs/SEARCH_GUIDE.html
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:name/
+  patient-guides:
+    output: true
+    permalink: /:collection/:name/
+  support:
+    output: true
+    permalink: /:collection/:name/
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO
+seo:
+  type: "WebSite"
+  name: "ASD Research Papers Collection"
+  description: "Comprehensive research collection for neurodevelopmental disorders"
+  url: "https://your-username.github.io/asd-research-papers"
+  image: "/assets/logo.png"
+
+# Exclude files
+exclude:
+  - README.md
+  - LICENSE
+  - CONTRIBUTING.md
+  - CONTRIBUTORS.md
+  - scripts/
+  - tests/
+  - .gitignore
+  - requirements.txt
+  - .github/
