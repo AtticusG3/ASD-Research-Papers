@@ -74,5 +74,5 @@ papers_to_scrape_*.yaml
 !docs/**/*.md
 
 # Agent tracking files (will be created)
-agent_tracking.json
+# agent_tracking.json  # Commented out - needed for agents to work
 agent_locks/
