@@ -210,10 +210,18 @@ class AgentManager:
         if not os.path.exists(csv_path):
             return False
         
+        print(f"Loading CSV from: {csv_path}")
         df = pd.read_csv(csv_path)
-        papers = []
+        print(f"CSV loaded with {len(df)} rows")
         
-        for _, row in df.iterrows():
+        papers = []
+        current_time = datetime.now().isoformat()  # Get timestamp once instead of for each paper
+        
+        print("Processing papers...")
+        for i, (_, row) in enumerate(df.iterrows()):
+            if i % 100 == 0:  # Progress indicator every 100 papers
+                print(f"Processed {i} papers...")
+                
             if pd.notna(row['doi']):  # Only include papers with DOIs
                 paper = {
                     "title": row['title'],
@@ -224,15 +232,19 @@ class AgentManager:
                     "abstract": row['abstract'],
                     "category": row['category'],
                     "source": row.get('source', 'pubmed'),
-                    "added_to_tracking": datetime.now().isoformat()
+                    "added_to_tracking": current_time
                 }
                 papers.append(paper)
         
+        print(f"Processed {len(papers)} papers with DOIs")
+        
         with self.lock:
+            print("Saving papers to tracking system...")
             self.data["papers"]["papers_to_scrape"] = papers
             self.data["papers"]["total_papers"] = len(papers)
             self.data["batches"]["total_batches"] = (len(papers) + self.data["batches"]["batch_size"] - 1) // self.data["batches"]["batch_size"]
             self.save_tracking_data()
+            print("Papers saved successfully")
         
         return len(papers)
     

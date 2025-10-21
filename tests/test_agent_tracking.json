@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "name": "ASD Research Papers Webscraping",
+    "version": "1.0.0",
+    "description": "Multi-agent webscraping system for research papers",
+    "created": "2025-10-21T19:26:09.954022",
+    "last_updated": "2025-10-21T19:26:09.954022"
+  },
+  "agents": {
+    "active_agents": [],
+    "agent_registry": {},
+    "max_concurrent_agents": 5
+  },
+  "papers": {
+    "total_papers": 0,
+    "papers_to_scrape": [],
+    "scraped_papers": [],
+    "failed_papers": [],
+    "in_progress": []
+  },
+  "batches": {
+    "current_batch": 1,
+    "batch_size": 20,
+    "batches_completed": 0,
+    "total_batches": 0
+  },
+  "statistics": {
+    "total_attempts": 0,
+    "successful_scrapes": 0,
+    "failed_scrapes": 0,
+    "success_rate": 0.0,
+    "last_successful_scrape": null,
+    "average_content_length": 0
+  },
+  "locks": {
+    "global_lock": false,
+    "file_locks": {},
+    "agent_locks": {}
+  },
+  "settings": {
+    "retry_attempts": 3,
+    "delay_between_requests": 2,
+    "timeout_seconds": 15,
+    "min_content_length": 500,
+    "max_concurrent_requests": 3
+  },
+  "logs": {
+    "last_activity": null,
+    "error_count": 0,
+    "warning_count": 0
+  }
+}
