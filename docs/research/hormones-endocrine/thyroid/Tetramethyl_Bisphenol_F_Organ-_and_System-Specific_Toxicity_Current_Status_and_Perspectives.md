@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.462526'
 acquisition_method: paperscraper_automated
 audience:
@@ -43,9 +44,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Tetramethyl Bisphenol F: Organ- and System-Specific Toxicity, Current Status, and Perspectives.
 
-**Authors:** ['InhoHwang', 'Xiang-ShunCui', 'Eui-BaeJeung']
+# **Authors:** ['InhoHwang', 'Xiang-ShunCui', 'Eui-BaeJeung']
 
 **Journal:** International journal of molecular sciences
 
@@ -55,7 +58,7 @@ type: research_paper
 
 ## Abstract
 
-Tetramethyl bisphenol F (TMBPF) is being increasingly used as a Bisphenol A (BPA) substitute, particularly as a coating material for food and beverage cans. Unlike BPA, TMBPF is considered safe because of the lack of reported estrogenic effects, and it is often marketed under the "BPA-free" label. Initial cell-based assays and rat toxicity studies indicated much lower systemic and sex hormone-related toxicity of TMBPF compared with BPA, which has facilitated its substitution and significant market expansion. Since 2021, however, a growing body of research has reported various adverse effects of TMBPF across multiple biological systems. These include cytotoxicity associated with apoptosis and endocrine-disrupting effects on the thyroid axis, skeletal system, neurodevelopment, and reproductive function. Although the effects on the estrogen and androgen systems, as well as obesogenic potential, show variability across studies, several studies have indicated significant biological impacts. Of particular concern is the potential neurodevelopmental toxicity, which may manifest only after long-term exposure and is often irreversible. Even if current leaching levels from food contact materials are minimal, environmental accumulation and biomagnification over time may pose significant risks. Therefore, comprehensive toxicological profiling of TMBPF is essential. This review summarizes the current toxicological findings on TMBPF and discusses the implications for future research and regulatory considerations, highlighting the importance of early attention to potential public health impacts. Strengthening the toxicological evidence base will help inform regulatory frameworks and support proactive measures to safeguard consumer safety as the use of TMBPF expands.
+## Results
 
 ---
 

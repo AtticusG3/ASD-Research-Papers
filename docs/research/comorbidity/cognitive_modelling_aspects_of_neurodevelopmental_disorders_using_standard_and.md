@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.975994'
 acquisition_method: paperscraper_automated
 audience:
@@ -41,9 +42,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Cognitive Modelling Aspects of Neurodevelopmental Disorders Using Standard and Oscillating Neighbourhood SOM Neural Networks
 
-**Authors:** Spyridon Revithis, Nadine Marcus
+# **Authors:** Spyridon Revithis, Nadine Marcus
 
 **Publication Date:** 2025-07-16
 
@@ -51,14 +54,14 @@ type: research_paper
 
 ## Abstract
 
-Background/Introduction: In this paper, the neural network class of Self-Organising Maps (SOMs) is investigated in terms of its theoretical and applied validity for cognitive modelling, particularly of neurodevelopmental disorders. Methods: A modified SOM network type, with increased biological plausibility, incorporating a type of cortical columnar oscillation in the form of an oscillating Topological Neighbourhood (TN), is introduced and applied alongside the standard SOM. Aspects of two neurodevelopmental disorders, autism and schizophrenia, are modelled using SOM networks, based on existing neurocomputational theories. Both standard and oscillating-TN SOM training is employed with targeted modifications in the TN width function. Computer simulations are conducted using revised versions of a previously introduced model (IPSOM) based on a new modelling hypothesis. Results/Conclusions: The results demonstrate that there is strong similarity between standard and oscillating-TN SOM modelling in terms of map formation behaviour, output and structure, while the oscillating version offers a more realistic computational analogue of brain function. Neuroscientific and computational arguments are presented to validate the proposed SOM modification within a cognitive modelling framework.
+## Introduction
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, asd, growth_hormones
 **Search Query:** neurodevelopmental disorders dopamine
 **Acquisition Date:** 2025-10-21

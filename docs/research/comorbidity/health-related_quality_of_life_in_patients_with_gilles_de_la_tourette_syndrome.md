@@ -53,10 +53,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -84,8 +80,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Springer logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-springeropen.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-springeropen.png)
 Neurol Sci
 . 2016 Jul 25;37(11):1857–1860. doi: [10.1007/s10072-016-2682-y](https://doi.org/10.1007/s10072-016-2682-y)
 # Health-related quality of life in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood
@@ -129,8 +124,7 @@ Corresponding author.
 Received 2016 Jun 19; Accepted 2016 Jul 20; Issue date 2016.
 © The Author(s) 2016
 **Open Access**This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<http://creativecommons.org/licenses/by/4.0/>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC5065905  PMID: [27457656](https://pubmed.ncbi.nlm.nih.gov/27457656/)
+[PMC ncbi.nlm.nih.gov/27457656/)
 ## Abstract
 Gilles de la Tourette syndrome (GTS) is a neurodevelopmental condition characterised by tics and co-morbid behavioural problems, affecting predominantly male patients. Tic severity typically fluctuates over time, with a consistent pattern showing improvement after adolescence in a considerable proportion of patients. Both tics and behavioural co-morbidities have been shown to have the potential to affect patients’ health-related quality of life (HR-QoL) in children and adults with persisting symptoms. In this study, we present the results of the first investigation of HR-QoL in patients with Gilles de la Tourette syndrome at the transition between adolescence and adulthood using a disease-specific HR-QoL measure, the Gilles de la Tourette Syndrome-Quality of Life-Children and Adolescents scale. Our results showed that patients with GTS and more severe co-morbid anxiety symptoms reported lower HR-QoL across all domains, highlighting the impact of anxiety on patient’s well-being at a critical stage of development. Routine screening for anxiety symptoms is recommended in all patients with GTS seen at transition clinics from paediatric to adult care, to implement effective behavioural and pharmacological interventions as appropriate.
 **Keywords:** Anxiety, Gilles de la Tourette syndrome, Health-related quality of life, Tics
@@ -244,7 +238,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, unknown, quality_of_life
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

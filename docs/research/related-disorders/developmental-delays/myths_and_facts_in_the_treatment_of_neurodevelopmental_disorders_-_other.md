@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.950830'
 acquisition_method: paperscraper_automated
 audience:
@@ -47,9 +48,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Myths and facts in the treatment of neurodevelopmental disorders - other therapies.
 
-**Authors:** ['Livio Francisco SChaves', 'Fábio BorgesPessoa', 'Pedro Henrique ResendeMarques']
+# **Authors:** ['Livio Francisco SChaves', 'Fábio BorgesPessoa', 'Pedro Henrique ResendeMarques']
 
 **Journal:** Jornal de pediatria
 
@@ -59,7 +62,7 @@ type: research_paper
 
 ## Abstract
 
-To critically examine the effectiveness of complementary and alternative therapies (CATs) in the treatment of neurodevelopmental disorders, distinguishing myths from evidence-based practices and supporting informed therapeutic decision-making for healthcare professionals, educators, and families. Evidence was collected from PubMed, Scopus, and Web of Science up to August 2025. Systematic reviews, meta-analyses, and international consensus statements addressing attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder (ASD), specific learning disorders, communication and language disorders, intellectual disability, and developmental coordination disorder were included. Interest in interventions such as neurofeedback, transcranial direct current stimulation, music therapy, equine-assisted therapy, virtual reality, and gamification has grown substantially. However, most of these approaches lack methodological standardization and robust evidence to justify their use as primary treatments. Some demonstrate modest benefits as adjunctive strategies, especially when integrated into structured programs and supervised by multidisciplinary teams. Conversely, therapies including acupuncture, ozone therapy, and hyperbaric oxygen therapy present insufficient scientific support and should not be considered substitutes for validated methods. Complementary and alternative therapies remain a topic of significant debate in the management of neurodevelopmental disorders. While certain approaches may offer limited adjunctive benefits, their clinical use should be carefully evaluated within evidence-based frameworks. The development of rigorous evaluations, standardized protocols, and the safe integration of innovative technologies is essential to optimize therapeutic outcomes without compromising access to scientifically validated interventions.
+## Methods
 
 ---
 

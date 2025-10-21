@@ -59,10 +59,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -90,8 +86,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Springer logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-springeropen.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-springeropen.png)
 Exp Brain Res
 . 2019 Aug 28;237(11):2853–2863. doi: [10.1007/s00221-019-05637-5](https://doi.org/10.1007/s00221-019-05637-5)
 # Effects of single-session cathodal transcranial direct current stimulation on tic symptoms in Tourette’s syndrome
@@ -123,8 +118,7 @@ Corresponding author.
 Received 2019 May 9; Accepted 2019 Aug 19; Issue date 2019.
 © The Author(s) 2019
 **Open Access**This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<http://creativecommons.org/licenses/by/4.0/>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC6794240  PMID: [31463531](https://pubmed.ncbi.nlm.nih.gov/31463531/)
+[PMC ncbi.nlm.nih.gov/31463531/)
 ## Abstract
 Tourette syndrome is a neurodevelopmental disorder characterised by motor and phonic tics. For some, tics can be managed using medication and/or forms of behavioural therapy; however, adverse side effects and access to specialist resources can be barriers to treatment. In this sham-controlled brain stimulation study, we investigated the effects of transcranial direct current stimulation (tDCS) on the occurrence of tics and motor cortical excitability in individuals aged 16–33 years with Tourette syndrome. Changes in tics were measured using video recordings scored using the RUSH method (Goetz et al. in Mov Disord 14:502–506, 1999) and changes in cortical excitability were measured using single-pulse transcranial magnetic stimulation (spTMS) over the primary motor cortex (M1). Video recordings and spTMS measures were taken before and after 20 min of sham or active tDCS: during which cathodal current was delivered to an electrode placed above the supplementary motor area (SMA). Tic impairment scores, calculated from the video data, were significantly lower post-cathodal stimulation in comparison with post-sham stimulation; however, the interaction between time (pre/post) and stimulation (cathodal/sham) was not significant. There was no indication of a statistically significant change in M1 cortical excitability following SMA stimulation. This study presents tentative evidence that tDCS may be helpful in reducing tics for some individuals, and provides a foundation for larger scale explorations of the use of tDCS as a treatment for reducing tics.
 ### Electronic supplementary material
@@ -344,7 +338,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, comorbidity_analysis, quality_of_life, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

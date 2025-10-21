@@ -46,6 +46,8 @@ Pharmacological reports : PR
 
 ## Abstract
 
+Premenstrual disorders (PMD) are a prevalent health issue and often co-occur with mood disorders. The pathophysiology of PMD has not yet been thoroughly described. Two mechanisms appear to be crucial in PMD: (1) lower estrogen levels during the luteal phase, leading to a subsequent decrease in serotonin (5-HT) transmission, and (2) reduced sensitivity to allopregnanolone, resulting in an imbalance in γ-aminobutyric acid (GABA)/glutamate signaling and an increase in hypothalamic-pituitary-adrenal (HPA) activation. The roles of zinc (Zn), copper (Cu), and magnesium (Mg) in mood disorders are well-established, and they appear to be associated with PMD through similar pathways. Therefore, this narrative review provides background information on the roles of Zn, Cu, and Mg in mood regulation and discusses the impact of these trace elements on this process. The results presented, summarizing data from studies: (1) exploring the associations between Zn, Cu, and Mg levels and PMD, and (2) verifying the effects of Zn, Cu, and Mg supplementation on PMD symptoms. Finally, the caveats of current PMD research and the implications of the available data for everyday clinical practice are discussed.
+Clinical trial number: Not applicable.
 
 ## Full Text Content
 

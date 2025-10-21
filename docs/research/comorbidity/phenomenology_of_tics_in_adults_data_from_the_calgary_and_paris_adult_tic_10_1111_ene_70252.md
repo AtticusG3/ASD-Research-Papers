@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.722763'
 acquisition_method: paperscraper_automated
 audience:
@@ -55,9 +56,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # The Phenomenology of Tics in Adults: Data From the Calgary and Paris Adult Tic Disorders Registry.
 
-**Authors:** ['ChristelleNilles', 'YuliaWorbe', 'AndreasHartmann', 'DavideMartino', 'JulianFletcher', 'NaoualSerari', 'CatherineDeans', 'IsabellaDavenport', 'EmmanuelRoze', 'TamaraPringsheim']
+# **Authors:** ['ChristelleNilles', 'YuliaWorbe', 'AndreasHartmann', 'DavideMartino', 'JulianFletcher', 'NaoualSerari', 'CatherineDeans', 'IsabellaDavenport', 'EmmanuelRoze', 'TamaraPringsheim']
 
 **Journal:** European journal of neurology
 
@@ -67,7 +70,7 @@ type: research_paper
 
 ## Abstract
 
-This study investigated the phenomenology of tics in adults with primary tic disorders (Tourette syndrome, persistent motor or phonic tic disorders) and how these features are influenced by sex. It also examined the prevalence of comorbid psychiatric conditions and psychotropic medication use. A cross-sectional study was conducted on 227 adults with primary tic disorders from the Calgary and Paris Adult Tic Registry. Data collected included demographics, tic characteristics (using the Yale Global Tic Severity Scale), psychiatric comorbidities, and medication use. Statistical analyses were performed to compare data between sexes. The sex ratio was 1.8 males to 1 female. The most common motor tics were simple (eye blinking, simple head movements), and the most common phonic tic was throat clearing. There were no significant sex differences in tic phenomenology or severity. Generalized anxiety disorder (49.5%) and attention deficit hyperactivity disorder (ADHD) (35.8%) were the most common comorbidities. A lower proportion of women were diagnosed with ADHD, while a higher proportion were diagnosed with obsessive compulsive disorder. The male predominance of tic disorders is less marked in adulthood compared to childhood. Tic phenomenology and severity do not significantly differ between sexes. These findings provide valuable insights into the clinical presentation of tic disorders in adults. Future research will explore severity of comorbid mental health conditions, how these influence tic severity, treatment outcomes and quality of life.
+## Results
 
 ---
 

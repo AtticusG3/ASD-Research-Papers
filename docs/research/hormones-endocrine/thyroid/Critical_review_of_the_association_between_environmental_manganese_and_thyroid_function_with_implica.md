@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.514574'
 acquisition_method: paperscraper_automated
 audience:
@@ -41,9 +42,11 @@ topics:
 type: research_paper
 ---
 
-# Critical review of the association between environmental manganese and thyroid function, with implications for potential neurodevelopmental effects.
 
-**Authors:** ['NKaryakina', 'NShilnikova', 'NFarhat', 'CBates', 'FMomoli', 'ALeopold', 'DKrewski']
+
+## Discussion
+
+# **Authors:** ['NKaryakina', 'NShilnikova', 'NFarhat', 'CBates', 'FMomoli', 'ALeopold', 'DKrewski']
 
 **Journal:** Journal of toxicology and environmental health. Part B, Critical reviews
 
@@ -53,7 +56,7 @@ type: research_paper
 
 ## Abstract
 
-Manganese (Mn) is an essential trace element that, in excess, may initiate adverse health effects. Recent evidence suggested that environmental exposure to Mn may produce thyroid hormone imbalances leading to adverse neurodevelopmental outcomes. The aim of this review was to summarize available evidence regarding Mn exposure and consequent adverse thyroid effects, including potential implications for neurodevelopmental impairment in children. Medline, EMBASE, and Scopus were systematically searched using two concepts: Mn exposure and thyroid function. A total of 31 studies (17 human studies, 14 toxicological studies) fulfilled eligibility criteria. Evidence for effects attributed to Mn on the thyroid from human studies is inconclusive. No apparent studies were identified to directly characterize Mn thyroid-mediated effects on neurodevelopmental outcomes. Although limited evidence from animal studies provides some support for the effects of Mn on thyroid-related hormones, it is unclear whether such hormonal imbalance is a result of a direct or indirect biological mechanism of action. Toxicokinetic data demonstrated that Mn accumulates in thyroid tissue and might interfere with thyroid function. Currently, there are limited data on biological mechanisms of action for the effects of Mn on the thyroid. Although evidence to date is suggestive of Mn thyroid-related activity, the lack of adequate studies precludes a causal interpretation.
+## Results
 
 ---
 

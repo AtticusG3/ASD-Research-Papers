@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.016890'
 acquisition_method: paperscraper_automated
 audience:
@@ -39,9 +40,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Dysregulation of G protein subunits in autism: decreased GNAO1 and elevated GNAI1 levels in ASD.
 
-**Authors:** ['HaticeTopal', 'NilferSahin', 'CilemOzdemir', 'ÖzlemNehir Yazici', 'GulsumDemirkan Baskaya', 'YasarTopal', 'TubaEdgunlu']
+# **Authors:** ['HaticeTopal', 'NilferSahin', 'CilemOzdemir', 'ÖzlemNehir Yazici', 'GulsumDemirkan Baskaya', 'YasarTopal', 'TubaEdgunlu']
 
 **Journal:** Frontiers in psychiatry
 
@@ -51,7 +54,7 @@ type: research_paper
 
 ## Abstract
 
-Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by social interaction deficits and repetitive behaviors. This study explores the potential role of G protein subunits GNAO1, GNB1, and GNAI1 in the underlying mechanisms by comparing their serum levels in individuals with ASD and non-autistic participants. We enrolled 42 children (aged 3-7 years) diagnosed with ASD and 42 age- and sex-matched non-autistic participants. Serum levels of GNAO1, GNB1, and GNAI1 were quantified using ELISA. Additionally, in silico analysis was conducted to investigate protein interaction networks and functional enrichment. Serum GNAO1 levels were significantly decreased ( Our findings suggest that dysregulation of G protein signaling pathways, characterized by reduced GNAO1 and increased GNAI1 levels, may contribute to underlying mechanisms of ASD. Further research is warranted to clarify the mechanistic roles of these subunits in ASD and their potential as biomarkers or therapeutic targets.
+## Results
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:38.310190'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:55.028901'
@@ -33,9 +34,11 @@ topics: []
 type: research_paper
 ---
 
+
+
 # Rest Induces a Distinct Transcriptional Program in the Nervous System of the Exercised
 
-**Authors:** ['Julian MRozenberg', 'DmitriBoguslavsky', 'IlyaChistopolsky', 'IgorZakharov', 'VarvaraDyakonova']
+# **Authors:** ['Julian MRozenberg', 'DmitriBoguslavsky', 'IlyaChistopolsky', 'IgorZakharov', 'VarvaraDyakonova']
 
 **Journal:** International journal of molecular sciences
 
@@ -44,8 +47,9 @@ type: research_paper
 **DOI:** 10.3390/ijms26146970
 
 ## Abstract
+## Results
 
-In the freshwater snail 
+In the freshwater snail
 
 ---
 
@@ -53,7 +57,7 @@ In the freshwater snail
 
 **Source:** PUBMED
 **Category:** neurochemistry
-**Primary Topics:** 
+**Primary Topics:**
 **Search Query:** dopamine neurodevelopmental
 **Acquisition Date:** 2025-10-21
 

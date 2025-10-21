@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:56.066075'
 acquisition_method: paperscraper_automated
 audience:
@@ -44,9 +45,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Improvement of attention in subjects diagnosed with hyperkinetic syndrome using BIOVIT Simulator
 
-**Authors:** Cesar R Salas-Guerra
+# **Authors:** Cesar R Salas-Guerra
 
 **Publication Date:** 2023-02-11
 
@@ -54,14 +57,14 @@ type: research_paper
 
 ## Abstract
 
-This study aimed to stimulate the brain's executive function through a series of tasks and rules based on dynamic perceptual stimuli using the Biotechnology Virtual Immersion Simulator (BIOVIT) and thus evaluate its usefulness to maintain and increase attention levels in subjects diagnosed with hyperkinetic syndrome. With a quantitative methodology framed in a longitudinal trend design, the cause of the exposure-outcome relationships was studied using the BIOVIT simulator. Exploratory analysis of oscillatory brain activity was measured using a graphical recording of brain electrical activity and attention levels. Data consisted of 77,566 observations from n = 18 separately studied participants. The findings established that the BIOVIT simulator maintained and increased the attention levels of the participants by 77.8%. Furthermore, the hypothesis was tested that virtual reality immersion technologies significantly affect attention levels in participants aged 8 to 12. The evidence shows that the BIOVIT simulator is an alternative to developing learning methodologies in vulnerable populations. The low implementation costs and the diversity of academic applications may allow schools in developing countries to solve this problem that afflicts thousands of children with attention deficit and hyperactivity disorder.
+## Methods
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, adhd, growth_hormones, cohort_study
 **Search Query:** attention deficit brain structure
 **Acquisition Date:** 2025-10-21

@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.030903'
 acquisition_method: paperscraper_automated
 audience:
@@ -53,9 +54,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # The effects of dopamine receptor antagonist and partial agonist antipsychotics on the glutamatergic system: double-blind, randomised, placebo-controlled
 
-**Authors:** ['UzmaZahid', 'MartinOsugo', 'PierluigiSelvaggi', 'David JLythgoe', 'CátiaFortunato', 'KellyDiederen', 'AmandaKiemes', 'Matthew BWall', 'ThomasWhitehurst', 'Ellis ChikaOnwordi', 'BenStatton', 'AlaineBerry', 'MihailDimitrov', 'RobinLau', 'Robert AMcCutcheon', 'RobinMurray', 'Tiago ReisMarques', 'Mitul AMehta', 'Oliver DHowes']
+# **Authors:** ['UzmaZahid', 'MartinOsugo', 'PierluigiSelvaggi', 'David JLythgoe', 'CátiaFortunato', 'KellyDiederen', 'AmandaKiemes', 'Matthew BWall', 'ThomasWhitehurst', 'Ellis ChikaOnwordi', 'BenStatton', 'AlaineBerry', 'MihailDimitrov', 'RobinLau', 'Robert AMcCutcheon', 'RobinMurray', 'Tiago ReisMarques', 'Mitul AMehta', 'Oliver DHowes']
 
 **Journal:** The British journal of psychiatry : the journal of mental science
 
@@ -65,7 +68,7 @@ type: research_paper
 
 ## Abstract
 
-Targeting the glutamatergic system is posited as a potentially novel therapeutic strategy for psychotic disorders. While studies in subjects indicate that antipsychotic medication reduces brain glutamatergic measures, they were unable to disambiguate clinical changes from drug effects. To address this, we investigated the effects of a dopamine D2 receptor partial agonist (aripiprazole) and a dopamine D2 receptor antagonist (amisulpride) on glutamatergic metabolites in the anterior cingulate cortex (ACC), striatum and thalamus in healthy controls. A double-blind, within-subject, cross-over, placebo-controlled study design with two arms ( Aripiprazole significantly increased glutamate + glutamine (Glx) levels compared with placebo ( One week of aripiprazole administration in healthy participants altered brain Glx levels as compared with placebo administration. These findings provide novel insights into the relationship between antipsychotic treatment and brain metabolites in a healthy participant cohort.
+## Methods
 
 ---
 

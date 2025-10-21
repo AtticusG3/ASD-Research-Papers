@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.791685'
 acquisition_method: paperscraper_automated
 audience:
@@ -36,9 +37,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Risk, Precipitating, and Perpetuating Factors in Functional Neurological Disorder: A Systematic Review Across Clinical Subtypes.
 
-**Authors:** ['IoannisMavroudis', 'KaterinaFranekova', 'FoivosPetridis', 'AlinCiobîca', 'GabrielDăscălescu', 'EmilAnton', 'CiprianIlea', 'SotiriosPapagiannopoulos', 'DimitriosKazis']
+# **Authors:** ['IoannisMavroudis', 'KaterinaFranekova', 'FoivosPetridis', 'AlinCiobîca', 'GabrielDăscălescu', 'EmilAnton', 'CiprianIlea', 'SotiriosPapagiannopoulos', 'DimitriosKazis']
 
 **Journal:** Brain sciences
 
@@ -48,7 +51,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.070939'
 acquisition_method: paperscraper_automated
 audience:
@@ -45,9 +46,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Serotonin Modulation of Dorsoventral Hippocampus in Physiology and Schizophrenia.
 
-**Authors:** ['Charalampos LKandilakis', 'CostasPapatheodoropoulos']
+# **Authors:** ['Charalampos LKandilakis', 'CostasPapatheodoropoulos']
 
 **Journal:** International journal of molecular sciences
 
@@ -57,7 +60,7 @@ type: research_paper
 
 ## Abstract
 
-The serotonergic system, originating in the raphe nuclei, differentially modulates the dorsal and ventral hippocampus, which are implicated in cognition and emotion, respectively. Emerging evidence from rodent models (e.g., neonatal ventral hippocampal lesion, pharmacological NMDA receptor antagonist exposure) and human postmortem studies indicates dorsoventral serotonergic alterations in schizophrenia. These data include elevated 5-HT1A receptor expression in the dorsal hippocampus, linking serotonergic hypofunction to cognitive deficits, and hyperactive 5-HT2A/3 receptor signaling and denser serotonergic innervation in the ventral hippocampus driving local hyperexcitability associated with psychosis and stress responsivity. These dorsoventral serotonergic alterations are shown to disrupt the excitation-inhibition balance, impair synaptic plasticity, and disturb network oscillations, as established by in vivo electrophysiology and functional imaging. Synthesizing these multi-level findings, we propose a novel "dorsoventral serotonin imbalance" model of schizophrenia, in which ventral hyperactivation predominantly contributes to psychotic symptoms and dorsal hypoactivity underlies cognitive deficits. We further highlight promising preclinical evidence that selective targeting of region- and receptor-specific targeting, using both pharmacological agents and emerging delivery technologies, may offer novel therapeutic opportunities enabling symptom-specific strategies in schizophrenia.
+## Results
 
 ---
 

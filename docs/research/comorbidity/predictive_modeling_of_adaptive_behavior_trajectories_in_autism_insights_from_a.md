@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:34.312923'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:55.803837'
@@ -53,9 +54,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Predictive modeling of adaptive behavior trajectories in autism: insights from a clinical cohort study.
 
-**Authors:** ['AnnieAitken', 'Maia CLazerwitz', 'AllyEash', 'NeilHattangadi', 'PratikMukherjee', 'Elysa JMarco', 'Kevin AShapiro']
+# **Authors:** ['AnnieAitken', 'Maia CLazerwitz', 'AllyEash', 'NeilHattangadi', 'PratikMukherjee', 'Elysa JMarco', 'Kevin AShapiro']
 
 **Journal:** Translational psychiatry
 
@@ -65,7 +68,7 @@ type: research_paper
 
 ## Abstract
 
-Research aimed at understanding how baseline clinical and demographic characteristics influence outcomes over time is critically important to inform individualized therapeutic programs for children with neurodevelopmental differences. This study characterizes adaptive behavior trajectories in children receiving medical and behavioral therapy within a network of care centers with a shared data-gathering mechanism for intake and longitudinal assessments. We then take the further step of utilizing intake data to develop machine-learning models which predict differences in those trajectories. Specifically, we evaluated data from 1225 autistic children, aged 20-90 months, using latent class growth mixture modeling (LCGMM) with scores on the Vineland Adaptive Behavior Scales, 3
+## Results
 
 ---
 

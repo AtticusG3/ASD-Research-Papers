@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.919943'
 acquisition_method: paperscraper_automated
 audience:
@@ -41,9 +42,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Reduced interhemispheric functional connectivity of children with autism: evidence from functional near infrared spectroscopy studies
 
-**Authors:** Huilin Zhu, Yuebo Fan, Huan Guo, Dan Huang, Sailing He
+# **Authors:** Huilin Zhu, Yuebo Fan, Huan Guo, Dan Huang, Sailing He
 
 **Publication Date:** 2013-09-23
 
@@ -51,14 +54,14 @@ type: research_paper
 
 ## Abstract
 
-Autism spectrum disorder is a neuro-developmental disorder characterized by abnormalities of neural synchronization. In this study, functional near infrared spectroscopy (fNIRS) is used to study the difference in functional connectivity in left and right inferior frontal cortices (IFC) and temporal cortices (TC) between autistic and typically developing children between 8-11 years of age. 10 autistic children and 10 typical ones were recruited in our study for 8-min resting state measurement. Results show that the overall interhemispheric correlation of HbO was significantly lower in autistic children than in the controls. In particular, reduced connectivity was found to be most significant in TC area of autism. Autistic children lose the symmetry in the patterns of correlation maps. These results suggest the feasibility of using the fNIRS method to assess abnormal functional connectivity of the autistic brain and its potential application in autism diagnosis.
+## Results
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, asd, growth_hormones
 **Search Query:** autism spectrum disorder neurochemistry
 **Acquisition Date:** 2025-10-21

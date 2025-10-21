@@ -57,10 +57,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Perceptions of treatment for tics among young people with Tourette syndrome and their parents: a mixed methods study - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -88,8 +84,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![BMC Psychiatry logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-bmcpsyc.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-bmcpsyc.png)
 BMC Psychiatry
 . 2015 Mar 11;15:46. doi: [10.1186/s12888-015-0430-0](https://doi.org/10.1186/s12888-015-0430-0)
 # Perceptions of treatment for tics among young people with Tourette syndrome and their parents: a mixed methods study
@@ -158,8 +153,7 @@ Corresponding author.
 Received 2014 Jul 21; Accepted 2015 Feb 24; Collection date 2015.
 © Cuenca et al.; licensee BioMed Central. 2015
 This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<http://creativecommons.org/licenses/by/4.0>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (<http://creativecommons.org/publicdomain/zero/1.0/>) applies to the data made available in this article, unless otherwise stated.
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC4359496  PMID: [25879205](https://pubmed.ncbi.nlm.nih.gov/25879205/)
+[PMC ncbi.nlm.nih.gov/25879205/)
 ## Abstract
 ### Background
 Tourette syndrome (TS) among young people is associated with psychosocial difficulties and parents play an important role in the management of the condition. Clinical guidelines have been developed for the treatment of TS and tics, but little is known about how young people and their parents perceive their treatment options or their desired outcomes of treatment. The aim of this study is to explore perceptions of treatments for tics among young people with TS and their parents.
@@ -485,7 +479,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, prevalence_data, quality_of_life, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

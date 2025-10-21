@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.938959'
 acquisition_method: paperscraper_automated
 audience:
@@ -37,9 +38,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Weakly-supervised Autism Severity Assessment in Long Videos
 
-**Authors:** Abid Ali, Mahmoud Ali, Jean-Marc Odobez, Camilla Barbini, Séverine Dubuisson, Francois Bremond, Susanne Thümmler
+# **Authors:** Abid Ali, Mahmoud Ali, Jean-Marc Odobez, Camilla Barbini, Séverine Dubuisson, Francois Bremond, Susanne Thümmler
 
 **Journal:** https://cbmi2024.org/
 
@@ -49,14 +52,14 @@ type: research_paper
 
 ## Abstract
 
-Autism Spectrum Disorder (ASD) is a diverse collection of neurobiological conditions marked by challenges in social communication and reciprocal interactions, as well as repetitive and stereotypical behaviors. Atypical behavior patterns in a long, untrimmed video can serve as biomarkers for children with ASD. In this paper, we propose a video-based weakly-supervised method that takes spatio-temporal features of long videos to learn typical and atypical behaviors for autism detection. On top of that, we propose a shallow TCN-MLP network, which is designed to further categorize the severity score. We evaluate our method on actual evaluation videos of children with autism collected and annotated (for severity score) by clinical professionals. Experimental results demonstrate the effectiveness of behavioral biomarkers that could help clinicians in autism spectrum analysis.
+## Results
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** asd, behavioral_therapy
 **Search Query:** autism spectrum disorder neurochemistry
 **Acquisition Date:** 2025-10-21

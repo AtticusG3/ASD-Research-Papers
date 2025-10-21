@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.477540'
 acquisition_method: paperscraper_automated
 audience:
@@ -40,9 +41,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # MCT8 Deficiency in Infancy: Opportunities for Early Diagnosis and Screening.
 
-**Authors:** ['IljaDubinski', 'BelanaDebor', 'SofiaPetrova', 'Katharina ASchiergens', 'HeikeWeigand', 'HeinrichSchmidt']
+# **Authors:** ['IljaDubinski', 'BelanaDebor', 'SofiaPetrova', 'Katharina ASchiergens', 'HeikeWeigand', 'HeinrichSchmidt']
 
 **Journal:** International journal of neonatal screening
 
@@ -52,7 +55,7 @@ type: research_paper
 
 ## Abstract
 
-Monocarboxylate-transporter-8-(MCT8) deficiency, or Allan-Herndon-Dudley syndrome (AHDS), is a rare X-linked disorder caused by pathogenic variants in the SLC16A2 gene, leading to impaired transport of thyroid hormones, primarily T3 and T4, across cell membranes. The resulting central hypothyroidism and peripheral hyperthyroidism cause neurodevelopmental impairment and thyrotoxicosis. Despite the availability of therapy options, e.g., with triiodothyroacetic acid (TRIAC), diagnosis is often delayed, partly due to normal TSH levels or incomplete genetic panels. MCT8 deficiency is not yet included in newborn-screening programs worldwide. We present a case of an infant genetically diagnosed with MCT8 deficiency at 5 months of age after presenting with muscular hypotonia, lack of head control, and developmental delay. Thyroid function testing revealed a normal TSH, low free T4, and significantly elevated free T3 and free T3/T4 ratio. Treatment with TRIAC (Emcitate This case underscores the importance of early free T3 and fT3/fT4 ratio testing in infants with unexplained developmental delay. Broader inclusion of SLC16A2 in genetic panels and consideration of newborn screening could improve early diagnosis and outcomes in this rare but treatable condition.
+## Results
 
 ---
 

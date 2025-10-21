@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:38.893721'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:54.847736'
@@ -50,9 +51,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Childhood Trauma and Emotional Dysregulation as Risk Factors for Suicidal Ideation in Adults With ADHD: A Case-Control Study.
 
-**Authors:** ['FatihEkici', 'Hasan AliGüler', 'ÖmerBayırlı', 'TuğçeBaş Gümüşoluk', 'AliKandeğer']
+# **Authors:** ['FatihEkici', 'Hasan AliGüler', 'ÖmerBayırlı', 'TuğçeBaş Gümüşoluk', 'AliKandeğer']
 
 **Journal:** Journal of interpersonal violence
 
@@ -62,7 +65,7 @@ type: research_paper
 
 ## Abstract
 
-Individuals with Attention-Deficit Hyperactivity Disorder (ADHD) are at an increased risk of suicidal ideation and attempts compared to the general population. However, the mechanisms underlying suicidal behaviors in this group remain poorly understood. The role of childhood trauma, which frequently co-occurs with ADHD, and emotional dysregulation in suicidal behaviors remains unclear. This study employs a case-control design to investigate the impact of childhood trauma and emotional dysregulation on suicidal tendencies in adults with ADHD. A total of 160 adults diagnosed with ADHD who presented to the Adult Neurodevelopmental Disorders Clinic at Selçuk University, along with 107 typical controls, were included in the study. Participants were assessed using the Structured Clinical Interview for DSM-5, Adult ADHD Self-Report Scale, Suicidal Ideation Scale, Childhood Trauma Questionnaire, and the Difficulties in Emotion Regulation Scale-Short Form. Regression and mediation models were conducted to examine factors influencing suicidal tendencies, controlling for sociodemographic and clinical variables. Compared to controls, individuals with ADHD exhibited significantly higher levels of suicidal ideation, childhood trauma, and emotional dysregulation. Regression analysis revealed a positive association between childhood trauma, emotional dysregulation, and suicidal ideation. However, ADHD symptoms did not directly contribute to increased suicidal ideation; rather, their effect was mediated through childhood trauma and emotional dysregulation. Additionally, the presence of depression was significantly associated with both suicide attempts and suicidal ideation. These findings suggest that childhood trauma and difficulties in emotion regulation play critical roles in suicidal ideation among individuals with ADHD. In addition to depression treatment, comprehensive interventions targeting childhood trauma and emotional dysregulation may serve as promising strategies for reducing suicidal behaviors.
+## Results
 
 ---
 

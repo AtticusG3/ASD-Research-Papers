@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.749788'
 acquisition_method: paperscraper_automated
 audience:
@@ -34,9 +35,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Possible Applications of Fecal Microbiota Transplantation in the Pediatric Population: A Systematic Review.
 
-**Authors:** ['Ewa ABieganska', 'PrzemyslawKosinski', 'MarekWolski']
+# **Authors:** ['Ewa ABieganska', 'PrzemyslawKosinski', 'MarekWolski']
 
 **Journal:** Biomedicines
 
@@ -46,7 +49,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 

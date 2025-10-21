@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.927809'
 acquisition_method: paperscraper_automated
 audience:
@@ -52,9 +53,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Sensory over responsivity (SOR) as a transdiagnostic marker of neurodevelopmental risk. An epidemiological birth cohort study.
 
-**Authors:** ['KatjaJussila', 'AnnaKorkiakoski', 'AinuliinaJussila', 'SannaKuusikko-Gauffin', 'LeenaJoskitt', 'MirjamiMäntymaa', 'IrmaMoilanen', 'Marja-LeenaMattila']
+# **Authors:** ['KatjaJussila', 'AnnaKorkiakoski', 'AinuliinaJussila', 'SannaKuusikko-Gauffin', 'LeenaJoskitt', 'MirjamiMäntymaa', 'IrmaMoilanen', 'Marja-LeenaMattila']
 
 **Journal:** Nordic journal of psychiatry
 
@@ -64,7 +67,7 @@ type: research_paper
 
 ## Abstract
 
-While previous research has linked heightened sensitivity to sensory input to individual diagnoses such as autism spectrum disorder (ASD) or attention-deficit/hyperactivity disorder (ADHD), no large-scale, population-based studies have examined its transdiagnostic associations across a broad spectrum of neurodevelopmental difficulties. This study utilized a population-based cohort of 4 424 eight-year-old children from the Northern Ostrobothnia Hospital District in Finland. Parent-reported data on sensory over responsivity (SOR) and neurodevelopmental difficulties were collected SOR was reported in 6.4% of children and was significantly more common among those with developmental challenges. Children with any developmental difficulty were 4.7 times more likely to exhibit SOR than those without. ASD showed the strongest association, followed by ADHD related traits, motor difficulties, intellectual disability, Tourette's/tics, and learning difficulties. Factor analysis identified three latent dimensions: (1) Social Communication & Language, (2) Learning & Cognitive Processing, and (3) Attention & Motor Regulation - each of which was statistically significantly associated with SOR. SOR is a prevalent and clinically significant transdiagnostic feature that cuts across multiple neurodevelopmental domains. Our findings support the conceptualization of SOR as a modality-specific liability factor nested within the proposed neurodevelopmental spectrum of the Hierarchical Taxonomy of Psychopathology (HiTOP) framework. Recognizing SOR as a transdiagnostic marker may improve early identification and guide more tailored interventions for children with diverse developmental profiles.
+## Results
 
 ---
 

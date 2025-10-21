@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.965985'
 acquisition_method: paperscraper_automated
 audience:
@@ -46,9 +47,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Training Attention Skills in Individuals with Neurodevelopmental Disorders using Virtual Reality and Eye-tracking technology
 
-**Authors:** Alberto Patti, Francesco Vona, Anna Barberio, Marco Domenico Buttiglione, Ivan Crusco, Marco Mores, Franca Garzotto
+# **Authors:** Alberto Patti, Francesco Vona, Anna Barberio, Marco Domenico Buttiglione, Ivan Crusco, Marco Mores, Franca Garzotto
 
 **Publication Date:** 2024-04-24
 
@@ -56,14 +59,14 @@ type: research_paper
 
 ## Abstract
 
-Neurodevelopmental disorders (NDD), encompassing conditions like Intellectual Disability, Attention Deficit Hyperactivity Disorder, and Autism Spectrum Disorder, present challenges across various cognitive capacities. Attention deficits are often common in individuals with NDD due to the sensory system dysfunction that characterizes these disorders. Consequently, limited attention capability can affect the overall quality of life and the ability to transfer knowledge from one circumstance to another. The literature has increasingly recognized the potential benefits of virtual reality (VR) in supporting NDD learning and rehabilitation due to its interactive and engaging nature, which is critical for consistent practice. In previous studies, we explored the usage of a VR application called Wildcard to enhance attention skills in persons with NDD. The application has been redesigned in this study, exploiting eye-tracking technology to enable novel and more fine-grade interactions. A four-week experiment with 38 NDD participants was conducted to evaluate its usability and effectiveness in improving Visual Attention Skills. Results show the usability and effectiveness of Wildcard in enhancing attention skills, advocating for continued exploration of VR and eye-tracking technology's potential in NDD interventions.
+## Results
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, adhd, asd, behavioral_therapy
 **Search Query:** neurodevelopmental disorders dopamine
 **Acquisition Date:** 2025-10-21

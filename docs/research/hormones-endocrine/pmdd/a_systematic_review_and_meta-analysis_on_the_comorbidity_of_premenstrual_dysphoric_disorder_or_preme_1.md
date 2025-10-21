@@ -45,6 +45,8 @@ The British journal of psychiatry : the journal of mental science
 
 ## Abstract
 
+Abstract 
+        An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.
 
 ## Full Text Content
 

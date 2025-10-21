@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.874902'
 acquisition_method: paperscraper_automated
 audience:
@@ -40,9 +41,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Diagnosing ADHD from fMRI Scans Using Hidden Markov Models
 
-**Authors:** Bhaskar Sen, Zheng Shi, Gregory Burlet
+# **Authors:** Bhaskar Sen, Zheng Shi, Gregory Burlet
 
 **Publication Date:** 2015-06-19
 
@@ -50,14 +53,14 @@ type: research_paper
 
 ## Abstract
 
-This paper applies a hidden Markov model to the problem of Attention Deficit Hyperactivity Disorder (ADHD) diagnosis from resting-state functional Magnetic Resonance Image (fMRI) scans of subjects. The proposed model considers the temporal evolution of fMRI voxel activations in the cortex, cingulate gyrus, and thalamus regions of the brain in order to make a diagnosis. Four feature dimen- sionality reduction methods are applied to the fMRI scan: voxel means, voxel weighted means, principal components analysis, and kernel principal components analysis. Using principal components analysis and kernel principal components analysis for dimensionality reduction, the proposed algorithm yielded an accu- racy of 63.01% and 62.06%, respectively, on the ADHD-200 competition dataset when differentiating between healthy control, ADHD innattentive, and ADHD combined types.
+## Methods
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, adhd, growth_hormones
 **Search Query:** ADHD brain imaging
 **Acquisition Date:** 2025-10-21

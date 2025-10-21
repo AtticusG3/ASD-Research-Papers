@@ -1,4 +1,5 @@
 ---
+
 title: Mechanism of Tourette Syndrome Induced by ABGA-Mediated CaMKII-TH Pathway.**DOI:**
   10.1002/jgm.70043
 authors:
@@ -38,9 +39,11 @@ search_tags:
 - neurochemistry
 ---
 
+
+
 # Mechanism of Tourette Syndrome Induced by ABGA-Mediated CaMKII-TH Pathway.**DOI:** 10.1002/jgm.70043
 
-**Authors:** XinnanWu, JuanjuanHao, KeyuJiang, MinWu, XinZhao, XinZhang
+# **Authors:** XinnanWu, JuanjuanHao, KeyuJiang, MinWu, XinZhao, XinZhang
 
 **Journal:** The journal of gene medicine
 
@@ -60,5 +63,5 @@ ABGA may contribute to the development of TS by increasing striatal dopamine lev
 **Source URL:** https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jgm.70043## AbstractIn this study, we intend to investigate the mechanism by which anti-basal ganglia antibodies (ABGA) modulate dopamine release through the CaMKII-TH pathway, which leads to the onset of Tourette syndrome (TS).
 In the clinical experiment, serum samples were collected from 40 TS children and 40 healthy children. ELISA was performed to detect ABGA, anti-streptolysin O (ASO), and anti-deoxyribonuclease B (ADNB) levels in each group. In the animal experiment, the TS group was microinfused with ABGA-positive serum from TS children. The expression levels of striatal pCaMKIIα/CaMKIIα, pTH/TH, Drd1, Drd2, and dopamine (DA) were detected.
 Clinical experiments showed positive correlation between serum ABGA, ASO, ADNB levels, and YGTSS scores. Animal experiments showed that the stereotype score and the expression levels of striatal pCaMKIIα/CaMKIIα, pTH/TH, Drd1, and DA were increased in the TS group. The expression levels of striatal Drd2 were reduced, accompanied by neuronal loss within the striatum in the TS group.
-ABGA may contribute to the development of TS by increasing striatal dopamine levels through the activation of calcium-calmodulin dependent protein kinase II (CaMKIIα) phosphorylation and tyrosine hydroxylase (TH) phosphorylation.## Full Text ContentAbstract AbstractBackground:In this study, we intend to investigate the mechanism by which anti-basal ganglia antibodies (ABGA) modulate dopamine release through the CaMKII-TH pathway, which leads to the onset of Tourette syndrome (TS).Methods:In the clinical experiment, serum samples were collected from 40 TS children and 40 healthy children. ELISA was performed to detect ABGA, anti-streptolysin O (ASO), and anti-deoxyribonuclease B (ADNB) levels in each group. In the animal experiment, the TS group was microinfused with ABGA-positive serum from TS children. The expression levels of striatal pCaMKIIα/CaMKIIα, pTH/TH, Drd1, Drd2, and dopamine (DA) were detected.Results:Clinical experiments showed positive correlation between serum ABGA, ASO, ADNB levels, and YGTSS scores. Animal experiments showed that the stereotype score and the expression levels of striatal pCaMKIIα/CaMKIIα, pTH/TH, Drd1, and DA were increased in the TS group. The expression levels of striatal Drd2 were reduced, accompanied by neuronal loss within the striatum in the TS group.Conclusion:ABGA may contribute to the development of TS by increasing striatal dopamine levels through the activation of calcium-calmodulin dependent protein kinase II (CaMKIIα) phosphorylation and tyrosine hydroxylase (TH) phosphorylation.Keywords:Tourette syndrome; anti‐basal ganglia antibodies; calcium‐calmodulin dependent protein kinase II; dopamine; tyrosine hydroxylase.---
+## Introduction
 *This content was automatically scraped by Webscraping Agent A*

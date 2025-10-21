@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.732631'
 acquisition_method: paperscraper_automated
 audience:
@@ -50,9 +51,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Expanding the Scope of Open Weighing to Target Anxiety About the Consequences of Weight Gain in Cognitive-Behavioral Therapy for Eating Disorders.
 
-**Authors:** ['Jamal HEssayli', 'Kaitlin AHill', 'Hana FZickgraf', 'Lauren NForrest', 'Cheri ALevinson']
+# **Authors:** ['Jamal HEssayli', 'Kaitlin AHill', 'Hana FZickgraf', 'Lauren NForrest', 'Cheri ALevinson']
 
 **Journal:** The International journal of eating disorders
 
@@ -62,7 +65,7 @@ type: research_paper
 
 ## Abstract
 
-Anxiety about weight gain is a central feature of eating disorders (EDs) and plays a key role in maintaining ED symptomatology. Cognitive-behavioral therapy (CBT) experts have observed that patients with EDs often believe regular eating will lead to immediate, dramatic, and/or uncontrollable weight gain, prompting interventions like "collaborative weighing" and "open weighing" that help patients develop a realistic understanding of eating-weight relationships. However, patients also report anxiety about the consequences of weight gain (e.g., social rejection, self-hatred, permanent body dissatisfaction). While various CBT interventions address concerns about the consequences of weight gain, we propose that open weighing sessions-when patients confront weight increases and process accompanying emotional responses-provide underutilized therapeutic opportunities to work with these beliefs in real-time. This paper outlines three clinical enhancements that systematically leverage open weighing sessions to address consequence-related beliefs: (1) identifying catastrophic beliefs about weight gain consequences through guided inquiry, (2) integrating cognitive restructuring by framing weight restoration as a behavioral experiment, and (3) combining in vivo weighing with imaginal exposure to feared weight gain consequences. These enhancements may provide complementary techniques for capitalizing on patients' real-time emotional activation during weighing, potentially enhancing existing CBT protocols' effectiveness in addressing a key mechanism underlying restrictive EDs. Future research might include randomized controlled trials comparing various weighing approaches, mixed-methods evaluations exploring weight-related fears across ED diagnoses and weight status, and mechanistic studies examining how addressing consequence-related beliefs improves treatment outcomes.
+## Methods
 
 ---
 

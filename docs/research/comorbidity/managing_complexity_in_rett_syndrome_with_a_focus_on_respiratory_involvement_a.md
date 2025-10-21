@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.823855'
 acquisition_method: paperscraper_automated
 audience:
@@ -42,9 +43,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Managing Complexity in Rett Syndrome with a Focus on Respiratory Involvement: A Tertiary Center Experience.
 
-**Authors:** ['AdeleCorcione', 'Luigi AntonioDel Giudice', 'SimonaBasilicata', 'MariantoniaMaglio', 'SalvatoreAiello', 'RaffaeleCerchione', 'AnnaAnnunziata', 'AlessandroAmaddeo', 'MelissaBorrelli']
+# **Authors:** ['AdeleCorcione', 'Luigi AntonioDel Giudice', 'SimonaBasilicata', 'MariantoniaMaglio', 'SalvatoreAiello', 'RaffaeleCerchione', 'AnnaAnnunziata', 'AlessandroAmaddeo', 'MelissaBorrelli']
 
 **Journal:** Children (Basel, Switzerland)
 
@@ -54,7 +57,7 @@ type: research_paper
 
 ## Abstract
 
-Rett syndrome (RS) is a rare neurodevelopmental disorder primarily affecting females, characterized by severe neurological impairment and complex comorbidities, including epilepsy, scoliosis, and respiratory dysfunction. Respiratory complications, such as recurrent infections and sleep-disordered breathing (SDB), are increasingly recognized as significant contributors to morbidity. This study aimed to evaluate the prevalence, severity, and management of major comorbidities-including epilepsy, scoliosis, respiratory infections, and SDB-in a pediatric cohort with genetically confirmed RS. We conducted a retrospective review of medical records from 23 female patients under 18 years of age with MECP2 mutations, referred to our tertiary care center from 2021 to 2025. Data on epilepsy, scoliosis, respiratory infections, and nutritional status were collected. The presence of SDB was assessed through overnight home polygraphy (oPG) and transcutaneous carbon dioxide monitoring in selected cases. Epilepsy affected 65% of patients, all with good seizure control. Scoliosis was present in 52%, with two patients requiring spinal surgery. At least one episode of lower respiratory tract infection (LRTI) was presented in 39% of our girls. LRTIs positively correlated with the number of hospitalization and antibiotic treatment. Among patients undergoing oPG, 67% presented obstructive sleep apnea, with its severity positively correlating with the frequency of lower respiratory infections. Severe nocturnal hypercapnia was documented in three patients, leading to non-invasive or invasive ventilation. Our findings highlight the high prevalence of sleep-related respiratory disorders and their association with respiratory infections in children with RS. Systematic respiratory assessment, including sleep studies, and early implementation of airway clearance techniques and ventilatory support are crucial to improving clinical outcomes in this vulnerable population.
+## Results
 
 ---
 

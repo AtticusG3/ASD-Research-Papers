@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.363205'
 acquisition_method: paperscraper_automated
 audience:
@@ -31,9 +32,11 @@ topics: []
 type: research_paper
 ---
 
+
+
 # Wired for Intensity: The Neuropsychological Dynamics of Borderline Personality Disorders-An Integrative Review.
 
-**Authors:** ['EleniGiannoulis', 'ChristosNousis', 'MariaKrokou', 'IfigeneiaZikou', 'IoannisMalogiannis']
+# **Authors:** ['EleniGiannoulis', 'ChristosNousis', 'MariaKrokou', 'IfigeneiaZikou', 'IoannisMalogiannis']
 
 **Journal:** Journal of clinical medicine
 
@@ -43,7 +46,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 
@@ -51,7 +54,7 @@ type: research_paper
 
 **Source:** PUBMED
 **Category:** hormones
-**Primary Topics:** 
+**Primary Topics:**
 **Search Query:** cortisol neurodevelopmental
 **Acquisition Date:** 2025-10-21
 

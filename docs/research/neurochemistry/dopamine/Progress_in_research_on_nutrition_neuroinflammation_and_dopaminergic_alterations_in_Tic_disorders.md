@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:37.287148'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:55.108973'
@@ -51,9 +52,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Progress in research on nutrition, neuroinflammation and dopaminergic alterations in Tic disorders.
 
-**Authors:** ['LuBai', 'MeiJin', 'QiZhang', 'SuzhenSun']
+# **Authors:** ['LuBai', 'MeiJin', 'QiZhang', 'SuzhenSun']
 
 **Journal:** Frontiers in pediatrics
 
@@ -63,7 +66,7 @@ type: research_paper
 
 ## Abstract
 
-Tic disorders (TD) represent a prevalent neurodevelopmental condition in children, characterised by involuntary, sudden motor or vocal tics. Dysfunction of the dopamine system plays a pivotal role in the pathogenesis of TD. Recent findings indicate that deep brain stimulation, by modulating striatal dopamine release, substantially alleviates tic symptoms. Neuroimaging studies have shown increased dopamine transporter binding and decreased serotonin levels in patients with TD. The presence of anti-dopamine D2 receptor autoantibodies, which correlate with disease severity, suggests immune involvement in the onset of TD. Nutritional factors influence the dopaminergic system's functionality by affecting neurotransmitter synthesis and metabolism, modulating gut microbiota and contributing to neuroinflammation. Clinical studies have demonstrated that interventions combining probiotics and fructooligosaccharides can help regulate neurotransmitter metabolism, whereas dietary patterns such as the ketogenic, Mediterranean and Mediterranean-DASH intervention for neurodegenerative delay diets exhibit anti-inflammatory and neuroprotective effects. The risk of TD in offspring is significantly associated with maternal autoimmune diseases and inflammatory states, with metabolic syndrome further affecting the dopaminergic system via AT1 receptor autoantibodies. Nutritional intervention-based treatment strategies present promising directions for TD management, warranting further investigation into the nutrition-immune-neurotransmitter network, the development of personalised nutritional plans and the validation of their clinical efficacy through large-scale randomised controlled trials. This review summarises the alterations in the dopaminergic system in TD, the regulatory effects of nutritional factors on dopamine levels, the interactions between neuroinflammation and the dopaminergic system and treatment strategies based on nutritional interventions, laying a theoretical foundation for understanding TD pathogenesis and advancing novel therapeutic approaches.
+## Results
 
 ---
 

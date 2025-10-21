@@ -1,4 +1,5 @@
 ---
+
 title: Investigation on Inhibiting SPHK - S1P Pathway to Improve ADHD Model Rats Behavior
   via Lipidomics.**DOI:** 10.2147/NDT.S530564
 authors:
@@ -42,9 +43,11 @@ search_tags:
 - neurochemistry
 ---
 
+
+
 # Investigation on Inhibiting SPHK - S1P Pathway to Improve ADHD Model Rats Behavior via Lipidomics.**DOI:** 10.2147/NDT.S530564
 
-**Authors:** DingyueChai, YuziSun, JiaminLu, YuhuiYao, ChunyuJiang, LihuiWu, QianqianCai
+# **Authors:** DingyueChai, YuziSun, JiaminLu, YuhuiYao, ChunyuJiang, LihuiWu, QianqianCai
 
 **Journal:** Neuropsychiatric disease and treatment
 
@@ -64,5 +67,5 @@ The SPHK-S1P signaling axis is a core pathway driving sphingolipid metabolic dys
 **Source URL:** https://pubmed.ncbi.nlm.nih.gov/?term=10.2147/NDT.S530564## AbstractAttention-Deficit/Hyperactivity Disorder (ADHD) is one of the most prevalent neurodevelopmental disorders in childhood, with a globally increasing incidence. This study aims to investigate alterations in prefrontal cortical lipid metabolism in ADHD model rats and following transcutaneous auricular vagus nerve stimulation (taVNS) intervention, and to elucidate the regulatory effects of the sphingosine kinase inhibitor SKI II on the SPHK-S1P signaling pathway.
 Lipidomic analysis was performed to profile the lipid spectrum in prefrontal cortex tissues from Wistar-Kyoto (WKY) control rats, spontaneously hypertensive rat (SHR) ADHD models, sham-operated rats, and taVNS intervention rats. Key sphingolipid metabolic enzymes were assessed by RT-qPCR and Western blot, while sphingosine-1-phosphate (S1P) levels were quantified via ELISA. ADHD model rats received intraperitoneal administration of SPHK inhibitor SKI II (15 mg/kg, 16 days). Behavioral tests evaluated hyperactivity, impulsivity, and anxiety-like phenotypes. Western blot analyzed expression of dopamine synthesis rate-limiting enzyme.
 The ADHD model group exhibited significantly elevated ganglioside and lysophospholipid levels. taVNS intervention specifically reduced sphingomyelin content. SPHK1 and SPHK2 mRNA and protein expression were markedly upregulated in ADHD models, concomitant with increased S1P levels. taVNS selectively decreased
-The SPHK-S1P signaling axis is a core pathway driving sphingolipid metabolic dysregulation in the prefrontal cortex in ADHD. Targeted inhibition of this pathway synergistically modulates the expression levels of proteins associated with dopaminergic neurotransmission. The limited regulatory effect of taVNS on sphingolipid metabolism suggests its clinical benefits may stem from multi-pathway synergistic mechanisms.## Full Text ContentAbstract AbstractPurpose:Attention-Deficit/Hyperactivity Disorder (ADHD) is one of the most prevalent neurodevelopmental disorders in childhood, with a globally increasing incidence. This study aims to investigate alterations in prefrontal cortical lipid metabolism in ADHD model rats and following transcutaneous auricular vagus nerve stimulation (taVNS) intervention, and to elucidate the regulatory effects of the sphingosine kinase inhibitor SKI II on the SPHK-S1P signaling pathway.Methods:Lipidomic analysis was performed to profile the lipid spectrum in prefrontal cortex tissues from Wistar-Kyoto (WKY) control rats, spontaneously hypertensive rat (SHR) ADHD models, sham-operated rats, and taVNS intervention rats. Key sphingolipid metabolic enzymes were assessed by RT-qPCR and Western blot, while sphingosine-1-phosphate (S1P) levels were quantified via ELISA. ADHD model rats received intraperitoneal administration of SPHK inhibitor SKI II (15 mg/kg, 16 days). Behavioral tests evaluated hyperactivity, impulsivity, and anxiety-like phenotypes. Western blot analyzed expression of dopamine synthesis rate-limiting enzyme.Results:The ADHD model group exhibited significantly elevated ganglioside and lysophospholipid levels. taVNS intervention specifically reduced sphingomyelin content. SPHK1 and SPHK2 mRNA and protein expression were markedly upregulated in ADHD models, concomitant with increased S1P levels. taVNS selectively decreasedSphk2mRNA expression (without altering protein levels). SKI II administration significantly ameliorated hyperactivity, impulsivity, and anxiety-like behaviors in ADHD models, concurrently restoring dopamine β-hydroxylase expression.Conclusion:The SPHK-S1P signaling axis is a core pathway driving sphingolipid metabolic dysregulation in the prefrontal cortex in ADHD. Targeted inhibition of this pathway synergistically modulates the expression levels of proteins associated with dopaminergic neurotransmission. The limited regulatory effect of taVNS on sphingolipid metabolism suggests its clinical benefits may stem from multi-pathway synergistic mechanisms.Keywords:SPHK-S1P; attention-deficit/hyperactivity disorder; sphingolipid metabolism; taVNS.---
+## Methods
 *This content was automatically scraped by Webscraping Agent A*

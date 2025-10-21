@@ -63,10 +63,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Tourette Syndrome: Clinical Features, Pathophysiology, and Treatment - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -94,8 +90,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![NIHPA Author Manuscripts logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-nihpa.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-nihpa.png)
 Lancet Neurol
 . Author manuscript; available in PMC: 2024 Mar 22.
 *Published in final edited form as:* Lancet Neurol. 2022 Oct 28;22(2):147–158. doi: [10.1016/S1474-4422(22)00303-9](https://doi.org/10.1016/S1474-4422(22)00303-9)
@@ -145,8 +140,7 @@ KAJ, YW, and AG did the literature review and prepared the first draft of the ma
 \*
 **Corresponding Author:** Kara A. Johnson, PhD, 3011 SW Williston Rd, Gainesville, FL 32608, kara.johnson@neurology.ufl.edu, Phone: (352) 733-3048
 Issue date 2023 Feb.
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC10958485  NIHMSID: NIHMS1967253  PMID: [36354027](https://pubmed.ncbi.nlm.nih.gov/36354027/)
+[PMC ncbi.nlm.nih.gov/36354027/)
 The publisher's version of this article is available at [Lancet Neurol](https://doi.org/10.1016/S1474-4422(22)00303-9)
 ## Summary
 Tourette syndrome is a chronic neurodevelopmental disorder characterised by motor and phonic tics that can substantially diminish the quality of life of affected individuals. Evaluating and treating Tourette syndrome is complex, in part due to the heterogeneity of symptoms and comorbidities between individuals. The underlying pathophysiology of Tourette syndrome is not fully understood, but recent research in the past 5 years has brought new insights into the genetic variations and the alterations in neurophysiology and brain networks contributing to its pathogenesis. Treatment options for Tourette syndrome are expanding with novel pharmacological therapies and increased use of deep brain stimulation for patients with symptoms that are refractory to pharmacological or behavioural treatments. Potential predictors of patient responses to therapies for Tourette syndrome, such as specific networks modulated during deep brain stimulation, can guide clinical decisions. Multicentre data sharing initiatives have enabled several advances in our understanding of the genetics and pathophysiology of Tourette syndrome and will be crucial for future large-scale research and in refining effective treatments.
@@ -642,7 +636,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, prevalence_data, comorbidity_analysis, quality_of_life, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

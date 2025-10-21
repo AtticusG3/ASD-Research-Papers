@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.407352'
 acquisition_method: paperscraper_automated
 audience:
@@ -42,9 +43,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Neurodevelopmental Impact of Prenatal Stress: A Proteomic Analysis of Myelination Disruptions in the Avian Embryo.
 
-**Authors:** ['BelaGaertner', 'GabrielaMorosan-Puopolo', 'BeateBrand-Saberi', 'CharmaineSchücke', 'DariusSaberi', 'KatharinaKlöster', 'SimonFaissner', 'KatrinMarcus', 'MorrisGellisch', 'BrittaEggers']
+# **Authors:** ['BelaGaertner', 'GabrielaMorosan-Puopolo', 'BeateBrand-Saberi', 'CharmaineSchücke', 'DariusSaberi', 'KatharinaKlöster', 'SimonFaissner', 'KatrinMarcus', 'MorrisGellisch', 'BrittaEggers']
 
 **Journal:** Developmental neurobiology
 
@@ -54,7 +57,7 @@ type: research_paper
 
 ## Abstract
 
-Prenatal stress, mediated by elevated glucocorticoid (GC) levels, is a relevant modulator of fetal brain development and a known risk factor for neurodevelopmental disorders. Using the avian embryo as a vertebrate model, we injected corticosterone into the yolk on embryonic day 6 (E6) and assessed neurodevelopmental outcomes at day 14 (E14). Through deep proteomic profiling - quantifying over 6500 proteins - we uncovered a robust molecular signature of stress-induced disruption. Key myelin-associated proteins (myelin basic protein [MBP], PLP1, 2',3'-cyclic-nucleotide 3'-phosphodiesterase [CNP]) were markedly downregulated, indicating impaired oligodendrocyte maturation. These proteomic shifts were corroborated by immunohistochemistry and qPCR. Pathway-level analysis pointed to altered MAPK and AKT signaling as putative mediators of the observed phenotype. Our findings mirror previous mammalian data while highlighting the avian model's unique suitability for mechanistic dissection of prenatal stress effects. This study offers new insight into how early GC exposure impairs glial development, with broader implications for understanding the molecular origins of stress-linked brain vulnerability.
+## Results
 
 ---
 

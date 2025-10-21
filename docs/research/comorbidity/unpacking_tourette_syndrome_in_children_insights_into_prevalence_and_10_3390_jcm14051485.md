@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.766803'
 acquisition_method: paperscraper_automated
 audience:
@@ -38,9 +39,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Unpacking Tourette Syndrome in Children: Insights into Prevalence and Comorbidities from NSCH Data.
 
-**Authors:** ['SasidharGunturu', 'MahdiehSaeidi', 'OmarAlzein', 'KamyarJafari', 'MonaSalehi', 'SanobarJaka']
+# **Authors:** ['SasidharGunturu', 'MahdiehSaeidi', 'OmarAlzein', 'KamyarJafari', 'MonaSalehi', 'SanobarJaka']
 
 **Journal:** Journal of clinical medicine
 
@@ -50,7 +53,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 

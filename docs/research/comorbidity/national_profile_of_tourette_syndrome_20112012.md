@@ -55,10 +55,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 A National Profile of Tourette Syndrome, 2011–2012 - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -86,8 +82,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![HHS Author Manuscripts logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-hhspa.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-hhspa.png)
 J Dev Behav Pediatr
 . Author manuscript; available in PMC: 2015 Jun 29.
 *Published in final edited form as:* J Dev Behav Pediatr. 2014 Jun;35(5):317–322. doi: [10.1097/DBP.0000000000000065](https://doi.org/10.1097/DBP.0000000000000065)
@@ -130,8 +125,7 @@ Find articles by [Stephen J Blumberg](https://pubmed.ncbi.nlm.nih.gov/?term=%22B
 5Division of Health Interview Statistics, National Center for Health Statistics, Centers for Disease Control and Prevention, Hyattsville, MD
 ✉
 Corresponding Author: Rebecca Bitsko, NCBDDD/CDC, 1600 Clifton Road, MS E-88, Atlanta, GA 30333, 404-498-3556 (phone), 404-498-3060 (fax), dvk2@cdc.gov
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC4484726  NIHMSID: NIHMS701984  PMID: [24906033](https://pubmed.ncbi.nlm.nih.gov/24906033/)
+[PMC ncbi.nlm.nih.gov/24906033/)
 The publisher's version of this article is available at [J Dev Behav Pediatr](https://doi.org/10.1097/DBP.0000000000000065)
 ## Abstract
 ### Objective
@@ -378,7 +372,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, cross_sectional, prevalence_data, comorbidity_analysis, quality_of_life, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

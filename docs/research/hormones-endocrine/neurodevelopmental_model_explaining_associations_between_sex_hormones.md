@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.580634'
 acquisition_method: paperscraper_automated
 audience:
@@ -43,9 +44,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Neurodevelopmental Model Explaining Associations between Sex Hormones, Personality, and Eating Pathology.
 
-**Authors:** ['ZiyuZhao', 'KyleGobrogge']
+# **Authors:** ['ZiyuZhao', 'KyleGobrogge']
 
 **Journal:** Brain sciences
 
@@ -55,7 +58,7 @@ type: research_paper
 
 ## Abstract
 
-Clinical scientists have been investigating the relationships between sex hormones, personality, and eating disorders for decades. However, there is a lack of direct research that addresses whether personality mediates or moderates the relationships between sex hormones and eating pathology. Moreover, the neural mechanisms that underlie the interactive associations between these variables remain unclear. This review aims to summarize the associations between these constructs, describe a neural mechanism mediating these relationships, and offer clinical strategies for the early identification and intervention of eating disorders. The gathered evidence shows that aggressiveness, impulsivity, and obsessive-compulsiveness may mediate or moderate the relationships between sex hormones and eating pathology, but only among females. Furthermore, sex hormone receptor density in the mesocorticolimbic dopamine pathway may explain the neural mechanism of these associations. Future research should use more comprehensive personality measurements and assess the mediation and moderation effects of temperament while taking the hormone levels of women across menstrual cycles into account. Additionally, electroencephalography and functional magnetic resonance imaging should be implemented to directly assess brain activity and corroborate these findings.
+## Results
 
 ---
 

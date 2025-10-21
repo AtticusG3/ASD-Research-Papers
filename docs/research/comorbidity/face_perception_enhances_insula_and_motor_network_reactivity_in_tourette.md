@@ -62,10 +62,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Face perception enhances insula and motor network reactivity in Tourette syndrome - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -93,8 +89,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Brain logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-brain.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-brain.png)
 Brain
 . 2018 Oct 20;141(11):3249–3261. doi: [10.1093/brain/awy254](https://doi.org/10.1093/brain/awy254)
 # Face perception enhances insula and motor network reactivity in Tourette syndrome
@@ -166,8 +161,7 @@ Correspondence to: Dr Charlotte L. Rae Brighton and Sussex Medical School Falmer
 Received 2018 May 8; Revised 2018 Jul 24; Accepted 2018 Aug 15; Issue date 2018 Nov.
 © The Author(s) (2018). Published by Oxford University Press on behalf of the Guarantors of Brain.
 This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<http://creativecommons.org/licenses/by-nc/4.0/>), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC6202569  PMID: [30346484](https://pubmed.ncbi.nlm.nih.gov/30346484/)
+[PMC ncbi.nlm.nih.gov/30346484/)
 ---
 Avolitional tics in Tourette syndrome may be worsened by stress and triggered by social cues such as the facial expressions of others. Rae *et al*. show that during viewing of emotional faces, the insula is hyperactive in Tourette syndrome and displays increased functional connectivity with cortical and subcortical motor regions.
 **Keywords:** basal ganglia, movement disorders, neuropsychiatry, tic disorder, Tourette syndrome
@@ -498,7 +492,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, comorbidity_analysis, quality_of_life, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

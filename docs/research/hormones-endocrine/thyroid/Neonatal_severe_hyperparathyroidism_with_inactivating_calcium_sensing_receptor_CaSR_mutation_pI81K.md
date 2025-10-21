@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.666712'
 acquisition_method: paperscraper_automated
 audience:
@@ -44,9 +45,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Neonatal severe hyperparathyroidism with inactivating calcium sensing receptor (CaSR) mutation (p.I81K).
 
-**Authors:** ['ZeynepDonbaloglu', 'MerveGullu', 'SuatTekin', 'GungorKaraguzel', 'MesutParlak', 'HaleTuhan', 'DogaTurkkahraman']
+# **Authors:** ['ZeynepDonbaloglu', 'MerveGullu', 'SuatTekin', 'GungorKaraguzel', 'MesutParlak', 'HaleTuhan', 'DogaTurkkahraman']
 
 **Journal:** Journal of pediatric endocrinology & metabolism : JPEM
 
@@ -56,7 +59,7 @@ type: research_paper
 
 ## Abstract
 
-Neonatal severe hyperparathyroidism (NSHPT) is a rare condition characterized by inactivating mutations in the calcium-sensing receptor ( We present a case of a six-day-old male infant with weakness, jaundice, and hypotonia, later diagnosed with NSHPT due to a known homozygous This case underscores the importance of early diagnosis and intervention in NSHPT and highlights the critical role of medical treatment, surgical management and long-term follow-up in optimising patient outcomes. Continued research is essential to enhance understanding and treatment strategies for NSHPT.
+## Results
 
 ---
 

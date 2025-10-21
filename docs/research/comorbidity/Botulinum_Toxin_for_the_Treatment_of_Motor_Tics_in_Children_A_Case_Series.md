@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.719760'
 acquisition_method: paperscraper_automated
 audience:
@@ -50,9 +51,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Botulinum Toxin for the Treatment of Motor Tics in Children: A Case Series.
 
-**Authors:** ['EthanEdmondson', 'MariamHull', 'SukruAras', 'MeredParnes']
+# **Authors:** ['EthanEdmondson', 'MariamHull', 'SukruAras', 'MeredParnes']
 
 **Journal:** Journal of child neurology
 
@@ -62,7 +65,7 @@ type: research_paper
 
 ## Abstract
 
-Tic disorders, including Tourette syndrome, are characterized by brief, repetitive, and patterned movements or vocalizations. Botulinum neurotoxin (BoNT) has emerged as a therapeutic option for motor tics, particularly when oral medications are insufficient or poorly tolerated. This retrospective cohort study evaluated the safety and effectiveness of botulinum neurotoxin injections in 50 pediatric patients (aged 7-18 years) with motor tic disorders treated at a tertiary pediatric movement disorders clinic between May 2019 and January 2024. Botulinum neurotoxin injections were tailored to individual symptomatology. Overall, 64% of patients reported improvement in tic severity, 36% noted no change, and 6% worsened. Response did not differ significantly by tic complexity, phenomenology (clonic vs dystonic), or presence of a premonitory urge. Comorbidities such as attention-deficit hyperactivity disorder (ADHD), obsessive-compulsive disorder, autism, and intellectual disability were not predictive of outcomes. These findings support botulinum neurotoxin as a safe and potentially effective treatment for pediatric motor tics, including complex and malignant presentations.
+## Results
 
 ---
 

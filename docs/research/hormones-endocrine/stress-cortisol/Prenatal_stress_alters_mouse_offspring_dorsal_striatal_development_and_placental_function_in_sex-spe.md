@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.448922'
 acquisition_method: paperscraper_automated
 audience:
@@ -51,9 +52,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Prenatal stress alters mouse offspring dorsal striatal development and placental function in sex-specific ways.
 
-**Authors:** ['Sara VMaurer', 'Benjamin W QHing', 'StephanieLussier', 'SreyaRadhakrishna', 'Jada L BDavis', 'Parker WAbbott', 'Jacob JMichaelson', 'Hanna EStevens']
+# **Authors:** ['Sara VMaurer', 'Benjamin W QHing', 'StephanieLussier', 'SreyaRadhakrishna', 'Jada L BDavis', 'Parker WAbbott', 'Jacob JMichaelson', 'Hanna EStevens']
 
 **Journal:** Journal of psychiatric research
 
@@ -63,7 +66,7 @@ type: research_paper
 
 ## Abstract
 
-Prenatal stress is a risk factor for neurodevelopmental disorders (NDDs), including autism spectrum disorder (ASD). However, how early stress modification of brain development contributes to this pathophysiology is poorly understood. Ventral forebrain regions such as dorsal striatum are of particular interest: dorsal striatum modulates movement and cognition, is altered in NDDs, and has a primarily GABAergic population. Here, we examine effects of prenatal stress on adult movement, cognition, and dorsal striatum neurobiology in mice using striatal-dependent behavioral assays, immunohistochemistry, embryonic ventral forebrain transcriptomics, and placental transcriptomics. We found prenatal stress affected adult procedural, habit, and reversal learning in sex-specific ways. Stress also increased adult dorsal striatal GABAergic neurons - an effect largely driven by males. We sought to examine the developmental origins of these adult brain changes. We found similar sex-specific dorsal striatal cellular changes in earlier points of development. The dorsal striatum primordium--embryonic ventral forebrain-showed that prenatal stress increased DNA replication and cell cycle pathways in male but not female transcriptomics and cellular biology. Unique signatures may have arisen from male-female placental differences. Stress-induced placental transcriptomics showed upregulated morphogenesis pathways in males while females downregulated morphogenic, hormonal, and cellular response pathways. Our findings suggest that prenatal stress could affect placenta function and also alter the GABAergic population of dorsal striatum differentially between the sexes.
+## Results
 
 ---
 

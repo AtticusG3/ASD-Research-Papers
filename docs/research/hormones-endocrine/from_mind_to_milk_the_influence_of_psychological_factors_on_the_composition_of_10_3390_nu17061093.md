@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.382727'
 acquisition_method: paperscraper_automated
 audience:
@@ -30,9 +31,11 @@ topics: []
 type: research_paper
 ---
 
+
+
 # From Mind to Milk: The Influence of Psychological Factors on the Composition of Human Breast Milk.
 
-**Authors:** ['KrystianSkowron', 'IgorLichocki', 'FilipGodziszewski', 'MagdalenaOrczyk-Pawiłowicz']
+# **Authors:** ['KrystianSkowron', 'IgorLichocki', 'FilipGodziszewski', 'MagdalenaOrczyk-Pawiłowicz']
 
 **Journal:** Nutrients
 
@@ -42,7 +45,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 
@@ -50,7 +53,7 @@ type: research_paper
 
 **Source:** PUBMED
 **Category:** hormones
-**Primary Topics:** 
+**Primary Topics:**
 **Search Query:** cortisol neurodevelopmental
 **Acquisition Date:** 2025-10-21
 

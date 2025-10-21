@@ -51,6 +51,18 @@ type: research_paper
 ## Abstract
 
 
+<jats:p>
+            <jats:bold>Background:</jats:bold>
+            Schaaf-Yang syndrome is an ultra-rare neurodevelopmental disorder caused by pathogenic variants in the
+            <jats:italic>MAGEL2</jats:italic>
+            gene, also implicated in Prader-Willi syndrome. With less than 1 case per 50 000 people, Schaaf-Yang syndrome remains underreported globally, and no previous cases have been documented in Brazil.
+            <jats:bold>Case description:</jats:bold>
+            This study presents a 4-year-old Brazilian girl clinically diagnosed with Prader-Willi syndrome, characterized by hypotonia, delayed neuropsychomotor development, and craniofacial dysmorphism. Initial assessments identified growth hormone deficiency and developmental delays, followed by genetic sequencing at 2 years of age, confirming a pathogenic
+            <jats:italic>MAGEL2</jats:italic>
+            variant [NM_019066.5:c2821dup: p (Arg941Profs*10)]. The child was also diagnosed with autism spectrum disorder. Multidisciplinary interventions, including medical care, speech therapy, and psychological support, led to remarkable improvements in motor function, language, memory, and learning.
+            <jats:bold>Conclusions:</jats:bold>
+            This is the first documented Brazilian case of Schaaf-Yang syndrome, emphasizing the critical role of early diagnosis and personalized interventions in reducing the impact of the syndrome.
+          </jats:p>
 
 ---
 

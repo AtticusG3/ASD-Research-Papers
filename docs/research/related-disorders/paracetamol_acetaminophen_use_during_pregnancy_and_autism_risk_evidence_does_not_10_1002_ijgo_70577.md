@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.781676'
 acquisition_method: paperscraper_automated
 audience:
@@ -49,9 +50,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Paracetamol (acetaminophen) use during pregnancy and autism risk: Evidence does not support causal association.
 
-**Authors:** ['FrankLouwen', 'EileenDeuster', 'Fionnuala MMcAuliffe', 'BoJacobsson', 'MichaelGeary', 'StevenFleischman', 'Anne-BeatriceKihara']
+# **Authors:** ['FrankLouwen', 'EileenDeuster', 'Fionnuala MMcAuliffe', 'BoJacobsson', 'MichaelGeary', 'StevenFleischman', 'Anne-BeatriceKihara']
 
 **Journal:** International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics
 
@@ -61,7 +64,7 @@ type: research_paper
 
 ## Abstract
 
-Recent political statements linking paracetamol (acetaminophen) use during pregnancy to autism spectrum disorders have created concern among patients and healthcare providers worldwide. This editorial critically examines the scientific evidence, highlighting that the largest and most methodologically rigorous population-based studies employing sibling control analyses demonstrate no causal association between prenatal paracetamol exposure and neurodevelopmental disorders. While some observational studies have suggested potential weak associations, these findings likely reflect confounding by indication and familial genetic factors rather than actual causal relationships. The most robust evidence comes from a Swedish population-based study of 2.48 million children, which found no increased risk when controlling for familial confounding. Major international medical organizations including ACOG, RCOG, and FIGO, and regulatory agencies including the European Medicines Agency continue to recommend paracetamol as the safest analgesic option during pregnancy when clinically indicated. The established risks of untreated pain and fever during pregnancy significantly outweigh theoretical concerns based on methodologically limited studies. Healthcare providers should continue evidence-based counseling while avoiding unnecessary anxiety about this essential medication in obstetric practice.
+## Results
 
 ---
 

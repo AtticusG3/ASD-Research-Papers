@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:37.514860'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:55.293141'
@@ -43,9 +44,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Characterising the association between posterior parietal metabolite levels and cortical macrostructure in a cohort spanning childhood to adulthood.
 
-**Authors:** ['Alice RThomson', 'DuanghathaiPasanta', 'Richard A EEdden', 'TomokiArichi', 'XiaoqianChai', 'Nicolaas APuts']
+# **Authors:** ['Alice RThomson', 'DuanghathaiPasanta', 'Richard A EEdden', 'TomokiArichi', 'XiaoqianChai', 'Nicolaas APuts']
 
 **Journal:** bioRxiv : the preprint server for biology
 
@@ -55,7 +58,7 @@ type: research_paper
 
 ## Abstract
 
-Postnatal brain development is characterised by dynamic macrostructural changes, including cortical thinning and cortical flattening during childhood and adolescence. These macro-structural changes are parallel with developmental changes in brain neurochemistry, probed in the human brain using Magnetic Resonance Spectroscopy (MRS). This includes neurotransmitters such glutamate and gamma-aminobutyric acid (GABA), as well as building blocks of neuronal and associated tissue such as N-acetyl aspartate (NAA), and those involved in metabolism such as creatine (Cr). While previous research has linked MRS-measured neuro-metabolite levels to bulk tissue composition (e.g., gray matter, white matter, and cerebrospinal fluid), the relationship between neurochemistry and more granular macrostructural metrics, such as cortical thickness, area, volume, and local gyrification, remains unexplored. This study investigates the association between MRS-measured neuro-metabolite levels in the posterior parietal cortex (PPC) and PPC-voxel cortical macrostructural metrics in a developmental cohort of 86 individuals aged 5-35 years. We also examine whether PPC metabolite concentrations associate with whole-brain structural metrics to determine whether associations are region-specific or more broadly generalisable. Our findings reveal significant positive associations between PPC cortical thickness, volume, local gyrification index (LGI) and Glx (glutamate + glutamine) levels, likely because differences in cortical 
+## Results
 
 ---
 

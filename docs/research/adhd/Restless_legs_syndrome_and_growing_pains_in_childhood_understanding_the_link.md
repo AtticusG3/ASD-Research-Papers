@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.380126'
 acquisition_method: paperscraper_automated
 audience:
@@ -48,9 +49,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Restless legs syndrome and growing pains in childhood: understanding the link.
 
-**Authors:** ['Alexandra E VRosen', 'FabianaUrsitti', 'NausicaStella', 'LauraPapetti', 'Martina ProiettiChecchi', 'AlessandraVoci', 'LuigiMazzone', 'MassimilianoValeriani', 'RominaMoavero']
+# **Authors:** ['Alexandra E VRosen', 'FabianaUrsitti', 'NausicaStella', 'LauraPapetti', 'Martina ProiettiChecchi', 'AlessandraVoci', 'LuigiMazzone', 'MassimilianoValeriani', 'RominaMoavero']
 
 **Journal:** Frontiers in neurology
 
@@ -60,7 +63,7 @@ type: research_paper
 
 ## Abstract
 
-Restless Legs Syndrome (RLS), known as Willis-Ekbom disease, is a common neurological condition that often goes undiagnosed, especially in children. Characterized by an irresistible urge to move the legs, it is typically more pronounced in the evening and at rest. Growing Pains (GP), common in childhood and associated with migraine, present apparently overlapping symptoms with RLS, making it sometimes difficult to distinguish between the two. Understanding their relationship is important to make correct diagnosis and treatment. We performed a literature review on PubMed using combinations of terms such as "Restless Legs Syndrome," "Growing Pains," and "children" to explore diagnostic criteria and the relationship between RLS and GP. Studies included those from 2000 to 2024 that involved individuals under 18 with diagnosis of RLS or GP, written in English language. The 24 studies we included in our analysis showed that RLS and GP share common physiological factors, including serotonin dysfunction, iron deficiency, and low vitamin D levels. Evidence from genetic studies suggests a familial link in the development of both conditions. These findings suggest that GP might be an early form of RLS. Both conditions are linked with headaches, sleep disorders, and neuropsychiatric conditions like ADHD. Treatment for both conditions includes iron supplements, dopamine agonists, and non-medical approaches such as stretching or physical exercise. Our narrative review shows that, though distinct, RLS and GP might share common underlying causes. RLS and GP are common in pediatric populations, but diagnosis can be challenging due to symptom overlap. This review offers an updated and integrative framework for understanding RLS and GP, highlighting the need for more specific, evidence-based diagnostic criteria. Further research is needed in order to clarify their relationship, refine diagnostic criteria, and explore their genetic and neurobiological mechanisms.
+## Results
 
 ---
 

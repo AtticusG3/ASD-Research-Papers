@@ -59,10 +59,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Emerging therapies and recent advances for Tourette syndrome - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -90,8 +86,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Heliyon logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-heliyon.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-heliyon.png)
 Heliyon
 . 2023 Jan 7;9(1):e12874. doi: [10.1016/j.heliyon.2023.e12874](https://doi.org/10.1016/j.heliyon.2023.e12874)
 # Emerging therapies and recent advances for Tourette syndrome
@@ -121,8 +116,7 @@ Corresponding author. 650 West 168th Street, Room 305, New York, NY, 10032, USA.
 Received 2022 Sep 13; Revised 2022 Nov 27; Accepted 2023 Jan 5; Collection date 2023 Jan.
 © 2023 The Authors. Published by Elsevier Ltd.
 This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC9860289  PMID: [36691528](https://pubmed.ncbi.nlm.nih.gov/36691528/)
+[PMC ncbi.nlm.nih.gov/36691528/)
 ## Abstract
 Tourette syndrome is the most prevalent hyperkinetic movement disorder in children and can be highly disabling. While the pathomechanism of Tourette syndrome remains largely obscure, recent studies have greatly improved our knowledge about this disease, providing a new perspective in our understanding of this condition. Advances in electrophysiology and neuroimaging have elucidated that there is a reduction in frontal cortical volume and reduction of long rage connectivity to the frontal lobe from other parts of the brain. Several genes have also been identified to be associated with Tourette syndrome. Treatment of Tourette syndrome requires a multidisciplinary approach which includes behavioral and pharmacological therapy. In severe cases surgical therapy with deep brain stimulation may be warranted, though the optimal location for stimulation is still being investigated. Studies on alternative therapies including traditional Chinese medicine and neuromodulation, such as transcranial magnetic stimulation have shown promising results, but still are being used in an experimental basis. Several new therapies have also recently been tested in clinical trials. This review provides an overview of the latest findings with regards to genetics and neuroimaging for Tourette syndrome as well as an update on advanced therapeutics.
 **Keywords:** Tourette syndrome, Tics, CBIT, rTMS, Neurofeedback, DBS, GPi, CM-Pf, SLITRK, CELSR3
@@ -437,7 +431,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, prevalence_data, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.176035'
 acquisition_method: paperscraper_automated
 audience:
@@ -43,9 +44,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Neural hyperexcitability in Angelman syndrome: Genetic factors and pharmacologic treatment approaches.
 
-**Authors:** ['Paul JFitzgerald']
+# **Authors:** ['Paul JFitzgerald']
 
 **Journal:** Epilepsy research
 
@@ -55,7 +58,7 @@ type: research_paper
 
 ## Abstract
 
-Angelman syndrome (AS) is a rare neurodevelopmental disorder that is typically caused by deletion or a loss-of-function mutation of the maternal copy of the ubiquitin ligase E3A (UBE3A) gene. The disorder is characterized by severe intellectual disability, deficits in speech, motor abnormalities, altered electroencephalography (EEG) activity, spontaneous epileptic seizures, sleep disturbances, and a happy demeanor with frequent laughter. Regarding electrophysiologic abnormalities in particular, enhanced delta oscillatory power and an elevated excitatory/inhibitory (E/I) ratio have been documented in AS, with E/I ratio especially studied in rodent models. These electrophysiologic characteristics appear to relate with the greatly elevated rates of epilepsy in individuals with AS, and associated hypersynchronous neural activity. Here we briefly review findings on EEG, E/I ratio, and epileptic seizures in AS, including data from rodent models of the disorder. We summarize pharmacologic approaches that have been used to treat behavioral aspects of AS, including neuropsychiatric phenomena and sleep disturbances, as well as seizures in the context of the disorder. Antidepressants such as SSRIs and atypical antipsychotics are among the medications that have been used behaviorally, whereas anticonvulsant drugs such as valproic acid and lamotrigine have frequently been used to control seizures in AS. We end by suggesting novel uses for some existing pharmacologic agents in AS, including noradrenergic transmission reducing drugs (alpha2 agonists, beta blockers, alpha1 antagonists) and cholinesterase inhibitors, where these various classes of drugs may have the ability to ameliorate both behavioral disturbances and seizures.
+## Results
 
 ---
 

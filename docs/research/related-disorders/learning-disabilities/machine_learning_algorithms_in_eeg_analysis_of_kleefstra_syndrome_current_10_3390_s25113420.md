@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.960839'
 acquisition_method: paperscraper_automated
 audience:
@@ -44,9 +45,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Machine Learning Algorithms in EEG Analysis of Kleefstra Syndrome: Current Evidence and Future Directions.
 
-**Authors:** ['Katerina DTzimourta']
+# **Authors:** ['Katerina DTzimourta']
 
 **Journal:** Sensors (Basel, Switzerland)
 
@@ -56,7 +59,7 @@ type: research_paper
 
 ## Abstract
 
-Kleefstra syndrome (KS) is a rare neurodevelopmental disorder associated with disruptions in the EHMT1 gene, often leading to intellectual disability, autism spectrum behaviors and epilepsy. The electroencephalogram (EEG) serves as a non-invasive tool to explore brain function in KS; yet, systematic characterizations of EEG features remain extremely limited. This review synthesizes current evidence on EEG findings in KS, highlighting the high prevalence of nonspecific abnormalities and seizures, but the absence of a consistent electrophysiological biomarker. Given the growing role of machine learning (ML) in extracting patterns from EEG data in related disorders-such as Angelman, Rett and Fragile X syndromes-this review explores how similar approaches could be adapted for KS. Despite promising perspectives, a lack of large-scale, publicly available EEG datasets hinders the application of ML methodologies in KS research. Future directions are proposed to address these gaps, including standardized EEG data collection, adoption of quantitative EEG analyses and integration of ML techniques adapted for small datasets. This multidisciplinary strategy holds potential for improving early diagnosis, monitoring and personalized interventions in Kleefstra syndrome.
+## Results
 
 ---
 

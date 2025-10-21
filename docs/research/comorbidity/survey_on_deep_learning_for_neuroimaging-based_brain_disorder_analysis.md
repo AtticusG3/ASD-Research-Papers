@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.993009'
 acquisition_method: paperscraper_automated
 audience:
@@ -40,9 +41,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # A Survey on Deep Learning for Neuroimaging-based Brain Disorder Analysis
 
-**Authors:** Li Zhang, Mingliang Wang, Mingxia Liu, Daoqiang Zhang
+# **Authors:** Li Zhang, Mingliang Wang, Mingxia Liu, Daoqiang Zhang
 
 **Publication Date:** 2020-05-10
 
@@ -50,14 +53,14 @@ type: research_paper
 
 ## Abstract
 
-Deep learning has been recently used for the analysis of neuroimages, such as structural magnetic resonance imaging (MRI), functional MRI, and positron emission tomography (PET), and has achieved significant performance improvements over traditional machine learning in computer-aided diagnosis of brain disorders. This paper reviews the applications of deep learning methods for neuroimaging-based brain disorder analysis. We first provide a comprehensive overview of deep learning techniques and popular network architectures, by introducing various types of deep neural networks and recent developments. We then review deep learning methods for computer-aided analysis of four typical brain disorders, including Alzheimer's disease, Parkinson's disease, Autism spectrum disorder, and Schizophrenia, where the first two diseases are neurodegenerative disorders and the last two are neurodevelopmental and psychiatric disorders, respectively. More importantly, we discuss the limitations of existing studies and present possible future directions.
+## Methods
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, asd, cross_sectional
 **Search Query:** neurodevelopmental disorders dopamine
 **Acquisition Date:** 2025-10-21

@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.541598'
 acquisition_method: paperscraper_automated
 audience:
@@ -51,9 +52,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # New Horizons in Klinefelter Syndrome: Current Evidence, Gaps, and Research Priorities.
 
-**Authors:** ['Angela KLucas-Herald', 'LiseAksglaede', 'Ida DyhrCaspersen', 'S FaisalAhmed', 'FrancescoCarlomagno', 'Andrea MIsidori']
+# **Authors:** ['Angela KLucas-Herald', 'LiseAksglaede', 'Ida DyhrCaspersen', 'S FaisalAhmed', 'FrancescoCarlomagno', 'Andrea MIsidori']
 
 **Journal:** Endocrine reviews
 
@@ -63,7 +66,7 @@ type: research_paper
 
 ## Abstract
 
-Klinefelter syndrome (KS) is caused by the presence of a supernumerary X chromosome (conferring the classical 47,XXY karyotype) and is the most common sex chromosome abnormality in men. The clinical features described in the early characterization of the syndrome include tall stature, small testes, hypogonadism, gynecomastia, and neurodevelopmental deficits. However, the syndrome presents a broad phenotypic spectrum that seems to be evolving, along with environmental and general health changes. Although a proportion of men with KS are asymptomatic, others experience numerous severe comorbidities, ranging from cardiovascular to autoimmune disorders. Once considered a hallmark of the syndrome, the inability to conceive can now be overcome with assisted reproductive technology. The neuropsychological stigmata, once overstated, thereafter inadvertently dismissed, now demand a more balanced and objective approach. Significant advances have been made in our understanding of KS over recent years, including the molecular machinery involved in the chromosomal disjunction that gives rise to the syndrome. Our understanding of the risk-benefit of testosterone replacement therapy has greatly improved; however, many gaps persist. Future work should be prioritized according to the needs of people with KS. There are opportunities for new research addressing the fields of fertility, cardiovascular prevention, neurodevelopment, quality of life, and bone health. Above all, solid registries and extensive prospective longitudinal studies are needed to enroll people with KS to determine their evolving needs as they progress through their lifespan. These studies would be best initiated with international collaboration to ensure the results apply to all those with this condition worldwide.
+## Introduction
 
 ---
 

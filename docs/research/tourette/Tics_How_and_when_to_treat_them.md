@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:53.855432'
 acquisition_method: paperscraper_automated
 audience:
@@ -36,9 +37,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # [Tics: How and when to treat them?].
 
-**Authors:** ['DanielaMuñoz-Chesta', 'MónicaTroncoso-Schifferli']
+# **Authors:** ['DanielaMuñoz-Chesta', 'MónicaTroncoso-Schifferli']
 
 **Journal:** Medicina
 
@@ -46,7 +49,7 @@ type: research_paper
 
 ## Abstract
 
-The management of tics requires a multimodal approach, combining pharmacological and non-pharmacological treatments, tailored to each patient according to the severity of the tics, their impact on quality of life, associated comorbidities, and the patient's preferences. In recent years, new drugs with promising results have been investigated, as well as surgical techniques such as deep brain stimulation, which has shown efficacy in refractory cases and in those with debilitating symptoms. However, more controlled and long-term studies are needed to confirm the efficacy and safety of these therapeutic options in different clinical contexts. El manejo de los tics requiere un enfoque multimodal, combinando tratamientos farmacológicos y no farmacológicos, adaptados a cada paciente según la gravedad de los tics, su impacto en la calidad de vida, las comorbilidades asociadas y las preferencias del paciente. En los últimos años, se han investigado nuevos fármacos con resultados prometedores, así como técnicas quirúrgicas como la estimulación cerebral profunda, que ha mostrado eficacia en casos refractarios y en aquellos con síntomas incapacitantes. Sin embargo, se necesitan más estudios controlados y a largo plazo para confirmar la eficacia y seguridad de estas opciones terapéuticas en diferentes contextos clínicos.
+## Results
 
 ---
 

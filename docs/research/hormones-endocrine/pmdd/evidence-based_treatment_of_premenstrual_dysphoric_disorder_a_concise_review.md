@@ -38,6 +38,10 @@ The Journal of clinical psychiatry
 
 ## Abstract
 
+Article Abstract
+
+Because this piece does not have an abstract, we have provided for your benefit the first 3 sentences of the full text.
+Premenstrual dysphoric disorder (PMDD) is a collection of physical, cognitive, and affective symptoms causing clinically significant distress or interference that occur in the 7 days prior to the onset of menses, after which they become minimal or absent. The diagnosis is established by symptom documentation using a validated, reliable tool such as the Daily Record of Severity of Problems (DRSP) for at least 2 menstrual cycles to confirm the timing of relevant symptoms. According to the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), there is a 1.8%-5.8% 12-month prevalence of PMDD among menstruating women1; however, the prevalence of premenstrual symptoms causing clinically significant interference or distress but not meeting full criteria for a diagnosis of PMDD may be as high as 13%-18%.
 
 ## Keywords
 pmdd, ssri, clinical_research, medication, therapy, premenstrual_dysphoric_disorder, hormones_endocrine

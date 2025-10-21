@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.704747'
 acquisition_method: paperscraper_automated
 audience:
@@ -41,9 +42,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Exploring Copy Number Variants in a Cohort of Children Affected by ADHD: Clinical Investigation and Translational Insights.
 
-**Authors:** ['FedericaMirabella', 'ValentinaFinocchiaro', 'MariagraziaFigura', 'OrnellaGalesi', 'MaurizioElia', 'SerafinoBuono', 'RitaBarone', 'RenataRizzo']
+# **Authors:** ['FedericaMirabella', 'ValentinaFinocchiaro', 'MariagraziaFigura', 'OrnellaGalesi', 'MaurizioElia', 'SerafinoBuono', 'RitaBarone', 'RenataRizzo']
 
 **Journal:** Genes
 
@@ -53,7 +56,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 

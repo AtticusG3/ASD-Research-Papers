@@ -46,10 +46,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -77,8 +73,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![European Journal of Human Genetics logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-ejhg.gif)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-ejhg.gif)
 Eur J Hum Genet
 . 2015 Mar 4;23(11):1519–1522. doi: [10.1038/ejhg.2015.22](https://doi.org/10.1038/ejhg.2015.22)
 # Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis
@@ -142,8 +137,7 @@ These authors contributed equally to this work.
 Massachusetts General Hospital: JM Scharf (Site PI), DL Pauls, D Yu, C Illmann, L Osiecki, BM Neale; UCSF: CA Mathews (Site PI), VI Reus, TL Lowe; UCLA: NB Freimer (Site PI), S Service; University of Chicago: NJ Cox (Site PI), LK Davis; University of Montreal: GA Rouleau (Site PI), S Chouinard, Y Dion, S Girard; Utrecht University/VU Medical Center, Amsterdam: DC Cath (Site PI), D Posthuma, JH Smit, P Heutink; Yale University: RA King (Site PI), T Fernandez, JF Leckman; University of Toronto: P Sandor (Site PI), CL Barr; University of Utah: W McMahon (Site PI), G Lyon, M Leppert, J Morgan, R Weiss; Johns Hopkins School of Medicine: MA Grados (Site PI), H Singer; Baylor College of Medicine: J Jankovic; Rutgers University: JA Tischfield (Site PI), GA Heiman (Site PI)
 Received 2014 Aug 20; Revised 2014 Dec 11; Accepted 2015 Jan 20; Issue date 2015 Oct.
 Copyright © 2015 Macmillan Publishers Limited
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC4613465  PMID: [25735483](https://pubmed.ncbi.nlm.nih.gov/25735483/)
+[PMC ncbi.nlm.nih.gov/25735483/)
 ## Abstract
 Tourette syndrome is a heritable neurodevelopmental disorder whose pathophysiology remains unknown. Recent genome-wide association studies suggest that it is a polygenic disorder influenced by many genes of small effect. We tested whether these genes cluster in cellular function by applying gene-set analysis using expert curated sets of brain-expressed genes in the current largest available Tourette syndrome genome-wide association data set, involving 1285 cases and 4964 controls. The gene sets included specific synaptic, astrocytic, oligodendrocyte and microglial functions. We report association of Tourette syndrome with a set of genes involved in astrocyte function, specifically in astrocyte carbohydrate metabolism. This association is driven primarily by a subset of 33 genes involved in glycolysis and glutamate metabolism through which astrocytes support synaptic function. Our results indicate for the first time that the process of astrocyte-neuron metabolic coupling may be an important contributor to Tourette syndrome pathogenesis.
 ## Introduction
@@ -327,7 +321,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, autism_spectrum, ocd, children, adolescents, behavioral_therapy, pharmacological, psychotherapy, cohort_study, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

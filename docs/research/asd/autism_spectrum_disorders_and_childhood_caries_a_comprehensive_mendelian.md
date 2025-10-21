@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.519253'
 acquisition_method: paperscraper_automated
 audience:
@@ -38,9 +39,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Autism spectrum disorders and childhood caries: a comprehensive Mendelian randomization study.
 
-**Authors:** ['QiufangJin', 'ZexiuHe', 'DongfangXu', 'RuihuaLin', 'TongtongZhang', 'BingjianLv', 'YuliangZhao']
+# **Authors:** ['QiufangJin', 'ZexiuHe', 'DongfangXu', 'RuihuaLin', 'TongtongZhang', 'BingjianLv', 'YuliangZhao']
 
 **Journal:** BMC pediatrics
 
@@ -50,7 +53,7 @@ type: research_paper
 
 ## Abstract
 
-This study aimed to investigate the causal relationships between autism spectrum disorder (ASD) or pervasive developmental disorder (PDD) (excluding ASD and Asperger's syndrome [AS]) and childhood caries (primary teeth and permanent teeth). We conducted two-sample Mendelian randomization (MR) analysis by utilizing summary-level data of ASD and PDD (excluding ASD and AS) as exposures, and childhood caries (primary teeth and permanent teeth) as outcomes. The results showed that PDD (excluding ASD and AS) to be causally associated with caries in permanent teeth according to the inverse-variance weighted (IVW) (odds ratio [OR]: 1.151, 95%CI: 1.043-1.270, P = 0.005) and weighted median (OR: 1.159, 95%CI: 1.029-1.306, P = 0.015). However, according to the IVW (OR: 0.923, 95%CI: 0.873-1.003, P = 0.051), ASD might be causally associated with caries in permanent teeth. The results also showed no causal association between ASD or PDD (excluding ASD and AS) and caries in primary teeth. Our study showed PDD (excluding ASD and AS) to have pathogenic effects on childhood caries of permanent teeth among a population of European ancestry. However, ASD was shown to have protective effects on childhood caries of permanent teeth.
+## Results
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.359201'
 acquisition_method: paperscraper_automated
 audience:
@@ -47,9 +48,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # The Relationship Between Sleep, Fatigue and Quality of Life in Young Adults With Autoimmune Addison's Disease.
 
-**Authors:** ['SaraFletcher-Sandersjöö', 'Annelies van TWesteinde', 'TimSpelman', 'TatjaHirvikosi', 'SvetlanaLajic', 'SophieBensing']
+# **Authors:** ['SaraFletcher-Sandersjöö', 'Annelies van TWesteinde', 'TimSpelman', 'TatjaHirvikosi', 'SvetlanaLajic', 'SophieBensing']
 
 **Journal:** Clinical endocrinology
 
@@ -59,7 +62,7 @@ type: research_paper
 
 ## Abstract
 
-Standard glucocorticoid (GC) replacement therapy in autoimmune Addison's disease (AAD) fails to replicate natural cortisol rhythms. Despite adherence, patients report persistent fatigue, reduced vitality, and impaired wellbeing, ultimately lowering health-related quality of life (HRQoL). Cortisol is essential for sleep regulation, yet the impact of cortisol imbalance on sleep and HRQoL in AAD remains poorly understood. This study investigates self-reported sleep impairments and their associations with fatigue and HRQoL in young adults with AAD. Sixty-four patients with AAD and 128 healthy controls completed validated questionnaires assessing sleep (Karolinska Sleep Questionnaire), fatigue (Multidimensional Fatigue Inventory), and HRQoL (Short Form-36). Patients reported significantly more non-restorative sleep (p = 0.015) than controls. While overall rates of clinically relevant sleep impairments were similar, patients more frequently experienced awakening difficulties (p = 0.011) and struggling to stay awake (p = 0.036). Patients also reported poorer physical health (p < 0.001) and greater general fatigue (p = 0.007), with female patients experiencing more mental fatigue (p = 0.013). Poor sleep and fatigue were associated with reduced HRQoL across the cohort, with patients showing a more pronounced decline in physical health in relation to these factors. Mental health scores remained similar between groups. Non-restorative sleep emerged as a distinct feature of AAD. While the prevalence and severity of sleep impairments were similar to controls, the association with poorer physical health was stronger in patients. Mental health remained similar despite sleep disturbances. These findings highlight the importance of addressing even modest sleep disturbances, which may worsen fatigue and reduce physical wellbeing in AAD.
+## Results
 
 ---
 

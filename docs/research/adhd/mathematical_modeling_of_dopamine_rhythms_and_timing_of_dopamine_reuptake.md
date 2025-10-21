@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.369116'
 acquisition_method: paperscraper_automated
 audience:
@@ -46,9 +47,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Mathematical modeling of dopamine rhythms and timing of dopamine reuptake inhibitors.
 
-**Authors:** ['TianyongYao', 'RubyKim']
+# **Authors:** ['TianyongYao', 'RubyKim']
 
 **Journal:** PLoS computational biology
 
@@ -58,7 +61,7 @@ type: research_paper
 
 ## Abstract
 
-Dopamine (DA) plays a vital role in mood, alertness, and behavior, with dysregulation linked to disorders such as Parkinson's disease, ADHD, depression, and addiction. In this study, we develop and analyze a reduced mathematical model of dopamine synthesis, release, and reuptake to investigate how daily rhythms influence dopamine dynamics and the efficacy of dopamine reuptake inhibitors (DRIs) used in the treatment of various neuropsychiatric conditions. We simplify a detailed mathematical model of dopamine synthesis, release, and reuptake and demonstrate that our reduced system maintains key dynamical features including homeostatic regulation via autoreceptors. Our model captures core autoregulatory mechanisms and reveals that DRIs can exert substantial time-of-day effects, allowing for dopamine levels to be sustained at elevated levels when administered at circadian troughs. These fluctuations depend sensitively on the timing of DRI administration relative to circadian variations in enzyme activity. We further extend the model to incorporate feedback from local dopaminergic tone, which generates ultradian oscillations in the model independent of circadian regulation. Administration of DRIs lengthens the ultradian periodicity. Our findings provide strong evidence that intrinsic fluctuations in DA should be considered in the clinical use of DRIs, offering a mechanistic framework for improving chronotherapeutic strategies targeting dopaminergic dysfunction.
+## Results
 
 ---
 

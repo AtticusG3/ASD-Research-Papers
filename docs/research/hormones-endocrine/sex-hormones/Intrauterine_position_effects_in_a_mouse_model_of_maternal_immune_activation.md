@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:36.351793'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:55.557613'
@@ -45,9 +46,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Intrauterine position effects in a mouse model of maternal immune activation.
 
-**Authors:** ['RonSchaer', 'Flavia SMueller', 'TinaNotter', 'UlrikeWeber-Stadlbauer', 'UrsMeyer']
+# **Authors:** ['RonSchaer', 'Flavia SMueller', 'TinaNotter', 'UlrikeWeber-Stadlbauer', 'UrsMeyer']
 
 **Journal:** Brain, behavior, and immunity
 
@@ -57,7 +60,7 @@ type: research_paper
 
 ## Abstract
 
-Rodent models of maternal immune activation (MIA) are increasingly used as experimental tools in preclinical research of immune-mediated neurodevelopmental disorders and mental illnesses. Using a viral-like MIA model that is based on prenatal poly(I:C) exposure in mice, we have recently identified the existence of subgroups of MIA-exposed offspring that show dissociable behavioral, transcriptional, brain network and inflammatory profiles even under conditions of genetic homogeneity and identical MIA. Here, we tested the hypothesis that the intrauterine positions of fetuses, which are known to shape individual variability in litter-bearing mammals through variations in fetal hormone exposure, may contribute to the variable outcomes of MIA in mice. MIA was induced by maternal administration of poly(I:C) on gestation day 12 in C57BL/6N mice. Determining intrauterine positions using delivery by Cesarean section (C-section), we found that MIA-exposed offspring developing between female fetuses only (0M-MIA offspring) displayed significant deficits in sociability and sensorimotor gating at adult age, whereas MIA-exposed offspring developing between one or two males in utero (1/2M-MIA offspring) did not show the same deficits. These intrauterine position effects similarly emerged in male and female offspring. Furthermore, while MIA elevated fetal brain levels of pro- and anti-inflammatory cytokines independently of the precise intrauterine position and sex of adjacent fetuses during the acute phase, fetal brain levels of TNF-α remained elevated in 0M-MIA but not 1/2M-MIA offspring until the post-acute phase in late gestation. As expected, 1/2M offspring generally showed higher testosterone levels in the fetal brain during late gestation as compared to 0M offspring, confirming the transfer of testosterone from male fetuses to adjacent male or female fetuses. Taken together, our findings identify a novel source of within-litter variability contributing to heterogeneous outcomes of short- and long-term effects in a mouse model of MIA. In broader context, our findings highlight that individual differences in fetal exposure to hormonal and inflammatory signals may be a perinatal factor that shapes risk and resilience to MIA.
+## Results
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.423165'
 acquisition_method: paperscraper_automated
 audience:
@@ -44,9 +45,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Neurocognitive mechanisms underlying autism spectrum disorders: a literature review.
 
-**Authors:** ['ShixianLiu', 'DongmeiZeng', 'CaiyingYi', 'MeijunZhu']
+# **Authors:** ['ShixianLiu', 'DongmeiZeng', 'CaiyingYi', 'MeijunZhu']
 
 **Journal:** Frontiers in psychiatry
 
@@ -56,7 +59,7 @@ type: research_paper
 
 ## Abstract
 
-Autism spectrum disorder (ASD) is associated with complex neurocognitive alterations that impact social cognition, executive function, and sensory processing. Understanding these mechanisms is essential for advancing diagnosis and treatment strategies. We conducted an integrative review of recent findings from structural neuroimaging, functional connectivity, molecular biology, cognitive studies, genetics, and epigenetics. Interdisciplinary approaches were summarized to examine regulatory mechanisms involved in neural development and function, as well as their impact on ASD pathophysiology. Evidence from brain imaging studies demonstrates notable structural changes and disrupted neural circuit connectivity, affecting both local and global communication within the brain. Neurotransmitter system dysregulation, particularly involving glutamatergic and GABAergic pathways, contributes to excitation-inhibition imbalance, a hallmark of ASD. Genetic and epigenetic research highlights familial inheritance patterns and gene-environment interactions regulating neurodevelopment. Advancements in neuroimaging biomarkers have improved early diagnosis, while customized treatment approaches targeting specific neurobiological elements are associated with better clinical outcomes. This review underscores the importance of a multidimensional framework that integrates imaging, molecular biology, and genetics in understanding ASD. The findings emphasize the heterogeneity of ASD and point to the necessity of individualized treatment strategies. Future research should prioritize early biomarker identification and the development of personalized therapies responsive to neural system complexity and diverse treatment outcomes.
+## Results
 
 ---
 

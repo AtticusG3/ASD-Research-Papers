@@ -49,10 +49,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 All that glitters is not gold: When motor and vocal tics in a child do not match Tourette syndrome: A case report - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -80,8 +76,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Dementia & Neuropsychologia logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-dementneuro.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-dementneuro.png)
 Dement Neuropsychol
 . 2016 Jul-Sep;10(3):251–253. doi: [10.1590/S1980-5764-2016DN1003014](https://doi.org/10.1590/S1980-5764-2016DN1003014)
 Show available content in
@@ -139,8 +134,7 @@ Disclosure: The authors report no conflicts of interest.
 Received 2016 May 11; Accepted 2016 Aug 20; Issue date 2016 Jul-Sep.
 This is an open-access article distributed under the terms of the Creative
 Commons Attribution License
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC5642424  PMID: [29213464](https://pubmed.ncbi.nlm.nih.gov/29213464/)
+[PMC ncbi.nlm.nih.gov/29213464/)
 ## ABSTRACT
 The atypical form of Pantothenate Kinase-Associated Neurodegeneration (PKAN) tends to
 present at around the age of 14 years, has a heterogeneous presentation with
@@ -319,7 +313,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, mental_health, children, behavioral_therapy, pharmacological, case_study, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

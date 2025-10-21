@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.895920'
 acquisition_method: paperscraper_automated
 audience:
@@ -45,9 +46,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Challenges, Strengths, and Strategies of Software Engineers with ADHD: A Case Study
 
-**Authors:** Grischa Liebel, Noah Langlois, Kiev Gama
+# **Authors:** Grischa Liebel, Noah Langlois, Kiev Gama
 
 **Publication Date:** 2023-12-08
 
@@ -55,14 +58,14 @@ type: research_paper
 
 ## Abstract
 
-Neurodiversity describes brain function variation in individuals, including Attention deficit hyperactivity disorder (ADHD) and Autism spectrum disorder. Neurodivergent individuals both experience challenges and exhibit strengths in the workplace. As an important disorder included under the neurodiversity term, an estimated 5.0% to 7.1% of the world population have ADHD. However, existing studies involving ADHD in the workplace are of general nature and do not focus on software engineering (SE) activities. To address this gap, we performed an exploratory qualitative case study on the experiences of people with ADHD working in SE. We find that people with ADHD struggle with several important SE-related activities, e.g., task organisation and estimation, attention to work, relation to others. Furthermore, they experience issues with physical and mental health. In terms of strengths, they exhibit, e.g., increased creative skills, perform well when solving puzzles, and have the capability to think ahead. Our findings align well with existing clinical ADHD research, and have important implications to SE practice.
+## Results
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, adhd, asd, case_study
 **Search Query:** ADHD brain imaging
 **Acquisition Date:** 2025-10-21

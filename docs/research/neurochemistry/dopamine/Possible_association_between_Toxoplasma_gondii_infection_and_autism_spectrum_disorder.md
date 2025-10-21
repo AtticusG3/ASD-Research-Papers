@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.013887'
 acquisition_method: paperscraper_automated
 audience:
@@ -48,9 +49,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Possible association between Toxoplasma gondii infection and autism spectrum disorder.
 
-**Authors:** ['Tahereh MikaeiliGaleh', 'TooranNayeri', 'SamiraDodangeh', 'ZahraHosseininejad', 'AsalTanzif', 'AlirezaKhalilian', 'AhmadDaryani']
+# **Authors:** ['Tahereh MikaeiliGaleh', 'TooranNayeri', 'SamiraDodangeh', 'ZahraHosseininejad', 'AsalTanzif', 'AlirezaKhalilian', 'AhmadDaryani']
 
 **Journal:** Parasites, hosts and diseases
 
@@ -60,7 +63,7 @@ type: research_paper
 
 ## Abstract
 
-Toxoplasma gondii is a neurotropic apicomplexan protozoan estimated to affect approximately 30% of the global population. In this review, we aimed to examine scientific evidence on the potential role of T. gondii infection in the development of autism spectrum disorder (ASD), a heterogeneous neurodevelopmental disorder. This review summarizes the current literature exploring the possible association between T. gondii and ASD. Findings indicate that toxoplasmosis may contribute to host alterations, including the induction of humoral and cellular immune responses, production of various cytokines, and changes in neurotransmitter levels (e.g., serotonin, dopamine, acetylcholine, gamma-aminobutyric acid, and glutamate), as well as the activation of enzymes such as indoleamine 2,3-dioxygenase, which may influence the pathophysiology of ASD. In conclusion, this review suggests that T. gondii infection could act as a potential risk factor for ASD. However, further intensive studies are necessary to clarify the role of this parasite in the etiology and progression of ASD. This review is anticipated to stimulate further studies aimed at understanding and potentially reducing the burden of neurodevelopmental disorders worldwide.
+## Results
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:56.042053'
 acquisition_method: paperscraper_automated
 audience:
@@ -41,9 +42,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Structural Brain Asymmetries in Youths with Combined and Inattentive Presentations of Attention Deficit Hyperactivity Disorder
 
-**Authors:** Cintya Nirvana Dutta, Pamela K. Douglas, Hernando Ombao
+# **Authors:** Cintya Nirvana Dutta, Pamela K. Douglas, Hernando Ombao
 
 **Publication Date:** 2020-10-26
 
@@ -51,14 +54,14 @@ type: research_paper
 
 ## Abstract
 
-Alterations in structural brain laterality are reported in attention-deficit/hyperactivity disorder (ADHD). However, few studies examined differences within presentations of ADHD. We investigate asymmetry index (AI) across 13 subcortical and 33 cortical regions from anatomical metrics of volume, surface area, and thickness. Structural T1-weighted MRI data were obtained from youths with inattentive (n = 64) and combined (n = 51) presentations, and aged-matched controls (n = 298). We used a linear mixed effect model that accounts for data site heterogeneity, while studying associations between AI and covariates of presentation and age. Our paper contributes to the functional results seen among ADHD presentations evidencing disrupted connectivity in motor networks from ADHD-C and cingulo-frontal networks from ADHD-I, as well as new findings in the temporal cortex and default mode subnetworks. Age patterns of structural asymmetries vary with presentation type. Linear mixed effects model is a practical tool for characterizing associations between brain asymmetries, diagnosis, and neurodevelopment.
+## Results
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, adhd, growth_hormones
 **Search Query:** attention deficit brain structure
 **Acquisition Date:** 2025-10-21

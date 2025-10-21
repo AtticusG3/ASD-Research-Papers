@@ -57,10 +57,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 The First World Congress on Tourette Syndrome and Tic Disorders: Controversies and Hot Topics in Etiology and Treatment - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -88,8 +84,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Frontiers in Neuroscience logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-frontneurosci.gif)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-frontneurosci.gif)
 Front Neurosci
 . 2016 Jun 7;10:246. doi: [10.3389/fnins.2016.00246](https://doi.org/10.3389/fnins.2016.00246)
 # The First World Congress on Tourette Syndrome and Tic Disorders: Controversies and Hot Topics in Etiology and Treatment
@@ -115,8 +110,7 @@ This article was submitted to Child and Adolescent Psychiatry, a section of the 
 Received 2016 Feb 16; Accepted 2016 May 18; Collection date 2016.
 Copyright © 2016 Mathews and Stern.
 This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC4894886  PMID: [27375411](https://pubmed.ncbi.nlm.nih.gov/27375411/)
+[PMC ncbi.nlm.nih.gov/27375411/)
 ## Abstract
 The first World Congress on Tourette Syndrome and Tic Disorders was held in London, June 2016 by the Tourette Association of America, Tourettes Action (UK), and the European Society for the Study of Tourette Syndrome. Presentations arising from large-scale collaborative projects were an important component of the scientific programme. This article focuses on areas raised in the hot topics session and two moderated debates, which covered emerging research in etiology and treatment. The hot topics ranged across genetics, arguably including the first confirmed Tourette Syndrome (TS) susceptibility gene *NRXN1*, neurocognition, and neurophysiology, including the possibility of a neurocognitive endophenotype for TS and the use of depth and cortical surface electrodes to investigate the neurophysiology of tics on the background of the evolving field of deep brain stimulation (DBS), to novel treatment approaches such as dental orthotics and an online behavioral intervention. The debates aired controversies in treatment; pharmacotherapy vs. behavioral treatment and the place of medical cannabinoids. These sessions demonstrate the vibrancy of a field that has considerably expanded in the last decade, the significant progress that has been made, and the direction that some of the most fruitful next phases of research will take.
 **Keywords:** Tourette, tics, deep brain stimulation, dopamine, GWAS
@@ -253,7 +247,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, prevalence_data, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

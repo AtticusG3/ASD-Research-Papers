@@ -149,16 +149,7 @@ website accessibility
 Termedia
 About us
 Contact
-Copyright notice
-Privacy policy
-Advertising policy
-Contact us
-Quick links
-Journals
-Books
-eBooks
-Events
-© 2025 Termedia Sp. z o.o.
+ z o.o.
 Developed by
 Bentus
 .

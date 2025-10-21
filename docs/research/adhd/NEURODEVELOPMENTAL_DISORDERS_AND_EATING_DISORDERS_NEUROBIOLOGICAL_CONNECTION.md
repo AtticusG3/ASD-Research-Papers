@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.304056'
 acquisition_method: paperscraper_automated
 audience:
@@ -35,9 +36,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # NEURODEVELOPMENTAL DISORDERS AND EATING DISORDERS: NEUROBIOLOGICAL CONNECTION.
 
-**Authors:** ['GiadaJuli', 'RebeccaJuli', 'AlfredoJuli', 'LuigiJuli']
+# **Authors:** ['GiadaJuli', 'RebeccaJuli', 'AlfredoJuli', 'LuigiJuli']
 
 **Journal:** Psychiatria Danubina
 
@@ -45,7 +48,7 @@ type: research_paper
 
 ## Abstract
 
-In the recent years, the co-occurrence of Neurodevelopmental disorders (NDDs) with Eating disorders (EDs) has gained increasing recognition, through multiple cross-sectional and longitudinal studies that demonstrated a significant overlap between these two conditions. This review aims to explore the neurobiological connections, the comorbidity and the shared pathways that relate these disorders, summarizing current findings.
+## Results
 
 ---
 

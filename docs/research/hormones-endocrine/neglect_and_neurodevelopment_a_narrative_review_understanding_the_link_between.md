@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.365207'
 acquisition_method: paperscraper_automated
 audience:
@@ -30,9 +31,11 @@ topics: []
 type: research_paper
 ---
 
+
+
 # Neglect and Neurodevelopment: A Narrative Review Understanding the Link Between Child Neglect and Executive Function Deficits.
 
-**Authors:** ['SilviaHerrero-Roldán', 'AlexandraMartín-Rodríguez']
+# **Authors:** ['SilviaHerrero-Roldán', 'AlexandraMartín-Rodríguez']
 
 **Journal:** Biomedicines
 
@@ -42,7 +45,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 
@@ -50,7 +53,7 @@ type: research_paper
 
 **Source:** PUBMED
 **Category:** hormones
-**Primary Topics:** 
+**Primary Topics:**
 **Search Query:** cortisol neurodevelopmental
 **Acquisition Date:** 2025-10-21
 

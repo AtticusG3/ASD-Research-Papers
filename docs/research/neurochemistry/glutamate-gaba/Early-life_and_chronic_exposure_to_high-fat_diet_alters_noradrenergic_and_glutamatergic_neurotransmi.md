@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.156017'
 acquisition_method: paperscraper_automated
 audience:
@@ -42,9 +43,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Early-life and chronic exposure to high-fat diet alters noradrenergic and glutamatergic neurotransmission in the male rat amygdala and hippocampus under cognitive challenges.
 
-**Authors:** ['DanielOsorio-Gómez', 'Claudia IPerez', 'PamelaSalcedo-Tello', 'ArturoHernández-Matias', 'SusanaHernández-Ramírez', 'BenjaminArroyo', 'GustavoPacheco-López', 'RanierGutierrez', 'FedericoBermúdez-Rattoni', 'KiokoGuzmán-Ramos', 'NoneNone']
+# **Authors:** ['DanielOsorio-Gómez', 'Claudia IPerez', 'PamelaSalcedo-Tello', 'ArturoHernández-Matias', 'SusanaHernández-Ramírez', 'BenjaminArroyo', 'GustavoPacheco-López', 'RanierGutierrez', 'FedericoBermúdez-Rattoni', 'KiokoGuzmán-Ramos', 'NoneNone']
 
 **Journal:** Journal of neuroscience research
 
@@ -54,7 +57,7 @@ type: research_paper
 
 ## Abstract
 
-Childhood obesity increases the risk of health and cognitive disorders in adulthood. Consuming high-fat diets (HFD) during critical neurodevelopmental periods, like childhood, impairs cognition and memory in humans and animals, affecting the function and connectivity of brain structures related to emotional memory. However, the underlying mechanisms of such phenomena need to be better understood. This study aimed to investigate the neurochemical profile of the amygdala and hippocampus, brain structures involved in emotional memory, during the acquisition of conditioned odor aversion in male rats that consumed a HFD from weaning to adulthood. The rats gained weight, experienced metabolic changes, and reduced insulin sensitivity and glucose tolerance. Rats showed enhanced odor aversion memory, contrary to the expected cognitive impairments. This memory enhancement was accompanied by increased noradrenergic and glutamatergic neurotransmission in the amygdala and hippocampus. Importantly, this upregulation was specific to stimuli exposure, as basal neurotransmitter levels remained unaltered by the HFD. Our results suggest that HFD modifies cognitive function by altering neurochemical signaling, in this case, upregulating neurotransmitter levels rendering a stronger memory trace, demonstrating that metabolic dysfunctions do not only trigger exclusively detrimental plasticity processes but also render enhanced plastic effects depending on the type of information.
+## Results
 
 ---
 

@@ -51,16 +51,12 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Twenty years of research on attention-deficit/hyperactivity disorder (ADHD): looking back, looking forward | Evidence Based Mental Health
 Skip to main content
 Intended for healthcare professionals
 [Home](/)/[Archive](/content/by/year)/[Volume 21, Issue 4](/content/21/4)
 Clinical review•
-[Request permissions![request permission icon](/next-resources/vector.svg?cb=7bef0408)](https://s100.copyright.com/AppDispatchServlet?publisherName=BMJ&publication=ebmental&oa=n&title=Twenty%20years%20of%20research%20on%20attention-deficit/hyperactivity%20disorder%20(ADHD):%20looking%20back,%20looking%20forward&publicationDate=2018-10-30&author=Samuele%20Cortese,%20David%20Coghill&contentID=10.1136/ebmental-2018-300050&volumeNum=21&issueNum=4&startPage=173&endPage=176&numPages=&copyright=Copyright%20%C2%A9%20:YEAR:,%20The%20Author(s).%20Published%20by%20BMJ%20Publishing%20Group%20Ltd.&orderBeanReset=true)
+[svg?cb=7bef0408)](https://s100.copyright.com/AppDispatchServlet?publisherName=BMJ&publication=ebmental&oa=n&title=Twenty%20years%20of%20research%20on%20attention-deficit/hyperactivity%20disorder%20(ADHD):%20looking%20back,%20looking%20forward&publicationDate=2018-10-30&author=Samuele%20Cortese,%20David%20Coghill&contentID=10.1136/ebmental-2018-300050&volumeNum=21&issueNum=4&startPage=173&endPage=176&numPages=&copyright=Copyright%20%C2%A9%20:YEAR:,%20The%20Author(s).%20Published%20by%20BMJ%20Publishing%20Group%20Ltd.&orderBeanReset=true)
 [Download PDF ![](/next-resources/download-pdf.svg?cb=96d67f66)](/ebmental/21/4/173.full.pdf)
 # Twenty years of research on attention-deficit/hyperactivity disorder (ADHD): looking back, looking forward
 Author affiliations
@@ -259,7 +255,6 @@ Overview
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, prevalence_data, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

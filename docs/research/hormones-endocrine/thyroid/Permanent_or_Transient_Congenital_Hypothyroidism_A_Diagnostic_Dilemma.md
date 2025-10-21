@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.481544'
 acquisition_method: paperscraper_automated
 audience:
@@ -37,9 +38,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Permanent or Transient Congenital Hypothyroidism: A Diagnostic Dilemma.
 
-**Authors:** ['DermitzakiNiki', 'SerbisAnastasios', 'BaltogianniMaria', 'BalomenouFoteini', 'GiaprosVasileios']
+# **Authors:** ['DermitzakiNiki', 'SerbisAnastasios', 'BaltogianniMaria', 'BalomenouFoteini', 'GiaprosVasileios']
 
 **Journal:** Acta paediatrica (Oslo, Norway : 1992)
 
@@ -49,7 +52,7 @@ type: research_paper
 
 ## Abstract
 
-Distinguishing between transient congenital hypothyroidism (TCH) and permanent congenital hypothyroidism (PCH) remains clinically challenging and is typically deferred until the age of 2-3 years, to minimise the potential risk of adverse neurodevelopmental effects due to treatment cessation. However, evidence suggests that earlier discrimination may be feasible, thus avoiding unnecessary, potentially harmful, prolonged levothyroxine (LT4) treatment. This narrative review aims to provide an overview of the current literature regarding potential predictive markers for distinguishing PCH from TCH. A comprehensive search of the PubMed and Google Scholar databases was independently performed by two authors to identify studies that evaluated the utility of several predictive factors. A total of 27 studies were included. The most commonly proposed predictors were thyroid imaging findings, thyroid-stimulating hormone (TSH) levels at diagnosis, LT4 doses at various time points during the treatment period, absolute daily LT4 dose, and episodes of TSH elevation above the reference interval during treatment. Despite these advances, no single marker or combination of markers has yet proven definitive in reliably differentiating PCH from TCH. Further research is needed to establish predictive models that could facilitate the early identification of TCH and the timely and safe treatment withdrawal.
+## Results
 
 ---
 

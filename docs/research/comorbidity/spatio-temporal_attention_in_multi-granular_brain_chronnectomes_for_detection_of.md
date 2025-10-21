@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.942964'
 acquisition_method: paperscraper_automated
 audience:
@@ -38,9 +39,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Spatio-Temporal Attention in Multi-Granular Brain Chronnectomes for Detection of Autism Spectrum Disorder
 
-**Authors:** James Orme-Rogers, Ajitesh Srivastava
+# **Authors:** James Orme-Rogers, Ajitesh Srivastava
 
 **Publication Date:** 2022-10-30
 
@@ -48,14 +51,14 @@ type: research_paper
 
 ## Abstract
 
-The traditional methods for detecting autism spectrum disorder (ASD) are expensive, subjective, and time-consuming, often taking years for a diagnosis, with many children growing well into adolescence and even adulthood before finally confirming the disorder. Recently, graph-based learning techniques have demonstrated impressive results on resting-state functional magnetic resonance imaging (rs-fMRI) data from the Autism Brain Imaging Data Exchange (ABIDE). We introduce IMAGIN, a multI-granular, Multi-Atlas spatio-temporal attention Graph Isomorphism Network, which we use to learn graph representations of dynamic functional brain connectivity (chronnectome), as opposed to static connectivity (connectome). The experimental results demonstrate that IMAGIN achieves a 5-fold cross-validation accuracy of 79.25%, which surpasses the current state-of-the-art by 1.5%. In addition, analysis of the spatial and temporal attention scores provides further validation for the neural basis of autism.
+## Methods
 
 ---
 
 ## Research Details
 
 **Source:** ARXIV
-**Category:** 
+**Category:**
 **Primary Topics:** tourette_syndrome, asd
 **Search Query:** autism spectrum disorder neurochemistry
 **Acquisition Date:** 2025-10-21

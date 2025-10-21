@@ -51,10 +51,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Twenty years of research on attention-deficit/hyperactivity disorder (ADHD): looking back, looking forward - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -82,8 +78,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Evidence-Based Mental Health logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-evidmh.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-evidmh.png)
 Evid Based Ment Health
 . 2018 Oct 27;21(4):173–176. doi: [10.1136/ebmental-2018-300050](https://doi.org/10.1136/ebmental-2018-300050)
 # Twenty years of research on attention-deficit/hyperactivity disorder (ADHD): looking back, looking forward
@@ -133,8 +128,7 @@ Royal Children’s Hospital, Melbourne, Victoria, Australia
 Correspondence to Dr Samuele Cortese, Academic Unit of Psychology and Clinical and Experimental Sciences (CNS and Psychiatry), University of Southampton, Southampton SO17 1BJ, UK; samuele.cortese@gmail.com
 Received 2018 Aug 10; Revised 2018 Sep 6; Accepted 2018 Sep 13; Issue date 2018 Nov.
 © Author(s) (or their employer(s)) 2018. No commercial re-use. See rights and permissions. Published by BMJ.
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC10270437  PMID: [30301823](https://pubmed.ncbi.nlm.nih.gov/30301823/)
+[PMC ncbi.nlm.nih.gov/30301823/)
 ## Abstract
 In this clinical review we summarise what in our view have been some the most important advances in the past two decades, in terms of diagnostic definition, epidemiology, genetics and environmental causes, neuroimaging/cognition and treatment of attention-deficit/hyperactivity disorder (ADHD), including: (1) the most recent changes to the diagnostic criteria in the Diagnostic and Statistical Manual of Mental Disorders and International Classification of Diseases; (2) meta-analytic evidence showing that, after accounting for diagnostic methods, the rates of ADHD are fairly consistent across Western countries; (3) the recent finding of the first genome-wide significant risk loci for ADHD; (4) the paradigm shift in the pathophysiological conceptualisation of ADHD from alterations in individual brain regions to a complex dysfunction in brain networks; (5) evidence supporting the short-term efficacy of ADHD pharmacological treatments, with a different profile of efficacy and tolerability in children/adolescents versus adults; (6) a series of meta-analyses showing that, while non-pharmacological treatment may not be effective to target ADHD core symptoms, some of them effectively address ADHD-related impairments (such as oppositional behaviours for parent training and working memory deficits for cognitive training). We also discuss key priorities for future research in each of these areas of investigation. Overall, while many research questions have been answered, many others need to be addressed. Strengthening multidisciplinary collaborations, relying on large data sets in the spirit of Open Science and supporting research in less advantaged countries will be key to face the challenges ahead.
 ## Introduction
@@ -387,7 +381,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, prevalence_data, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

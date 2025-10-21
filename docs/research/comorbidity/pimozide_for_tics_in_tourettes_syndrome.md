@@ -45,10 +45,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Pimozide for tics in Tourette's syndrome - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -76,8 +72,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![The Cochrane Database of Systematic Reviews logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-cochrev.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-cochrev.png)
 Cochrane Database Syst Rev
 . 2009 Apr 15;2009(2):CD006996. doi: [10.1002/14651858.CD006996.pub2](https://doi.org/10.1002/14651858.CD006996.pub2)
 # Pimozide for tics in Tourette's syndrome
@@ -100,8 +95,7 @@ Editor: Cochrane Movement Disorders Group
 Corresponding author.
 Collection date 2009 Apr.
 Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC7212051  PMID: [19370666](https://pubmed.ncbi.nlm.nih.gov/19370666/)
+[PMC ncbi.nlm.nih.gov/19370666/)
 This article is an update of [the article](https://doi.org/10.1002/14651858.CD006996) with doi: [10.1002/14651858.CD006996](https://doi.org/10.1002/14651858.CD006996).
 ## Abstract
 ### Background
@@ -499,7 +493,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, ocd, children, adolescents, adults, behavioral_therapy, pharmacological, psychotherapy, randomized_controlled_trial, prevalence_data, treatment_outcomes
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 

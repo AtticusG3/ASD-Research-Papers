@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.687041'
 acquisition_method: paperscraper_automated
 audience:
@@ -34,9 +35,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Sexuality and Related Disorders in OCD and Their Symptoms.
 
-**Authors:** ['Javier Ide la Iglesia-Larrad', 'Ramón KristoferGonzález-Bolaños', 'Isabel MaríaPeso Navarro', 'Rubénde Alarcón', 'Nerea MCasado-Espada', 'Ángel LMontejo']
+# **Authors:** ['Javier Ide la Iglesia-Larrad', 'Ramón KristoferGonzález-Bolaños', 'Isabel MaríaPeso Navarro', 'Rubénde Alarcón', 'Nerea MCasado-Espada', 'Ángel LMontejo']
 
 **Journal:** Journal of clinical medicine
 
@@ -46,7 +49,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 

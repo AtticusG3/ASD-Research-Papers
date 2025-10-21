@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:40.202920'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:54.710611'
@@ -49,9 +50,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Executive functioning in adolescents with internalizing disorders: a systematic review.
 
-**Authors:** ['Géraldine PFontaine', 'Kimberly VBlake', 'NastassjaKoen', 'Dan JStein', 'ÅsaHammar', 'Nynke AGroenewold']
+# **Authors:** ['Géraldine PFontaine', 'Kimberly VBlake', 'NastassjaKoen', 'Dan JStein', 'ÅsaHammar', 'Nynke AGroenewold']
 
 **Journal:** European child & adolescent psychiatry
 
@@ -61,7 +64,7 @@ type: research_paper
 
 ## Abstract
 
-Internalizing disorders (INTs), including anxiety (AD) and depressive disorders (DD), frequently emerge during adolescence. Studies suggest that certain core domains of executive functioning (EF), i.e. inhibition, shifting and working memory (WM) may show selectively lower performance in certain INTs. This systematic review aimed to evaluate the evidence of associations between INTs and EF in adolescents. A systematic search was conducted in Medline, Psych-INFO, Scopus, and Web of Science in May 2023. Inclusion focused on adolescents (12-17) with AD (including obsessive-compulsive disorder (OCD) and post-traumatic stress disorder (PTSD)) or DD. After screening 2,551 titles/abstracts, 818 records underwent full-text review, on which independent reviewers reached 93% agreement on eligibility. EF parameters, measured through task-performance or ratings, were extracted from 32 eligible articles published since 2014. Performance-based EF differences were reported in 22 studies, most frequently in adolescents with DD. Task-based inhibition showed lower scores most consistently in DD (n = 5). Findings were mixed across other INTs. Three studies found evidence for improved inhibition performance in OCD (n = 2) and AD (n = 1). Finally, 6 studies reporting on self- or parent-rated EF found significant difficulties across EF domains, of which 3 contrasted with intact performances on task-based measurements of EF. Findings suggest both objective and subjective EF difficulties across INTs with no conclusive evidence for selective domain-specific differences. We highlight a discrepancy between subjectively experienced or observed deficits in daily EF and performance on structured tasks. This suggests that rating-based EF may be more sensitive for capturing subtle EF difficulties and therefore adds value in research and clinical settings. Finally, the quality of studies is discussed and directions for future studies are identified, namely, the use of both task and rating-based measures of EF as well as inclusion of larger sample sizes.
+## Introduction
 
 ---
 

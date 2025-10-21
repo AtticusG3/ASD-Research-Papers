@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.786822'
 acquisition_method: paperscraper_automated
 audience:
@@ -54,9 +55,11 @@ topics:
 type: research_paper
 ---
 
-# Epigenetics and Environmental Exposures in Early Neurodevelopment: Implications for Pediatric Neurological Disorders.
 
-**Authors:** ['HassanJubair']
+
+## Discussion
+
+# **Authors:** ['HassanJubair']
 
 **Journal:** Sage open pediatrics
 
@@ -66,7 +69,7 @@ type: research_paper
 
 ## Abstract
 
-Pediatric neurological disorders such as autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD) are increasingly understood to arise from complex interactions between genetics and environmental factors. Emerging evidence highlights the role of epigenetic mechanisms, particularly DNA methylation, histone modification, and non-coding RNAs, in mediating how early-life exposures shape brain development. This review synthesizes findings from 48 recent studies, including human cohorts and animal models, linking prenatal stress, maternal nutrition, endocrine disruptors, and air pollution to epigenetic alterations that disrupt neurogenesis, synaptic plasticity, and neural differentiation. These mechanisms offer insight into clinical phenomena and open potential for early screening and epigenetic interventions in pediatric neurology. The main finding reveals that early environmental exposures can leave lasting epigenetic marks that significantly influence neurodevelopment and contribute to pediatric neurological disorders.
+## Results
 
 ---
 

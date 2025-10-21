@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.793687'
 acquisition_method: paperscraper_automated
 audience:
@@ -36,9 +37,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Effect of Parental-Child Age Gaps and Skipped-Generation Families on Comorbidities Related to Attention Deficit Hyperactivity Disorder: A Population-Based Case-Control Study.
 
-**Authors:** ['Hueng-ChuenFan', 'Fang-ChuanKuo', 'Jen-YuLee', 'Yu-MeiChang', 'Kuo-TungChiang', 'Kuo-LiangChiang']
+# **Authors:** ['Hueng-ChuenFan', 'Fang-ChuanKuo', 'Jen-YuLee', 'Yu-MeiChang', 'Kuo-TungChiang', 'Kuo-LiangChiang']
 
 **Journal:** Children (Basel, Switzerland)
 
@@ -48,7 +51,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 

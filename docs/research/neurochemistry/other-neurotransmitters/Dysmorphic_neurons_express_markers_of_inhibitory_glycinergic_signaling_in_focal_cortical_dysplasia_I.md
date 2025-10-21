@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.341185'
 acquisition_method: paperscraper_automated
 audience:
@@ -36,9 +37,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Dysmorphic neurons express markers of inhibitory glycinergic signaling in focal cortical dysplasia IIb.
 
-**Authors:** ['AmeeshaPaliwal', 'KevinFaust', 'Okty AbbasiBorhani', 'MugengLiu', 'LaurenOmoto', 'Evelyn RoseKamski-Hennekam', 'Parsa BabaeiZadeh', 'Rifat ShahriarSajid', 'PhediasDiamandis']
+# **Authors:** ['AmeeshaPaliwal', 'KevinFaust', 'Okty AbbasiBorhani', 'MugengLiu', 'LaurenOmoto', 'Evelyn RoseKamski-Hennekam', 'Parsa BabaeiZadeh', 'Rifat ShahriarSajid', 'PhediasDiamandis']
 
 **Journal:** Brain pathology (Zurich, Switzerland)
 
@@ -48,7 +51,7 @@ type: research_paper
 
 ## Abstract
 
-Focal cortical dysplasia (FCD) is a neurodevelopmental malformation that often manifests as medically refractory epilepsy. A key histological hallmark of FCD type II is the presence of cytomegalic dysmorphic neurons (CDNs), which are considered to be major contributors to cortical network hyperexcitability. However, the relatively low frequency of CDNs within resected lesions has challenged their unbiased molecular characterization. Here, we leverage deep learning approaches to objectively map key anatomical compartments of FCD IIb and guide regional spatial transcriptomic profiling. Using this approach, we generate an anatomical transcriptional catalog of type IIb FCD, and uncover non-canonical markers of signaling and neurotransmitter pathways in CDNs that may serve as new therapeutic targets for this debilitating disorder.
+## Introduction
 
 ---
 

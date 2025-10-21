@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:55.698741'
 acquisition_method: paperscraper_automated
 audience:
@@ -47,9 +48,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Autism Spectrum Disorders and Personality Disorders: Differential Diagnosis or Comorbidity?
 
-**Authors:** ['TiagoFigueiredo', 'LeonardoCaixeta']
+# **Authors:** ['TiagoFigueiredo', 'LeonardoCaixeta']
 
 **Journal:** Trends in psychiatry and psychotherapy
 
@@ -59,7 +62,7 @@ type: research_paper
 
 ## Abstract
 
-The clinical overlap between autism spectrum disorder (ASD) and Personality Disorders (PDs) poses significant diagnostic challenges. Shared features-such as social communication difficulties, rigidity, and emotional dysregulation-often lead to misdiagnosis or delayed diagnosis, especially in adults and underrepresented populations (e.g., women). This narrative review synthesizes current evidence on the differential diagnosis and comorbidity of ASD and PDs to guide clinical practice. Findings highlight substantial symptom overlap, particularly in social cognition and emotional regulation. For instance, both ASD and Schizotypal PD may exhibit social withdrawal, while ASD and Borderline PD share impulsivity and identity disturbances-though with distinct etiologies (neurodevelopmental vs. trauma-related). Clinicians must adopt a developmental perspective to disentangle ASD from PDs, integrating longitudinal history, neuropsychological testing, and multidisciplinary evaluations. Future research should prioritize biomarker-based diagnostics and tailored interventions for comorbid presentations.
+## Results
 
 ---
 

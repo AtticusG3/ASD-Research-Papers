@@ -1,4 +1,5 @@
 ---
+
 abstract_fix_date: '2025-10-21T17:30:37.457808'
 abstract_fixed: true
 acquisition_date: '2025-10-21T16:20:55.251103'
@@ -38,9 +39,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Age- and alcohol-related differences in adolescent neurometabolite levels.
 
-**Authors:** ['Maria IPerica', 'Anna EKirkland', 'LouiseMewton', 'Lindsay MSqueglia']
+# **Authors:** ['Maria IPerica', 'Anna EKirkland', 'LouiseMewton', 'Lindsay MSqueglia']
 
 **Journal:** bioRxiv : the preprint server for biology
 
@@ -50,7 +53,7 @@ type: research_paper
 
 ## Abstract
 
-Adolescence is a critical period for neurometabolite maturation as well as the onset of alcohol use, yet remains underexplored despite its significance for long-term neurodevelopmental outcomes. We used 3T proton magnetic resonance spectroscopy (MRS) to examine age- and alcohol-related associations with six neurometabolites in dorsal anterior cingulate cortex (dACC) that are involved in key neural functions: glutamate + glutamine (Glx), GABA plus macromolecules (GABA+), total N-acetylaspartate (tNAA), total choline (tCho), total creatine (tCr), and 
+## Results
 
 ---
 

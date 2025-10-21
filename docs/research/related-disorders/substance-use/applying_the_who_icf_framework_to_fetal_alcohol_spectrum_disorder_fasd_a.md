@@ -1,4 +1,5 @@
 ---
+
 acquisition_date: '2025-10-21T16:20:54.922804'
 acquisition_method: paperscraper_automated
 audience:
@@ -36,9 +37,11 @@ topics:
 type: research_paper
 ---
 
+
+
 # Applying the WHO ICF Framework to Fetal Alcohol Spectrum Disorder (FASD): A Forensic and Clinical Perspective on Disability Assessment and Patient Support.
 
-**Authors:** ['DavideFerorelli', 'FrancescoCalò', 'GianmarcoSirago', 'DaniaComparcini', 'FilippoGibelli', 'FrancescoSessa', 'MarcoCarotenuto', 'BiagioSolarino', 'MonicaSalerno']
+# **Authors:** ['DavideFerorelli', 'FrancescoCalò', 'GianmarcoSirago', 'DaniaComparcini', 'FilippoGibelli', 'FrancescoSessa', 'MarcoCarotenuto', 'BiagioSolarino', 'MonicaSalerno']
 
 **Journal:** Healthcare (Basel, Switzerland)
 
@@ -48,7 +51,7 @@ type: research_paper
 
 ## Abstract
 
-
+## Introduction
 
 ---
 

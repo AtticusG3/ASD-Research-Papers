@@ -55,10 +55,6 @@ treatments:
 type: research_paper
 ---
 
-
-
-
-
 Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome - PMC
 [Skip to main content](#main-content)
 ![](/static/img/icon-dot-gov.svg)
@@ -86,8 +82,7 @@ the contents by NLM or the National Institutes of Health.
 Learn more:
 [PMC Disclaimer](/about/disclaimer/)
 |
-[PMC Copyright Notice](/about/copyright/)
-![Sage Choice logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-sageopen.png)
+[PMC ncbi.nlm.nih.gov/pmc/banners/logo-sageopen.png)
 J Child Neurol
 . 2013 Oct;28(10):1305–1308. doi: [10.1177/0883073812457462](https://doi.org/10.1177/0883073812457462)
 # Parent and Self-Report Health-Related Quality of Life Measures in Young Patients With Tourette Syndrome
@@ -180,8 +175,7 @@ Attribution-NonCommercial 3.0 License (<http://www.creativecommons.org/licenses/
 non-commercial use, reproduction and distribution of the work without further permission
 provided the original work is attributed as specified on the SAGE and Open Access
 page(<http://www.uk.sagepub.com/aboutus/openaccess.htm>).
-[PMC Copyright notice](/about/copyright/)
-PMCID: PMC4107773  PMID: [22952315](https://pubmed.ncbi.nlm.nih.gov/22952315/)
+[PMC ncbi.nlm.nih.gov/22952315/)
 ## Abstract
 Tourette syndrome is a neurodevelopmental disorder characterized by tics and comorbid
 behavioral problems. This study compared child- and parent-reported quality of life and
@@ -544,7 +538,6 @@ Back to Top
 **Search Tags**: tourette_syndrome, adhd, autism_spectrum, ocd, mental_health, children, adolescents, adults, behavioral_therapy, psychotherapy, unknown, prevalence_data, comorbidity_analysis, quality_of_life
 
 *This document has been optimized for searchability in OpenWebUI knowledge base.*
-
 
 ---
 
