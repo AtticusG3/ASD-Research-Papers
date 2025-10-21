@@ -1,0 +1,22 @@
+# Recent Advances in the Etiology and Neural Pathways Underlying Attention-Deficit and Hyperactivity Disorder.
+
+**DOI:** 10.12865/CHSJ.51.01.02
+**Journal:** Current health sciences journal
+**Date:** 2025-07-18
+**Authors:** ['MonicaGrigore', 'Marius ViorelIonică', 'LilianaPătru', 'VictorGheorman', 'Aurel PopaWagner']
+**Category:** adhd
+**Source:** pubmed
+**Scraped by:** agent_a
+**Scraped at:** 2025-10-21T11:00:11.511061
+**Source URL:** https://pubmed.ncbi.nlm.nih.gov/?term=10.12865/CHSJ.51.01.02
+
+## Abstract
+
+The prevalence of mental disorders is increasing across the European Union, with at least one in four individuals expected to experience a psychiatric condition at some point in their lifetime. Notably, men and women often present with distinct symptomatology. Among neuropsychiatric disorders, attention-deficit/hyperactivity disorder (ADHD) is the most common and functionally impairing condition in childhood, affecting approximately 5% of minors. Its persistence into adulthood is substantial, with prevalence estimates reaching up to 3% in adult populations. ADHD is characterized by dysregulated dopaminergic signaling, which disrupts reward processing and motivation. Additionally, disturbances in circadian rhythms contribute to sleep dysregulation and metabolic dysfunction, further exacerbating symptom severity. While both mechanisms have been well-documented, their interaction remains insufficiently explored, particularly regarding its implications for diagnosis and treatment optimization. Future research should systematically examine the interplay between dopaminergic and noradrenergic dysfunction and circadian disruptions in ADHD, particularly in relation to symptom expression and comorbid conditions. Experimental paradigms assessing reward processing may provide valuable insights into dopamine and norepinephrine system alterations, while chronotherapeutic interventions-such as light therapy, sleep regulation, and behavioral adjustments-hold promise as potential therapeutic strategies. By integrating perspectives from neurobiology, chronobiology, and psychopharmacology, a more refined and individualized approach to ADHD management can be developed. Advancing this understanding may not only enhance ADHD treatment strategies but also yield novel therapeutic avenues for addressing its frequently co-occurring conditions.
+
+## Full Text Content
+
+Abstract AbstractThe prevalence of mental disorders is increasing across the European Union, with at least one in four individuals expected to experience a psychiatric condition at some point in their lifetime. Notably, men and women often present with distinct symptomatology. Among neuropsychiatric disorders, attention-deficit/hyperactivity disorder (ADHD) is the most common and functionally impairing condition in childhood, affecting approximately 5% of minors. Its persistence into adulthood is substantial, with prevalence estimates reaching up to 3% in adult populations. ADHD is characterized by dysregulated dopaminergic signaling, which disrupts reward processing and motivation. Additionally, disturbances in circadian rhythms contribute to sleep dysregulation and metabolic dysfunction, further exacerbating symptom severity. While both mechanisms have been well-documented, their interaction remains insufficiently explored, particularly regarding its implications for diagnosis and treatment optimization. Future research should systematically examine the interplay between dopaminergic and noradrenergic dysfunction and circadian disruptions in ADHD, particularly in relation to symptom expression and comorbid conditions. Experimental paradigms assessing reward processing may provide valuable insights into dopamine and norepinephrine system alterations, while chronotherapeutic interventions-such as light therapy, sleep regulation, and behavioral adjustments-hold promise as potential therapeutic strategies. By integrating perspectives from neurobiology, chronobiology, and psychopharmacology, a more refined and individualized approach to ADHD management can be developed. Advancing this understanding may not only enhance ADHD treatment strategies but also yield novel therapeutic avenues for addressing its frequently co-occurring conditions.Keywords:ADHD management; Attention-deficit; dopamine; hyperactivity disorder; norepinephrine.
+
+---
+*This content was automatically scraped by Webscraping Agent A*
